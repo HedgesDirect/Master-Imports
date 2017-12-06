@@ -1,0 +1,12 @@
+Version:16,,,,,,,,,,,,,,,,,,,,,,,,
+Header:Product,Product Reference,Short Description,Price,Pricing Model,Assembly Product,,,,,,,,,,,,,,,,,,,
+Header:Component,Component Name,Price,Quantity,Name HTML,Is Optional,Selected by default,Associated Product Reference,Uses Associated Product Prices,Uses Associated Product Name,Uses Associated Product Tax,Component As Separate Order Line,Include No Choice Label,No Choice Label Text,IsDeleted,Content Category,Use Associated Product Shipping,Include Grid of Choice Details,Include Prices,Hide Out of Stock Options,PermutationLayout,PermutationPrice,ComponentAttributeList,AttributeList,ComponentLayout
+Product,BUXS-BR-DPK-20/30-50,"Box (Buxus Sempervirens) 20/30cm bare roots, discounted pack of 50",9452,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-20/30,0,50,BUXS-BR-20/30,0,1,BUXS-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,NTTN-PB-40/60-500,"National Trust, Traditional Native Disconted Pack of 1000 mixed bare roots",16999,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-40/60,0,250,CRA-BR-40/60,0,1,CRA-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Component,PRUS-BR-40/60,0,50,PRUS-BR-40/60,0,1,PRUS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Component,ACE-BR-40/60,0,50,ACE-BR-40/60,0,1,ACE-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Component,ROS-BR-40/60,0,50,ROS-BR-40/60,0,1,ROS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Component,COR-BR-40/60,0,50,COR-BR-40/60,0,1,COR-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Component,MAL-BR-40/60,0,50,MAL-BR-40/60,0,1,MAL-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
