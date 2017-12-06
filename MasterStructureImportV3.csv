@@ -38,6 +38,8 @@ Product,FAGS-PG-90/120-5L,FAGS,Beech-(Fagus-Sylvatica)-90-120cm-5L-pot.html,FAGS
 Product,FAGS-RB-150/175,FAGS,Beech-(Fagus-Sylvatica)-150-175cm-Root-ball.html,FAGS-RB-150/175,Beech - Green,Beech 150/175cm Root ball
 Product,FAGS-RB-175/200,FAGS,Beech-(Fagus-Sylvatica)-175-200cm-Root-ball.html,FAGS-RB-175/200,Beech - Green,Beech 175/200cm Root ball
 Product,FAGS-RB-200/225,FAGS,Beech-(Fagus-Sylvatica)-200-225cm-Root-ball.html,FAGS-RB-200/225,Beech - Green,Beech 200/225cm Root ball
+Product,FAGS-IH-100/120-40L,FAGS,Beech-Fagus-Sylvatica-40L-100-120cm-1-Metre-trough.html,FAGS-IH-100/120-40L,Beech - Green,Beech 40L 100/120cm 1 Metre trough
+Product,FAGS-IH-150/175-90L,FAGS,Beech-Fagus-Sylvatica-90L-150-175cm-1-Metre-trough.html,FAGS-IH-150/175-90L,Beech - Green,Beech 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Beech - Purple / Copper,FAGP,Purple_Beech_Fagus_Sylvatica_Purpurea.html,,,
 Product,FAGP-BR-120/150,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-120-150cm-bare-root.html,FAGP-BR-120/150,Beech - Purple / Copper,Purple Beech 120/150cm bare root
@@ -53,6 +55,7 @@ Product,FAGP-PG-90/120-5L,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-90-12
 Product,FAGP-RB-150/175,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-150-175cm-Root-ball.html,FAGP-RB-150/175,Beech - Purple / Copper,Purple Beech 150/175cm Root ball
 Product,FAGP-RB-175/200,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-175-200cm-Root-ball.html,FAGP-RB-175/200,Beech - Purple / Copper,Purple Beech 175/200cm Root ball
 Product,FAGP-RB-200/225,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-200-225cm-Root-ball.html,FAGP-RB-200/225,Beech - Purple / Copper,Purple Beech 200/225cm Root ball
+Product,FAGP-IH-100/120-40L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-40L-100-120cm-1-Metre-trough.html,FAGP-IH-100/120-40L,Beech - Purple / Copper,Purple Beech 40L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Berberis darwinii,BERD,Berberis_darwinii_Darwins_Barberry_.html,,,
 Product,BERD-PG-20/30-2L,BERD,Darwins-Barberry-(Berberis-darwinii)-20-30cm-2L-pot.html,BERD-PG-20/30-2L,Berberis darwinii,Darwins Barberry 20/30cm 2L pot
@@ -123,6 +126,8 @@ Product,BUXS-RB-40/50,BUXS,Box-(Buxus-sempervirens)-40-50cm-Root-ball.html,BUXS-
 Product,BUXS-RB-50/60,BUXS,Box-(Buxus-sempervirens)-50-60cm-Root-ball.html,BUXS-RB-50/60,Box,Box 50/60cm Root ball
 Product,BUXS-RB-60/80,BUXS,Box-(Buxus-sempervirens)-60-80cm-Root-ball.html,BUXS-RB-60/80,Box,Box 60/80cm Root ball
 Product,BUXS-RB-80/100,BUXS,Box-(Buxus-sempervirens)-80-100cm-Root-ball.html,BUXS-RB-80/100,Box,Box 80/100cm Root ball
+Product,BUXS-IH-30/40-15L,BUXS,Box-Buxus-sempervirens-15L-30-40cm-50cm-trough.html,BUXS-IH-30/40-15L,Box,Box 15L 30/40cm 50cm trough
+Product,BUXS-IH-60/80-90L,BUXS,Box-Buxus-sempervirens-90L-60-80cm-1-Metre-trough.html,BUXS-IH-60/80-90L,Box,Box 90L 60/80cm 1 Metre trough
 End,Section,,,,,
 Section,Box Compact / Dwarf,BUSU,box_compact_hedge.html,,,
 Product,BUSU-BR-15/20,BUSU,Dwarf-Box-(Buxus-suffruticosa)-15-20cm-bare-root.html,BUSU-BR-15/20,Box Compact / Dwarf,Dwarf Box 15/20cm bare root
@@ -309,6 +314,8 @@ Product,CRA-PG-90/120-2L,CRA,Hawthorn-(Craetagus-monogyna)-90-120cm-2L-pot.html,
 Product,CRA-PG-90/120-5L,CRA,Hawthorn-(Craetagus-monogyna)-90-120cm-5L-pot.html,CRA-PG-90/120-5L,Hawthorn,Hawthorn 90/120cm 5L pot
 Product,CRA-RB-150/175,CRA,Hawthorn-(Craetagus-monogyna)-150-175cm-Root-ball.html,CRA-RB-150/175,Hawthorn,Hawthorn 150/175cm Root ball
 Product,CRA-RB-175/200,CRA,Hawthorn-(Craetagus-monogyna)-175-200cm-Root-ball.html,CRA-RB-175/200,Hawthorn,Hawthorn 175/200cm Root ball
+Product,CRA-IH-100/120-40L,CRA,Hawthorn-Craetagus-monogyna-40L-100-120cm-1-Metre-trough.html,CRA-IH-100/120-40L,Hawthorn,Hawthorn 40L 100/120cm 1 Metre trough
+Product,CRA-IH-150/175-90L,CRA,Hawthorn-Craetagus-monogyna-90L-150-175cm-1-Metre-trough.html,CRA-IH-150/175-90L,Hawthorn,Hawthorn 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Hazel,COR,hazel_hedge.html,,,
 Product,COR-BR-120/150,COR,Hazel-(Corylus-avellana)-120-150cm-bare-root.html,COR-BR-120/150,Hazel,Hazel 120/150cm bare root
@@ -345,6 +352,8 @@ Product,ILE-RB-150/175,ILE,English-Holly-(Ilex-aquifolium)-150-175cm-Root-ball.h
 Product,ILE-RB-175/200,ILE,English-Holly-(Ilex-aquifolium)-175-200cm-Root-ball.html,ILE-RB-175/200,Holly - English,English Holly 175/200cm Root ball
 Product,ILE-RB-200/225,ILE,English-Holly-(Ilex-aquifolium)-200-225cm-Root-ball.html,ILE-RB-200/225,Holly - English,English Holly 200/225cm Root ball
 Product,ILE-RB-80/100,ILE,English-Holly-(Ilex-aquifolium)-80-100cm-Root-ball.html,ILE-RB-80/100,Holly - English,English Holly 80/100cm Root ball
+Product,ILE-IH-100/120-40L,ILE,English-Holly-Ilex-aquifolium-40L-100-120cm-1-Metre-trough.html,ILE-IH-100/120-40L,Holly - English,English Holly 40L 100/120cm 1 Metre trough
+Product,ILE-IH-150/175-90L,ILE,English-Holly-Ilex-aquifolium-90L-150-175cm-1-Metre-trough.html,ILE-IH-150/175-90L,Holly - English,English Holly 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Holly - Silver,ILAM,silver_holly.html,,,
 Product,ILAM-PG-20/40-2L,ILAM,Silver-Holly-(Ilex-aquifolium-Argentea-Marginata)-20-40cm-2L-pot.html,ILAM-PG-20/40-2L,Holly - Silver,Silver Holly 20/40cm 2L pot
@@ -372,6 +381,8 @@ Product,CARP-PG-90/120-5L,CARP,Hornbeam-(Carpinus-betulus)-90-120cm-5L-pot.html,
 Product,CARP-RB-150/175,CARP,Hornbeam-(Carpinus-betulus)-150-175cm-Root-ball.html,CARP-RB-150/175,Hornbeam,Hornbeam 150/175cm Root ball
 Product,CARP-RB-175/200,CARP,Hornbeam-(Carpinus-betulus)-175-200cm-Root-ball.html,CARP-RB-175/200,Hornbeam,Hornbeam 175/200cm Root ball
 Product,CARP-RB-200/225,CARP,Hornbeam-(Carpinus-betulus)-200-225cm-Root-ball.html,CARP-RB-200/225,Hornbeam,Hornbeam 200/225cm Root ball
+Product,CARP-IH-100/120-40L,CARP,Hornbeam-Carpinus-betulus-40L-100-120cm-1-Metre-trough.html,,Hornbeam,Hornbeam 40L 100/120cm 1 Metre trough
+Product,CARP-IH-150/175-40L,CARP,Hornbeam-Carpinus-betulus-90L-150-175cm-1-Metre-trough.html,,Hornbeam,Hornbeam 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Hypericum hidcote,HYP,St-Johns-Wart-Hypericum-Hidcote.html,,,
 Product,HYP-PG-20/40-2L,HYP,St-Johns-Wart-(Hypericum-Hidcote)-20-40cm-2L-pot.html,HYP-PG-20/40-2L,Hypericum hidcote,St John's Wart 20/40cm 2L pot
@@ -384,6 +395,7 @@ Product,ILEC-PG-20/40-2L,ILEC,Japanese-Holly-(Ilex-crenata)-20-40cm-2L-pot.html,
 Product,ILEC-PG-40/60-5L,ILEC,Japanese-Holly-(Ilex-crenata)-40-60cm-5L-pot.html,ILEC-PG-40/60-5L,Ilex Crenata,Japanese Holly 40/60cm 5L pot
 Product,ILEC-RB-60/80,ILEC,Japanese-Holly-(Ilex-crenata)-60-80cm-Root-ball.html,ILEC-RB-60/80,Ilex Crenata,Japanese Holly 60/80cm Root ball
 Product,ILEC-RB-80/100,ILEC,Japanese-Holly-(Ilex-crenata)-80-100cm-Root-ball.html,ILEC-RB-80/100,Ilex Crenata,Japanese Holly 80/100cm Root ball
+Product,ILEC-IH-100/120-90L,ILEC,Japanese-Holly-Ilex-crenata-90L-100-120cm-1-Metre-trough.html,ILEC-IH-100/120-90L,Ilex Crenata,Japanese Holly 90L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Irish Ivy,IIVY,Ivy.html,,,
 Product,IIVY-PG-60/90-2L,IIVY,Irish-Ivy-(Hedera-Hibernica)-60-90cm-2L-pot.html,IIVY-PG-60/90-2L,Irish Ivy,Irish Ivy 60/90cm 2L pot
@@ -433,6 +445,8 @@ Product,PRLR-RB-175/200,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-17
 Product,PRLR-RB-200/225,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-200-225cm-Root-ball.html,PRLR-RB-200/225,Laurel - Cherry,Cherry laurel 200/225cm Root ball
 Product,PRLR-RB-60/80,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-60-80cm-Root-ball.html,PRLR-RB-60/80,Laurel - Cherry,Cherry laurel 60/80cm Root ball
 Product,PRLR-RB-80/100,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-80-100cm-Root-ball.html,PRLR-RB-80/100,Laurel - Cherry,Cherry laurel 80/100cm Root ball
+Product,PRLR-IH-100/120-40L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-40L-100-120cm-1-Metre-trough.html,PRLR-IH-100/120-40L,Laurel - Cherry,Cherry Laurel 40L 100/120cm 1 Metre trough
+Product,PRLR-IH-150/175-90L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-90L-150-175cm-1-Metre-trough.html,PRLR-IH-150/175-90L,Laurel - Cherry,Cherry Laurel 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Laurel - Compact,PRLO,Compact_Laurel_Hedge_Prunus_Laurocerasus_Otto_Luyken.html,,,
 Product,PRLO-BR-20/30,PRLO,Compact-Laurel-Hedging-(Prunus-laurocerasus-Otto-Luyken)-20-30cm-bare-root.html,PRLO-BR-20/30,Laurel - Compact,Compact laurel 20/30cm bare root
@@ -462,6 +476,8 @@ Product,PRUL-RB-175/200,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-175-200cm-Roo
 Product,PRUL-RB-200/225,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-200-225cm-Root-ball.html,PRUL-RB-200/225,Laurel - Portuguese,Portuguese laurel 200/225cm Root ball
 Product,PRUL-RB-60/80,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-60-80cm-Root-ball.html,PRUL-RB-60/80,Laurel - Portuguese,Portuguese laurel 60/80cm Root ball
 Product,PRUL-RB-80/100,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-80-100cm-Root-ball.html,PRUL-RB-80/100,Laurel - Portuguese,Portuguese laurel 80/100cm Root ball
+Product,PRUL-IH-100/120-40L,PRUL,Portuguese-Laurel-Prunus-lusitanica-40L-100-120cm-1-Metre-trough.html,PRUL-IH-100/120-40L,Laurel - Portuguese,Portuguese Laurel 40L 100/120cm 1 Metre trough
+Product,PRUL-IH-150/175-90L,PRUL,Portuguese-Laurel-Prunus-lusitanica-90L-150-175cm-1-Metre-trough.html,PRUL-IH-150/175-90L,Laurel - Portuguese,Portuguese Laurel 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Laurel - Spotted,AUC,spotted-laurel-aucuba-japonica-crotonifolia.html,,,
 Product,AUC-PG-30/40-2L,AUC,Spotted-Laurel-(Aucuba-japonica-Crotonifolia)-30-40cm-2L-pot.html,AUC-PG-30/40-2L,Laurel - Spotted,Spotted Laurel 30/40cm 2L pot
@@ -521,6 +537,7 @@ Product,LON-PG-40/60-2L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-40-60cm-2L-pot
 Product,LON-PG-40/60-5L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-40-60cm-5L-pot.html,LON-PG-40/60-5L,Lonicera nitida,Lonicera nitida 40/60cm 5L pot
 Product,LON-PG-60/90-2L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-60-90cm-2L-pot.html,LON-PG-60/90-2L,Lonicera nitida,Lonicera nitida 60/90cm 2L pot
 Product,LON-PG-60/90-5L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-60-90cm-5L-pot.html,LON-PG-60/90-5L,Lonicera nitida,Lonicera nitida 60/90cm 5L pot
+Product,LON-IH-100/120-90L,LON,Shrubby-Honeysuckle-Lonicera-nitida-90L-100-120cm-1-Metre-trough.html,LON-IH-100/120-90L,Lonicera nitida,Lonicera nitida 90L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Lonicera nitida 'Baggesen's Gold',LONN,lonicera_nitida_bagessens_gold.html,,,
 Product,LONN-PG-20/40-2L,LONN,Lonicera-nitida-Baggesens-Gold-(Golden-Honeysuckle)-20-40cm-2L-pot.html,LONN-PG-20/40-2L,Lonicera nitida 'Baggesen's Gold',Golden Honeysuckle 20/40cm 2L pot
@@ -583,6 +600,8 @@ Product,PHO-RB-125/150,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-125
 Product,PHO-RB-150/175,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-150-175cm-Root-ball.html,PHO-RB-150/175,Photinia Red Robin,Photinia 'Red Robin' 150/175cm Root ball
 Product,PHO-RB-175/200,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-175-200cm-Root-ball.html,PHO-RB-175/200,Photinia Red Robin,Photinia 'Red Robin' 175/200cm Root ball
 Product,PHO-RB-200/225,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-200-225cm-Root-ball.html,PHO-RB-200/225,Photinia Red Robin,Photinia 'Red Robin' 200/225cm Root ball
+Product,PHO-IH-90/120-40L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-40L-90-120cm-1-Metre-trough.html,PHO-IH-90/120-40L,Photinia Red Robin,Photinia 'Red Robin' 40L 90/120cm 1 Metre trough
+Product,PHO-IH-150/175-90L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-90L-150-175cm-1-Metre-trough.html,PHO-IH-150/175-90L,Photinia Red Robin,Photinia 'Red Robin' 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Potentilla Pink,POTP,Pink-Potentilla-(Potentilla-Pink-Beauty).html,,,
 Product,POTP-PG-20/40-2L,POTP,Pink-Potentilla-(Potentilla-Pink-Beauty)-20-40cm-2L-pot.html,POTP-PG-20/40-2L,Potentilla Pink,Pink Potentilla 20/40cm 2L pot
@@ -603,6 +622,7 @@ Product,LIGA-BR-60/90,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-60-90cm-
 Product,LIGA-PG-40/60-2L,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-40-60cm-2L-pot.html,LIGA-PG-40/60-2L,Privet - Golden,Golden Privet 40/60cm 2L pot
 Product,LIGA-PG-60/90-2L,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-60-90cm-2L-pot.html,LIGA-PG-60/90-2L,Privet - Golden,Golden Privet 60/90cm 2L pot
 Product,LIGA-PG-90/120-5L,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-90-120cm-5L-pot.html,LIGA-PG-90/120-5L,Privet - Golden,Golden Privet 90/120cm 5L pot
+Product,LIGA-IH-100/120-40L,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-40L-100-120cm-1-Metre-trough.html,LIGA-IH-100/120-40L,Privet - Golden,Golden Privet 40L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Privet - Green,LIGO,common_privet_hedge.html,,,
 Product,LIGO-BR-120/150,LIGO,Common-Privet-(Ligustrum-ovalifolium)-120-150cm-bare-root.html,LIGO-BR-120/150,Privet - Green,Common Privet 120/150cm bare root
@@ -623,6 +643,8 @@ Product,LIGO-RB-150/175,LIGO,Common-Privet-(Ligustrum-ovalifolium)-150-175cm-Roo
 Product,LIGO-RB-175/200,LIGO,Common-Privet-(Ligustrum-ovalifolium)-175-200cm-Root-ball.html,LIGO-RB-175/200,Privet - Green,Common Privet 175/200cm Root ball
 Product,LIGO-RB-200/225,LIGO,Common-Privet-(Ligustrum-ovalifolium)-200-225cm-Root-ball.html,LIGO-RB-200/225,Privet - Green,Common Privet 200/225cm Root ball
 Product,LIGO-RB-225/250,LIGO,Common-Privet-(Ligustrum-ovalifolium)-225-250cm-Root-ball.html,LIGO-RB-225/250,Privet - Green,Common Privet 225/250cm Root ball
+Product,LIGO-IH-100/120-40L,LIGO,Common-Privet-Ligustrum-ovalifolium-40L-100-120cm-1-Metre-trough.html,LIGO-IH-100/120-40L,Privet - Green,Common Privet 40L 100/120cm 1 Metre trough
+Product,LIGO-IH-150/175-90L,LIGO,Common-Privet-Ligustrum-ovalifolium-90L-150-175cm-1-Metre-trough.html,LIGO-IH-150/175-90L,Privet - Green,Common Privet 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Privet - Wild,LIG,wild_privet_hedge.html,,,
 Product,LIG-BR-40/60,LIG,Wild-Privet-(Ligustrum-Vulgare)-40-60cm-bare-root.html,LIG-BR-40/60,Privet - Wild,Wild Privet 40/60cm bare root
@@ -725,6 +747,7 @@ Product,THUJ-RB-150/175,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-150-17
 Product,THUJ-RB-175/200,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-175-200cm-Root-ball.html,THUJ-RB-175/200,Western Red Cedar,Western red cedar 175/200cm Root ball
 Product,THUJ-RB-200/225,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-200-225cm-Root-ball.html,THUJ-RB-200/225,Western Red Cedar,Western red cedar 200/225cm Root ball
 Product,THUJ-RB-225/250,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-225-250cm-Root-ball.html,THUJ-RB-225/250,Western Red Cedar,Western red cedar 225/250cm Root ball
+Product,THU-IH-150/175-90L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-90L-150-175cm-1-Metre-trough.html,THU-IH-150/175-90L,Western Red Cedar,Western Red Cedar 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Wild Cherry,PRUA,wild_cherry_hedge.html,,,
 Product,PRUA-BR-120/150,PRUA,Wild-Cherry-(Prunus-Avium)-120-150cm-bare-root.html,PRUA-BR-120/150,Wild Cherry,Wild Cherry 120/150cm bare root
@@ -760,5 +783,7 @@ Product,TAX-RB-175/200,TAX,English-Yew-(Taxus-baccata)-175-200cm-Root-ball.html,
 Product,TAX-RB-200/225,TAX,English-Yew-(Taxus-baccata)-200-225cm-Root-ball.html,TAX-RB-200/225,Yew - English,English Yew 200/225cm Root ball
 Product,TAX-RB-60/80,TAX,English-Yew-(Taxus-baccata)-60-80cm-Root-ball.html,TAX-RB-60/80,Yew - English,English Yew 60/80cm Root ball
 Product,TAX-RB-80/100,TAX,English-Yew-(Taxus-baccata)-80-100cm-Root-ball.html,TAX-RB-80/100,Yew - English,English Yew 80/100cm Root ball
+Product,TAX-IH-80/100-40L,TAX,English-Yew-Taxus-baccata-40L-80-100cm-1-Metre-trough.html,TAX-IH-80/100-40L,Yew - English,English Yew 40L 80/100cm 1 Metre trough
+Product,TAX-IH-150/175-90L,TAX,English-Yew-Taxus-baccata-90L-150-175cm-1-Metre-trough.html,TAX-IH-150/175-90L,Yew - English,English Yew 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 End,Section,,,,,
