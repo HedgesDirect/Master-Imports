@@ -1,8 +1,8 @@
 Version:16,,,,,,
-Header:Section,Section Name,Species Section Code,Product Page Name,,,
+Header:Section,Section Name,Species Section Code,Page Name,,,
 Header:Product,Product Reference,Species Code,Product Page Name,Barcode,Parent Section ,Short Description
 Section,Hedging by Species,,,,,
-Section,Alder,ALN,alder-hedging-alnus glutinosa.html,,,
+Section,Alder,ALN,alder-hedging-alnus-glutinosa.html,,,
 Product,ALN-BR-120/150,ALN,Alder-(Alnus-glutinosa)-120-150cm-bare-root.html,ALN-BR-120/150,Alder,Alder 120/150cm bare root
 Product,ALN-BR-150/180,ALN,Alder-(Alnus-glutinosa)-150-180cm-bare-root.html,ALN-BR-150/180,Alder,Alder 150/180cm bare root
 Product,ALN-BR-40/60,ALN,Alder-(Alnus-glutinosa)-40-60cm-bare-root.html,ALN-BR-40/60,Alder,Alder 40/60cm bare root
