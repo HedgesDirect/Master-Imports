@@ -10,8 +10,8 @@ Product,ALN-BR-60/90,ALN,Alder-Alnus-glutinosa-60-90cm-bare-root.html,ALN-BR-60/
 Product,ALN-BR-90/120,ALN,Alder-Alnus-glutinosa-90-120cm-bare-root.html,ALN-BR-90/120,Alder,Alder 90/120cm bare root
 Product,ALN-PG-30/50-CG,ALN,Alder-Alnus-glutinosa-30-50cm-cell-grown.html,ALN-PG-30/50-CG,Alder,Alder 30/50cm Cell grown
 End,Section,,,,,
-Section,Bamboo - Black,PHYN,Black-Bamboo-Phyllostachis-nigra.html,,,
-Product,PHYN-PG-150/200-10L,PHYN,Black-Bamboo-Phyllostachis-nigra-150-200cm-10L-pot.html,PHYN-PG-150/200-10L,Bamboo - Black,Black Bamboo 150/200cm 10L pot
+Section,Bamboo - Black,PHYN,Black-Bamboo-Phyllostachys-nigra.html,,,
+Product,PHYN-PG-150/200-10L,PHYN,Black-Bamboo-Phyllostachys-nigra-150-200cm-10L-pot.html,PHYN-PG-150/200-10L,Bamboo - Black,Black Bamboo 150/200cm 10L pot
 End,Section,,,,,
 Section,Bamboo - Golden,PHYA,Golden-Bamboo-Phyllostachys-aureum.html,,,
 Product,PHYA-PG-150/200-10L,PHYA,Golden-Bamboo-Phyllostachys-aureum-150-200cm-10L-pot.html,PHYA-PG-150/200-10L,Bamboo - Golden,Golden Bamboo 150/200cm 10L pot
@@ -22,7 +22,7 @@ End,Section,,,,,
 Section,Bamboo - Umbrella,PHYJ,Umbrella-Bamboo-Fargesia-Murielae.html,,,
 Product,PHYJ-PG-50/70-5L,PHYJ,Umbrella-Bamboo-Fargesia-Murielae-50-70cm-5L-pot.html,PHYJ-PG-50/70-5L,Bamboo - Umbrella,Umbrella Bamboo 50/70cm 5L pot
 End,Section,,,,,
-Section,Beech - Green,FAGS,beech-hedgung-fagus-sylvatica.html,,,
+Section,Beech - Green,FAGS,beech-hedging-fagus-sylvatica.html,,,
 Product,FAGS-BR-120/150,FAGS,Beech-Fagus-Sylvatica-120-150cm-bare-root.html,FAGS-BR-120/150,Beech - Green,Beech 120/150cm bare root
 Product,FAGS-BR-150/180,FAGS,Beech-Fagus-Sylvatica-150-180cm-bare-root.html,FAGS-BR-150/180,Beech - Green,Beech 150/180cm bare root
 Product,FAGS-BR-180/200,FAGS,Beech-Fagus-Sylvatica-180-200cm-bare-root.html,FAGS-BR-180/200,Beech - Green,Beech 180/200cm bare root
