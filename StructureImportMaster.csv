@@ -2,801 +2,838 @@ Version:16,,,,,,
 Header:Section,Section Name,Species Section Code,Page Name,,,
 Header:Product,Product Reference,Species Code,Product Page Name,Barcode,Parent Section ,Short Description
 Section,Hedging by Species,,,,,
+<<<<<<< HEAD
 Section,Alder,ALN,alder-hedging-alnus-glutinosa.html,,,
 Product,ALN-BR-120/150,ALN,Alder-(Alnus-glutinosa)-120-150cm-bare-root.html,ALN-BR-120/150,Alder,Alder 120/150cm bare root
 Product,ALN-BR-150/180,ALN,Alder-(Alnus-glutinosa)-150-180cm-bare-root.html,ALN-BR-150/180,Alder,Alder 150/180cm bare root
 Product,ALN-BR-40/60,ALN,Alder-(Alnus-glutinosa)-40-60cm-bare-root.html,ALN-BR-40/60,Alder,Alder 40/60cm bare root
 Product,ALN-BR-60/90,ALN,Alder-(Alnus-glutinosa)-60-90cm-bare-root.html,ALN-BR-60/90,Alder,Alder 60/90cm bare root
 Product,ALN-BR-90/120,ALN,Alder-(Alnus-glutinosa)-90-120cm-bare-root.html,ALN-BR-90/120,Alder,Alder 90/120cm bare root
+=======
+Section,Alder,ALN,alder-hedging-alnus glutinosa.html,,,
+Product,ALN-BR-120/150,ALN,Alder-Alnus-glutinosa-120-150cm-bare-root.html,ALN-BR-120/150,Alder,Alder 120/150cm bare root
+Product,ALN-BR-150/180,ALN,Alder-Alnus-glutinosa-150-180cm-bare-root.html,ALN-BR-150/180,Alder,Alder 150/180cm bare root
+Product,ALN-BR-40/60,ALN,Alder-Alnus-glutinosa-40-60cm-bare-root.html,ALN-BR-40/60,Alder,Alder 40/60cm bare root
+Product,ALN-BR-60/90,ALN,Alder-Alnus-glutinosa-60-90cm-bare-root.html,ALN-BR-60/90,Alder,Alder 60/90cm bare root
+Product,ALN-BR-90/120,ALN,Alder-Alnus-glutinosa-90-120cm-bare-root.html,ALN-BR-90/120,Alder,Alder 90/120cm bare root
+Product,ALN-PG-30/50-CG,ALN,Alder-Alnus-glutinosa-30-50cm-cell-grown.html,ALN-PG-30/50-CG,Alder,Alder 30/50cm Cell grown
+>>>>>>> 062d18268f0d86ffeae8233ab930f20f0b14f70e
 End,Section,,,,,
-Section,Bamboo - Black,PHYN,Black-Bamboo-Phyllostachis-nigra.html,,,
-Product,PHYN-PG-150/200-10L,PHYN,Black-Bamboo-(Phyllostachis-nigra)-150-200cm-10L-pot.html,PHYN-PG-150/200-10L,Bamboo - Black,Black Bamboo 150/200cm 10L pot
+Section,Bamboo - Black,PHYN,Black-Bamboo-Phyllostachys-nigra.html,,,
+Product,PHYN-PG-150/200-10L,PHYN,Black-Bamboo-Phyllostachys-nigra-150-200cm-10L-pot.html,PHYN-PG-150/200-10L,Bamboo - Black,Black Bamboo 150/200cm 10L pot
 End,Section,,,,,
 Section,Bamboo - Golden,PHYA,Golden-Bamboo-Phyllostachys-aureum.html,,,
-Product,PHYA-PG-150/200-10L,PHYA,Golden-Bamboo-(Phyllostachys-aureum)-150-200cm-10L-pot.html,PHYA-PG-150/200-10L,Bamboo - Golden,Golden Bamboo 150/200cm 10L pot
+Product,PHYA-PG-150/200-10L,PHYA,Golden-Bamboo-Phyllostachys-aureum-150-200cm-10L-pot.html,PHYA-PG-150/200-10L,Bamboo - Golden,Golden Bamboo 150/200cm 10L pot
 End,Section,,,,,
 Section,Bamboo - Green,PHYB,Green-Bamboo-Phyllostachys-bissetii.html,,,
-Product,PHYB-PG-150/200-10L,PHYB,Green-Bamboo-(Phyllostachys-bissetii)-150-200-10L-pot.html,PHYB-PG-150/200-10L,Bamboo - Green,Green Bamboo 150/200cm 10L pot
+Product,PHYB-PG-150/200-10L,PHYB,Green-Bamboo-Phyllostachys-bissetii-150-200-10L-pot.html,PHYB-PG-150/200-10L,Bamboo - Green,Green Bamboo 150/200cm 10L pot
 End,Section,,,,,
 Section,Bamboo - Umbrella,PHYJ,Umbrella-Bamboo-Fargesia-Murielae.html,,,
-Product,PHYJ-PG-50/70-5L,PHYJ,Umbrella-Bamboo-(Fargesia-Murielae)-50-70cm-5L-pot.html,PHYJ-PG-50/70-5L,Bamboo - Umbrella,Umbrella Bamboo 50/70cm 5L pot
+Product,PHYJ-PG-50/70-5L,PHYJ,Umbrella-Bamboo-Fargesia-Murielae-50-70cm-5L-pot.html,PHYJ-PG-50/70-5L,Bamboo - Umbrella,Umbrella Bamboo 50/70cm 5L pot
 End,Section,,,,,
-Section,Beech - Green,FAGS,beech-hedgung-fagus-sylvatica.html,,,
-Product,FAGS-BR-120/150,FAGS,Beech-(Fagus-Sylvatica)-120-150cm-bare-root.html,FAGS-BR-120/150,Beech - Green,Beech 120/150cm bare root
-Product,FAGS-BR-150/180,FAGS,Beech-(Fagus-Sylvatica)-150-180cm-bare-root.html,FAGS-BR-150/180,Beech - Green,Beech 150/180cm bare root
-Product,FAGS-BR-180/200,FAGS,Beech-(Fagus-Sylvatica)-180-200cm-bare-root.html,FAGS-BR-180/200,Beech - Green,Beech 180/200cm bare root
-Product,FAGS-BR-40/60,FAGS,Beech-(Fagus-Sylvatica)-40-60cm-bare-root.html,FAGS-BR-40/60,Beech - Green,Beech 40/60cm bare root
-Product,FAGS-BR-60/90,FAGS,Beech-(Fagus-Sylvatica)-60-90cm-bare-root.html,FAGS-BR-60/90,Beech - Green,Beech 60/90cm bare root
-Product,FAGS-BR-90/120,FAGS,Beech-(Fagus-Sylvatica)-90-120cm-bare-root.html,FAGS-BR-90/120,Beech - Green,Beech 90/120cm bare root
-Product,FAGS-PG-120/150-5L,FAGS,Beech-(Fagus-Sylvatica)-120-150cm-5L-pot.html,FAGS-PG-120/150-5L,Beech - Green,Beech 120/150cm 5L pot
-Product,FAGS-PG-150/175-20L,FAGS,Beech-(Fagus-Sylvatica)-150-175cm-20L-pot.html,FAGS-PG-150/175-20L,Beech - Green,Beech 150/175cm 20L pot
-Product,FAGS-PG-175/200-10L,FAGS,Beech-(Fagus-Sylvatica)-175-200cm-10L-pot.html,FAGS-PG-175/200-10L,Beech - Green,Beech 175/200cm 10L pot
-Product,FAGS-PG-40/60-2L,FAGS,Beech-(Fagus-Sylvatica)-40-60cm-2L-pot.html,FAGS-PG-40/60-2L,Beech - Green,Beech 40/60cm 2L pot
-Product,FAGS-PG-60/90-2L,FAGS,Beech-(Fagus-Sylvatica)-60-90cm-2L-pot.html,FAGS-PG-60/90-2L,Beech - Green,Beech 60/90cm 2L pot
-Product,FAGS-PG-90/120-3L,FAGS,Beech-(Fagus-Sylvatica)-90-120cm-3L-pot.html,FAGS-PG-90/120-3L,Beech - Green,Beech 90/120cm 3L pot
-Product,FAGS-PG-90/120-5L,FAGS,Beech-(Fagus-Sylvatica)-90-120cm-5L-pot.html,FAGS-PG-90/120-5L,Beech - Green,Beech 90/120cm 5L pot
-Product,FAGS-RB-150/175,FAGS,Beech-(Fagus-Sylvatica)-150-175cm-Root-ball.html,FAGS-RB-150/175,Beech - Green,Beech 150/175cm Root ball
-Product,FAGS-RB-175/200,FAGS,Beech-(Fagus-Sylvatica)-175-200cm-Root-ball.html,FAGS-RB-175/200,Beech - Green,Beech 175/200cm Root ball
-Product,FAGS-RB-200/225,FAGS,Beech-(Fagus-Sylvatica)-200-225cm-Root-ball.html,FAGS-RB-200/225,Beech - Green,Beech 200/225cm Root ball
+Section,Beech - Green,FAGS,beech-hedging-fagus-sylvatica.html,,,
+Product,FAGS-BR-120/150,FAGS,Beech-Fagus-Sylvatica-120-150cm-bare-root.html,FAGS-BR-120/150,Beech - Green,Beech 120/150cm bare root
+Product,FAGS-BR-150/180,FAGS,Beech-Fagus-Sylvatica-150-180cm-bare-root.html,FAGS-BR-150/180,Beech - Green,Beech 150/180cm bare root
+Product,FAGS-BR-180/200,FAGS,Beech-Fagus-Sylvatica-180-200cm-bare-root.html,FAGS-BR-180/200,Beech - Green,Beech 180/200cm bare root
+Product,FAGS-BR-40/60,FAGS,Beech-Fagus-Sylvatica-40-60cm-bare-root.html,FAGS-BR-40/60,Beech - Green,Beech 40/60cm bare root
+Product,FAGS-BR-60/90,FAGS,Beech-Fagus-Sylvatica-60-90cm-bare-root.html,FAGS-BR-60/90,Beech - Green,Beech 60/90cm bare root
+Product,FAGS-BR-90/120,FAGS,Beech-Fagus-Sylvatica-90-120cm-bare-root.html,FAGS-BR-90/120,Beech - Green,Beech 90/120cm bare root
+Product,FAGS-PG-30/50-CG,FAGS,Beech-Fagus-Sylvatica-30-50cm-cell-grown.html,FAGS-PG-30/50-CG,Beech - Green,Beech 30/50cm Cell grown
+Product,FAGS-PG-120/150-5L,FAGS,Beech-Fagus-Sylvatica-120-150cm-5L-pot.html,FAGS-PG-120/150-5L,Beech - Green,Beech 120/150cm 5L pot
+Product,FAGS-PG-150/175-20L,FAGS,Beech-Fagus-Sylvatica-150-175cm-20L-pot.html,FAGS-PG-150/175-20L,Beech - Green,Beech 150/175cm 20L pot
+Product,FAGS-PG-175/200-10L,FAGS,Beech-Fagus-Sylvatica-175-200cm-10L-pot.html,FAGS-PG-175/200-10L,Beech - Green,Beech 175/200cm 10L pot
+Product,FAGS-PG-40/60-2L,FAGS,Beech-Fagus-Sylvatica-40-60cm-2L-pot.html,FAGS-PG-40/60-2L,Beech - Green,Beech 40/60cm 2L pot
+Product,FAGS-PG-60/90-2L,FAGS,Beech-Fagus-Sylvatica-60-90cm-2L-pot.html,FAGS-PG-60/90-2L,Beech - Green,Beech 60/90cm 2L pot
+Product,FAGS-PG-90/120-3L,FAGS,Beech-Fagus-Sylvatica-90-120cm-3L-pot.html,FAGS-PG-90/120-3L,Beech - Green,Beech 90/120cm 3L pot
+Product,FAGS-PG-90/120-5L,FAGS,Beech-Fagus-Sylvatica-90-120cm-5L-pot.html,FAGS-PG-90/120-5L,Beech - Green,Beech 90/120cm 5L pot
+Product,FAGS-RB-150/175,FAGS,Beech-Fagus-Sylvatica-150-175cm-Root-ball.html,FAGS-RB-150/175,Beech - Green,Beech 150/175cm Root ball
+Product,FAGS-RB-175/200,FAGS,Beech-Fagus-Sylvatica-175-200cm-Root-ball.html,FAGS-RB-175/200,Beech - Green,Beech 175/200cm Root ball
+Product,FAGS-RB-200/225,FAGS,Beech-Fagus-Sylvatica-200-225cm-Root-ball.html,FAGS-RB-200/225,Beech - Green,Beech 200/225cm Root ball
 Product,FAGS-IH-100/120-40L,FAGS,Beech-Fagus-Sylvatica-40L-100-120cm-1-Metre-trough.html,FAGS-IH-100/120-40L,Beech - Green,Beech 40L 100/120cm 1 Metre trough
 Product,FAGS-IH-150/175-90L,FAGS,Beech-Fagus-Sylvatica-90L-150-175cm-1-Metre-trough.html,FAGS-IH-150/175-90L,Beech - Green,Beech 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Beech - Purple / Copper,FAGP,Purple_Beech_Fagus_Sylvatica_Purpurea.html,,,
-Product,FAGP-BR-120/150,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-120-150cm-bare-root.html,FAGP-BR-120/150,Beech - Purple / Copper,Purple Beech 120/150cm bare root
-Product,FAGP-BR-150/180,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-150-180cm-bare-root.html,FAGP-BR-150/180,Beech - Purple / Copper,Purple Beech 150/180cm bare root
-Product,FAGP-BR-40/60,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-40-60cm-bare-root.html,FAGP-BR-40/60,Beech - Purple / Copper,Purple Beech 40/60cm bare root
-Product,FAGP-BR-60/90,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-60-90cm-bare-root.html,FAGP-BR-60/90,Beech - Purple / Copper,Purple Beech 60/90cm bare root
-Product,FAGP-BR-90/120,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-90-120cm-bare-root.html,FAGP-BR-90/120,Beech - Purple / Copper,Purple Beech 90/120cm bare root
-Product,FAGP-PG-120/150-5L,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-120-150cm-5L-pot.html,FAGP-PG-120/150-5L,Beech - Purple / Copper,Purple Beech 120/150cm 5L pot
-Product,FAGP-PG-40/60-2L,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-40-60cm-2L-pot.html,FAGP-PG-40/60-2L,Beech - Purple / Copper,Purple Beech 40/60cm 2L pot
-Product,FAGP-PG-60/90-2L,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-60-90cm-2L-pot.html,FAGP-PG-60/90-2L,Beech - Purple / Copper,Purple Beech 60/90cm 2L pot
-Product,FAGP-PG-90/120-3L,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-90-120cm-3L-pot.html,FAGP-PG-90/120-3L,Beech - Purple / Copper,Purple Beech 90/120cm 3L pot
-Product,FAGP-PG-90/120-5L,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-90-120cm-5L-pot.html,FAGP-PG-90/120-5L,Beech - Purple / Copper,Purple Beech 90/120cm 5L pot
-Product,FAGP-RB-150/175,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-150-175cm-Root-ball.html,FAGP-RB-150/175,Beech - Purple / Copper,Purple Beech 150/175cm Root ball
-Product,FAGP-RB-175/200,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-175-200cm-Root-ball.html,FAGP-RB-175/200,Beech - Purple / Copper,Purple Beech 175/200cm Root ball
-Product,FAGP-RB-200/225,FAGP,Purple-Beech-(Fagus-Sylvatica-Atropurpurea)-200-225cm-Root-ball.html,FAGP-RB-200/225,Beech - Purple / Copper,Purple Beech 200/225cm Root ball
+Product,FAGP-BR-120/150,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-120-150cm-bare-root.html,FAGP-BR-120/150,Beech - Purple / Copper,Purple Beech 120/150cm bare root
+Product,FAGP-BR-150/180,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-150-180cm-bare-root.html,FAGP-BR-150/180,Beech - Purple / Copper,Purple Beech 150/180cm bare root
+Product,FAGP-BR-40/60,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-40-60cm-bare-root.html,FAGP-BR-40/60,Beech - Purple / Copper,Purple Beech 40/60cm bare root
+Product,FAGP-BR-60/90,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-60-90cm-bare-root.html,FAGP-BR-60/90,Beech - Purple / Copper,Purple Beech 60/90cm bare root
+Product,FAGP-BR-90/120,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-90-120cm-bare-root.html,FAGP-BR-90/120,Beech - Purple / Copper,Purple Beech 90/120cm bare root
+Product,FAGP-PG-30/50-CG,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-30-50cm-cell-grown.html,FAGP-PG-30/50-CG,Beech - Purple / Copper,Purple Beech 30/50cm Cell grown
+Product,FAGP-PG-120/150-5L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-120-150cm-5L-pot.html,FAGP-PG-120/150-5L,Beech - Purple / Copper,Purple Beech 120/150cm 5L pot
+Product,FAGP-PG-40/60-2L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-40-60cm-2L-pot.html,FAGP-PG-40/60-2L,Beech - Purple / Copper,Purple Beech 40/60cm 2L pot
+Product,FAGP-PG-60/90-2L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-60-90cm-2L-pot.html,FAGP-PG-60/90-2L,Beech - Purple / Copper,Purple Beech 60/90cm 2L pot
+Product,FAGP-PG-90/120-3L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-90-120cm-3L-pot.html,FAGP-PG-90/120-3L,Beech - Purple / Copper,Purple Beech 90/120cm 3L pot
+Product,FAGP-PG-90/120-5L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-90-120cm-5L-pot.html,FAGP-PG-90/120-5L,Beech - Purple / Copper,Purple Beech 90/120cm 5L pot
+Product,FAGP-RB-150/175,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-150-175cm-Root-ball.html,FAGP-RB-150/175,Beech - Purple / Copper,Purple Beech 150/175cm Root ball
+Product,FAGP-RB-175/200,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-175-200cm-Root-ball.html,FAGP-RB-175/200,Beech - Purple / Copper,Purple Beech 175/200cm Root ball
+Product,FAGP-RB-200/225,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-200-225cm-Root-ball.html,FAGP-RB-200/225,Beech - Purple / Copper,Purple Beech 200/225cm Root ball
 Product,FAGP-IH-100/120-40L,FAGP,Purple-Beech-Fagus-Sylvatica-Atropurpurea-40L-100-120cm-1-Metre-trough.html,FAGP-IH-100/120-40L,Beech - Purple / Copper,Purple Beech 40L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Berberis darwinii,BERD,Berberis_darwinii_Darwins_Barberry_.html,,,
-Product,BERD-PG-20/30-2L,BERD,Darwins-Barberry-(Berberis-darwinii)-20-30cm-2L-pot.html,BERD-PG-20/30-2L,Berberis darwinii,Darwins Barberry 20/30cm 2L pot
-Product,BERD-PG-30/40-2L,BERD,Darwins-Barberry-(Berberis-darwinii)-30-40cm-2L-pot.html,BERD-PG-30/40-2L,Berberis darwinii,Darwins Barberry 30/40cm 2L pot
-Product,BERD-PG-40/60-5L,BERD,Darwins-Barberry-(Berberis-darwinii)-40-60cm-5L-pot.html,BERD-PG-40/60-5L,Berberis darwinii,Darwins Barberry 40/60cm 5L pot
+Product,BERD-PG-20/30-2L,BERD,Darwins-Barberry-Berberis-darwinii-20-30cm-2L-pot.html,BERD-PG-20/30-2L,Berberis darwinii,Darwins Barberry 20/30cm 2L pot
+Product,BERD-PG-30/40-2L,BERD,Darwins-Barberry-Berberis-darwinii-30-40cm-2L-pot.html,BERD-PG-30/40-2L,Berberis darwinii,Darwins Barberry 30/40cm 2L pot
+Product,BERD-PG-40/60-5L,BERD,Darwins-Barberry-Berberis-darwinii-40-60cm-5L-pot.html,BERD-PG-40/60-5L,Berberis darwinii,Darwins Barberry 40/60cm 5L pot
 End,Section,,,,,
 Section,Berberis Julianae,BERJ,Berberis_Juliana.html,,,
-Product,BERJ-BR-30/40,BERJ,Wintergreen-Barberry-(Berberis-julianae)-30-40cm-bare-root.html,BERJ-BR-30/40,Berberis Julianae,Wintergreen Barberry 30/40cm bare root
-Product,BERJ-PG-20/30-2L,BERJ,Wintergreen-Barberry-(Berberis-julianae)-20-30cm-2L-pot.html,BERJ-PG-20/30-2L,Berberis Julianae,Wintergreen Barberry 20/30 2L pot
-Product,BERJ-PG-30/40-2L,BERJ,Wintergreen-Barberry-(Berberis-julianae)-30-40cm-2L-pot.html,BERJ-PG-30/40-2L,Berberis Julianae,Wintergreen Barberry 30/40 2L pot
-Product,BERJ-PG-40/60-5L ,BERJ,Wintergreen-Barberry-(Berberis-julianae)-40-60cm-5L-pot.html,BERJ-PG-40/60-5L ,Berberis Julianae,Wintergreen Barberry 40/60 5L pot
+Product,BERJ-BR-30/40,BERJ,Wintergreen-Barberry-Berberis-julianae-30-40cm-bare-root.html,BERJ-BR-30/40,Berberis Julianae,Wintergreen Barberry 30/40cm bare root
+Product,BERJ-PG-20/30-2L,BERJ,Wintergreen-Barberry-Berberis-julianae-20-30cm-2L-pot.html,BERJ-PG-20/30-2L,Berberis Julianae,Wintergreen Barberry 20/30 2L pot
+Product,BERJ-PG-30/40-2L,BERJ,Wintergreen-Barberry-Berberis-julianae-30-40cm-2L-pot.html,BERJ-PG-30/40-2L,Berberis Julianae,Wintergreen Barberry 30/40 2L pot
+Product,BERJ-PG-40/60-5L ,BERJ,Wintergreen-Barberry-Berberis-julianae-40-60cm-5L-pot.html,BERJ-PG-40/60-5L ,Berberis Julianae,Wintergreen Barberry 40/60 5L pot
 End,Section,,,,,
 Section,Berberis Ottawensis,BERO,berberis_aurocoma_hedge.html,,,
-Product,BERO-PG-20/30-2L,BERO,Red-Berberis-(Berberis-ottowensis-aurocoma)-20-30cm-2L-pot.html,BERO-PG-20/30-2L,Berberis Ottawensis,Red Berberis 20/30cm 2L pot
-Product,BERO-PG-30/40-2L,BERO,Red-Berberis-(Berberis-ottowensis-aurocoma)-30-40cm-2L-pot.html,BERO-PG-30/40-2L,Berberis Ottawensis,Red Berberis 30/40cm 2L pot
-Product,BERO-PG-40/60-2L,BERO,Red-Berberis-(Berberis-ottowensis-aurocoma)-40-60cm-2L-pot.html,BERO-PG-40/60-2L,Berberis Ottawensis,Red Berberis 40/60cm 2L pot
-Product,BERO-PG-60/90-5L,BERO,Red-Berberis-(Berberis-ottowensis-aurocoma)-60-90cm-5L-pot.html,BERO-PG-60/90-5L,Berberis Ottawensis,Red Berberis 60/90cm 5L pot
+Product,BERO-PG-20/30-2L,BERO,Red-Berberis-Berberis-ottowensis-aurocoma-20-30cm-2L-pot.html,BERO-PG-20/30-2L,Berberis Ottawensis,Red Berberis 20/30cm 2L pot
+Product,BERO-PG-30/40-2L,BERO,Red-Berberis-Berberis-ottowensis-aurocoma-30-40cm-2L-pot.html,BERO-PG-30/40-2L,Berberis Ottawensis,Red Berberis 30/40cm 2L pot
+Product,BERO-PG-40/60-2L,BERO,Red-Berberis-Berberis-ottowensis-aurocoma-40-60cm-2L-pot.html,BERO-PG-40/60-2L,Berberis Ottawensis,Red Berberis 40/60cm 2L pot
+Product,BERO-PG-60/90-5L,BERO,Red-Berberis-Berberis-ottowensis-aurocoma-60-90cm-5L-pot.html,BERO-PG-60/90-5L,Berberis Ottawensis,Red Berberis 60/90cm 5L pot
 End,Section,,,,,
 Section,Berberis Stenophylla,BERS,berberis_evergreen_hedge.html,,,
-Product,BERS-PG-40/60-2L,BERS,Berberis-Evergreen-(Berberis-x-stenophylla)-40-60cm-2L-pot.html,BERS-PG-40/60-2L,Berberis Stenophylla,Berberis Evergreen 40/60cm 2L pot
-Product,BERS-PG-60/90-5L ,BERS,Berberis-Evergreen-(Berberis-x-stenophylla)-60-90cm-5L-pot.html,BERS-PG-60/90-5L ,Berberis Stenophylla,Berberis Evergreen 60/90cm 5L pot
+Product,BERS-PG-40/60-2L,BERS,Berberis-Evergreen-Berberis-x-stenophylla-40-60cm-2L-pot.html,BERS-PG-40/60-2L,Berberis Stenophylla,Berberis Evergreen 40/60cm 2L pot
+Product,BERS-PG-60/90-5L ,BERS,Berberis-Evergreen-Berberis-x-stenophylla-60-90cm-5L-pot.html,BERS-PG-60/90-5L ,Berberis Stenophylla,Berberis Evergreen 60/90cm 5L pot
 End,Section,,,,,
 Section,Berberis thunbergii,BERT,berberis_thunbergii_hedge.html,,,
-Product,BERT-BR-40/60,BERT,Green-Berberis-(Berberis-thunbergii)-40-60cm-bare-root.html,BERT-BR-40/60,Berberis thunbergii,Green Berberis 40/60cm bare root
-Product,BERT-PG-40/60-2L,BERT,Green-Berberis-(Berberis-thunbergii)-40-60cm-2L-pot.html,BERT-PG-40/60-2L,Berberis thunbergii,Green Berberis 40/60cm 2L pot
+Product,BERT-BR-40/60,BERT,Green-Berberis-Berberis-thunbergii-40-60cm-bare-root.html,BERT-BR-40/60,Berberis thunbergii,Green Berberis 40/60cm bare root
+Product,BERT-PG-40/60-2L,BERT,Green-Berberis-Berberis-thunbergii-40-60cm-2L-pot.html,BERT-PG-40/60-2L,Berberis thunbergii,Green Berberis 40/60cm 2L pot
 End,Section,,,,,
 Section,Berberis thunbergii Atropurpurea,BERA,berberis-thunbergii-atropurpurea-hedge.html,,,
-Product,BERA-BR-40/60,BERA,Purple-Berberis-(Berberis-thunbergii-atropurpurea)-40-60cm-bare-root.html,BERA-BR-40/60,Berberis thunbergii Atropurpurea,Purple Berberis 40/60cm bare root
-Product,BERA-BR-60/90,BERA,Purple-Berberis-(Berberis-thunbergii-atropurpurea)-60-90cm-bare-root.html,BERA-BR-60/90,Berberis thunbergii Atropurpurea,Purple Berberis 60/90cm bare root
-Product,BERA-PG-40/60-2L,BERA,Purple-Berberis-(Berberis-thunbergii-atropurpurea)-40-60cm-2L-pot.html,BERA-PG-40/60-2L,Berberis thunbergii Atropurpurea,Purple Berberis 40/60cm 2L pot
-Product,BERA-PG-60/90-5L,BERA,Purple-Berberis-(Berberis-thunbergii-atropurpurea)-60-90cm-5L-pot.html,BERA-PG-60/90-5L,Berberis thunbergii Atropurpurea,Purple Berberis 60/90cm 5L pot
+Product,BERA-BR-40/60,BERA,Purple-Berberis-Berberis-thunbergii-atropurpurea-40-60cm-bare-root.html,BERA-BR-40/60,Berberis thunbergii Atropurpurea,Purple Berberis 40/60cm bare root
+Product,BERA-BR-60/90,BERA,Purple-Berberis-Berberis-thunbergii-atropurpurea-60-90cm-bare-root.html,BERA-BR-60/90,Berberis thunbergii Atropurpurea,Purple Berberis 60/90cm bare root
+Product,BERA-PG-40/60-2L,BERA,Purple-Berberis-Berberis-thunbergii-atropurpurea-40-60cm-2L-pot.html,BERA-PG-40/60-2L,Berberis thunbergii Atropurpurea,Purple Berberis 40/60cm 2L pot
+Product,BERA-PG-60/90-5L,BERA,Purple-Berberis-Berberis-thunbergii-atropurpurea-60-90cm-5L-pot.html,BERA-PG-60/90-5L,Berberis thunbergii Atropurpurea,Purple Berberis 60/90cm 5L pot
 End,Section,,,,,
 Section,Berberis thunbergii Rose Glow,BERR,berberis_rose_glow_hedge.html,,,
-Product,BERR-PG-20/40-2L,BERR,Berberis-Rose-Glow-(Berberis-thunbergii-Harlequin)-20-40cm-2L-pot.html,BERR-PG-20/40-2L,Berberis thunbergii Rose Glow,Berberis Rose Glow 20/40cm 2L pot
-Product,BERR-PG-40/60-2L,BERR,Berberis-Rose-Glow-(Berberis-thunbergii-Harlequin)-40-60cm-2L-pot.html,BERR-PG-40/60-2L,Berberis thunbergii Rose Glow,Berberis Rose Glow 40/60cm 2L pot
-Product,BERR-PG-60/90-5L,BERR,Berberis-Rose-Glow-(Berberis-thunbergii-Harlequin)-60-90cm-5L-pot.html,BERR-PG-60/90-5L,Berberis thunbergii Rose Glow,Berberis Rose Glow 60/90cm 5L pot
+Product,BERR-PG-20/40-2L,BERR,Berberis-Rose-Glow-Berberis-thunbergii-Harlequin-20-40cm-2L-pot.html,BERR-PG-20/40-2L,Berberis thunbergii Rose Glow,Berberis Rose Glow 20/40cm 2L pot
+Product,BERR-PG-40/60-2L,BERR,Berberis-Rose-Glow-Berberis-thunbergii-Harlequin-40-60cm-2L-pot.html,BERR-PG-40/60-2L,Berberis thunbergii Rose Glow,Berberis Rose Glow 40/60cm 2L pot
+Product,BERR-PG-60/90-5L,BERR,Berberis-Rose-Glow-Berberis-thunbergii-Harlequin-60-90cm-5L-pot.html,BERR-PG-60/90-5L,Berberis thunbergii Rose Glow,Berberis Rose Glow 60/90cm 5L pot
 End,Section,,,,,
 Section,Bird Cherry,PRUP,bird_cherry_prunus.html,,,
-Product,PRUP-BR-120/150,PRUP,Bird-Cherry-(Prunus-Padus)-120-150cm-bare-root.html,PRUP-BR-120/150,Bird Cherry,Bird Cherry 120/150cm bare root
-Product,PRUP-BR-150/200,PRUP,Bird-Cherry-(Prunus-Padus)-150-200cm-bare-root.html,PRUP-BR-150/200,Bird Cherry,Bird Cherry 150/200cm bare root
-Product,PRUP-BR-40/60,PRUP,Bird-Cherry-(Prunus-Padus)-40-60cm-bare-root.html,PRUP-BR-40/60,Bird Cherry,Bird Cherry 40/60cm bare root
-Product,PRUP-BR-60/90,PRUP,Bird-Cherry-(Prunus-Padus)-60-90cm-bare-root.html,PRUP-BR-60/90,Bird Cherry,Bird Cherry 60/90cm bare root
-Product,PRUP-BR-90/120,PRUP,Bird-Cherry-(Prunus-Padus)-90-120cm-bare-root.html,PRUP-BR-90/120,Bird Cherry,Bird Cherry 90/120cm bare root
-Product,PRUP-PG-40/60-2L,PRUP,Bird-Cherry-(Prunus-Padus)-40-60cm-2L-pot.html,PRUP-PG-40/60-2L,Bird Cherry,Bird Cherry 40/60cm 2L pot
+Product,PRUP-BR-120/150,PRUP,Bird-Cherry-Prunus-Padus-120-150cm-bare-root.html,PRUP-BR-120/150,Bird Cherry,Bird Cherry 120/150cm bare root
+Product,PRUP-BR-150/200,PRUP,Bird-Cherry-Prunus-Padus-150-200cm-bare-root.html,PRUP-BR-150/200,Bird Cherry,Bird Cherry 150/200cm bare root
+Product,PRUP-BR-40/60,PRUP,Bird-Cherry-Prunus-Padus-40-60cm-bare-root.html,PRUP-BR-40/60,Bird Cherry,Bird Cherry 40/60cm bare root
+Product,PRUP-BR-60/90,PRUP,Bird-Cherry-Prunus-Padus-60-90cm-bare-root.html,PRUP-BR-60/90,Bird Cherry,Bird Cherry 60/90cm bare root
+Product,PRUP-BR-90/120,PRUP,Bird-Cherry-Prunus-Padus-90-120cm-bare-root.html,PRUP-BR-90/120,Bird Cherry,Bird Cherry 90/120cm bare root
+Product,PRUP-PG-30/50-CG,PRUP,Bird-Cherry-Prunus-Padus-30-50cm-cell-grown.html,PRUP-PG-30/50-CG,Bird Cherry,Bird Cherry 30/50cm Cell grown
+Product,PRUP-PG-40/60-2L,PRUP,Bird-Cherry-Prunus-Padus-40-60cm-2L-pot.html,PRUP-PG-40/60-2L,Bird Cherry,Bird Cherry 40/60cm 2L pot
 End,Section,,,,,
 Section,Blackthorn,PRUS,Blackthorn_prunus_hedge.html,,,
-Product,PRUS-BR-120/150,PRUS,Blackthorn-(Prunus-spinosa)-120-150cm-bare-root.html,PRUS-BR-120/150,Blackthorn,Blackthorn 120/150cm bare root
-Product,PRUS-BR-150/200,PRUS,Blackthorn-(Prunus-spinosa)-150-200cm-bare-root.html,PRUS-BR-150/200,Blackthorn,Blackthorn 150/200cm bare root
-Product,PRUS-BR-40/60,PRUS,Blackthorn-(Prunus-spinosa)-40-60cm-bare-root.html,PRUS-BR-40/60,Blackthorn,Blackthorn 40/60cm bare root
-Product,PRUS-BR-60/90,PRUS,Blackthorn-(Prunus-spinosa)-60-90cm-bare-root.html,PRUS-BR-60/90,Blackthorn,Blackthorn 60/90cm bare root
-Product,PRUS-BR-90/120,PRUS,Blackthorn-(Prunus-spinosa)-90-120cm-bare-root.html,PRUS-BR-90/120,Blackthorn,Blackthorn 90/120cm bare root
-Product,PRUS-PG-40/60-2L,PRUS,Blackthorn-(Prunus-spinosa)-40-60cm-2L-pot.html,PRUS-PG-40/60-2L,Blackthorn,Blackthorn 40/60cm 2L pot
-Product,PRUS-PG-60/90-2L,PRUS,Blackthorn-(Prunus-spinosa)-60-90cm-2L-pot.html,PRUS-PG-60/90-2L,Blackthorn,Blackthorn 60/90cm 2L pot
+Product,PRUS-BR-120/150,PRUS,Blackthorn-Prunus-spinosa-120-150cm-bare-root.html,PRUS-BR-120/150,Blackthorn,Blackthorn 120/150cm bare root
+Product,PRUS-BR-150/200,PRUS,Blackthorn-Prunus-spinosa-150-200cm-bare-root.html,PRUS-BR-150/200,Blackthorn,Blackthorn 150/200cm bare root
+Product,PRUS-BR-40/60,PRUS,Blackthorn-Prunus-spinosa-40-60cm-bare-root.html,PRUS-BR-40/60,Blackthorn,Blackthorn 40/60cm bare root
+Product,PRUS-BR-60/90,PRUS,Blackthorn-Prunus-spinosa-60-90cm-bare-root.html,PRUS-BR-60/90,Blackthorn,Blackthorn 60/90cm bare root
+Product,PRUS-BR-90/120,PRUS,Blackthorn-Prunus-spinosa-90-120cm-bare-root.html,PRUS-BR-90/120,Blackthorn,Blackthorn 90/120cm bare root
+Product,PRUS-PG-30/50-CG,PRUS,Blackthorn-Prunus-spinosa-30-50cm-cell-grown.html,PRUS-PG-30/50-CG,Blackthorn,Blackthorn 30/50cm Cell grown
+Product,PRUS-PG-40/60-2L,PRUS,Blackthorn-Prunus-spinosa-40-60cm-2L-pot.html,PRUS-PG-40/60-2L,Blackthorn,Blackthorn 40/60cm 2L pot
+Product,PRUS-PG-60/90-2L,PRUS,Blackthorn-Prunus-spinosa-60-90cm-2L-pot.html,PRUS-PG-60/90-2L,Blackthorn,Blackthorn 60/90cm 2L pot
 End,Section,,,,,
 Section,Box,BUXS,box_buxus_hedge.html,,,
-Product,BUXS-BR-20/30,BUXS,Box-(Buxus-sempervirens)-20-30cm-bare-root.html,BUXS-BR-20/30,Box,Box 20/30cm bare root
-Product,BUXS-BR-30/40,BUXS,Box-(Buxus-sempervirens)-30-40cm-bare-root.html,BUXS-BR-30/40,Box,Box 30/40cm bare root
-Product,BUXS-BR-40/50,BUXS,Box-(Buxus-sempervirens)-40-50cm-bare-root.html,BUXS-BR-40/50,Box,Box 40/50cm bare root
-Product,BUXS-PG-20/30-1.5L,BUXS,Box-(Buxus-sempervirens)-20-30cm-1-5L-pot.html,BUXS-PG-20/30-1.5L,Box,Box 20/30cm 1.5L pot
-Product,BUXS-PG-30/40-2L,BUXS,Box-(Buxus-sempervirens)-30-40cm-2L-pot.html,BUXS-PG-30/40-2L,Box,Box 30/40cm 2L pot
-Product,BUXS-PG-40/50-5L,BUXS,Box-(Buxus-sempervirens)-40-50cm-5L-pot.html,BUXS-PG-40/50-5L,Box,Box 40/50cm 5L pot
-Product,BUXS-PG-50/70-5L ,BUXS,Box-(Buxus-sempervirens)-50-70cm-5L-pot.html,BUXS-PG-50/70-5L ,Box,Box 50/70cm 5L  pot
-Product,BUXS-PG-60/80-10L,BUXS,Box-(Buxus-sempervirens)-60-80cm-10L-pot.html,BUXS-PG-60/80-10L,Box,Box 60/80cm 10L pot
-Product,BUXS-RB-100/120,BUXS,Box-(Buxus-sempervirens)-100-120cm-Root-ball.html,BUXS-RB-100/120,Box,Box 100/120cm Root ball
-Product,BUXS-RB-120/140,BUXS,Box-(Buxus-sempervirens)-120-140cm-Root-ball.html,BUXS-RB-120/140,Box,Box 120/140cm Root ball
-Product,BUXS-RB-140/160,BUXS,Box-(Buxus-sempervirens)-140-160cm-Root-ball.html,BUXS-RB-140/160,Box,Box 140/160cm Root ball
-Product,BUXS-RB-40/50,BUXS,Box-(Buxus-sempervirens)-40-50cm-Root-ball.html,BUXS-RB-40/50,Box,Box 40/50cm Root ball
-Product,BUXS-RB-50/60,BUXS,Box-(Buxus-sempervirens)-50-60cm-Root-ball.html,BUXS-RB-50/60,Box,Box 50/60cm Root ball
-Product,BUXS-RB-60/80,BUXS,Box-(Buxus-sempervirens)-60-80cm-Root-ball.html,BUXS-RB-60/80,Box,Box 60/80cm Root ball
-Product,BUXS-RB-80/100,BUXS,Box-(Buxus-sempervirens)-80-100cm-Root-ball.html,BUXS-RB-80/100,Box,Box 80/100cm Root ball
+Product,BUXS-BR-20/30,BUXS,Box-Buxus-sempervirens-20-30cm-bare-root.html,BUXS-BR-20/30,Box,Box 20/30cm bare root
+Product,BUXS-BR-30/40,BUXS,Box-Buxus-sempervirens-30-40cm-bare-root.html,BUXS-BR-30/40,Box,Box 30/40cm bare root
+Product,BUXS-BR-40/50,BUXS,Box-Buxus-sempervirens-40-50cm-bare-root.html,BUXS-BR-40/50,Box,Box 40/50cm bare root
+Product,BUXS-PG-15/20-CG,BUXS,Box-Buxus-sempervirens-15-20cm-cell-grown.html,BUXS-PG-15/20-CG,Box,Box 15/20cm Cell grown
+Product,BUXS-PG-20/30-1.5L,BUXS,Box-Buxus-sempervirens-20-30cm-1-5L-pot.html,BUXS-PG-20/30-1.5L,Box,Box 20/30cm 1.5L pot
+Product,BUXS-PG-30/40-2L,BUXS,Box-Buxus-sempervirens-30-40cm-2L-pot.html,BUXS-PG-30/40-2L,Box,Box 30/40cm 2L pot
+Product,BUXS-PG-40/50-5L,BUXS,Box-Buxus-sempervirens-40-50cm-5L-pot.html,BUXS-PG-40/50-5L,Box,Box 40/50cm 5L pot
+Product,BUXS-PG-50/70-5L ,BUXS,Box-Buxus-sempervirens-50-70cm-5L-pot.html,BUXS-PG-50/70-5L ,Box,Box 50/70cm 5L  pot
+Product,BUXS-PG-60/80-10L,BUXS,Box-Buxus-sempervirens-60-80cm-10L-pot.html,BUXS-PG-60/80-10L,Box,Box 60/80cm 10L pot
+Product,BUXS-RB-100/120,BUXS,Box-Buxus-sempervirens-100-120cm-Root-ball.html,BUXS-RB-100/120,Box,Box 100/120cm Root ball
+Product,BUXS-RB-120/140,BUXS,Box-Buxus-sempervirens-120-140cm-Root-ball.html,BUXS-RB-120/140,Box,Box 120/140cm Root ball
+Product,BUXS-RB-140/160,BUXS,Box-Buxus-sempervirens-140-160cm-Root-ball.html,BUXS-RB-140/160,Box,Box 140/160cm Root ball
+Product,BUXS-RB-40/50,BUXS,Box-Buxus-sempervirens-40-50cm-Root-ball.html,BUXS-RB-40/50,Box,Box 40/50cm Root ball
+Product,BUXS-RB-50/60,BUXS,Box-Buxus-sempervirens-50-60cm-Root-ball.html,BUXS-RB-50/60,Box,Box 50/60cm Root ball
+Product,BUXS-RB-60/80,BUXS,Box-Buxus-sempervirens-60-80cm-Root-ball.html,BUXS-RB-60/80,Box,Box 60/80cm Root ball
+Product,BUXS-RB-80/100,BUXS,Box-Buxus-sempervirens-80-100cm-Root-ball.html,BUXS-RB-80/100,Box,Box 80/100cm Root ball
 Product,BUXS-IH-30/40-15L,BUXS,Box-Buxus-sempervirens-15L-30-40cm-50cm-trough.html,BUXS-IH-30/40-15L,Box,Box 15L 30/40cm 50cm trough
 Product,BUXS-IH-60/80-90L,BUXS,Box-Buxus-sempervirens-90L-60-80cm-1-Metre-trough.html,BUXS-IH-60/80-90L,Box,Box 90L 60/80cm 1 Metre trough
 End,Section,,,,,
 Section,Box Compact / Dwarf,BUSU,box_compact_hedge.html,,,
-Product,BUSU-BR-15/20,BUSU,Dwarf-Box-(Buxus-suffruticosa)-15-20cm-bare-root.html,BUSU-BR-15/20,Box Compact / Dwarf,Dwarf Box 15/20cm bare root
-Product,BUSU-PG-15/20-1L,BUSU,Dwarf-Box-(Buxus-suffruticosa)-15-20cm-1L-pot.html,BUSU-PG-15/20-1L,Box Compact / Dwarf,Dwarf-Box 15/20cm 1L pot
+Product,BUSU-BR-15/20,BUSU,Dwarf-Box-Buxus-suffruticosa-15-20cm-bare-root.html,BUSU-BR-15/20,Box Compact / Dwarf,Dwarf Box 15/20cm bare root
+Product,BUSU-PG-15/20-1L,BUSU,Dwarf-Box-Buxus-suffruticosa-15-20cm-1L-pot.html,BUSU-PG-15/20-1L,Box Compact / Dwarf,Dwarf-Box 15/20cm 1L pot
 End,Section,,,,,
 Section,Brachyglottis Senecio 'Sunshine',BRAC,Brachyglottis_Senecio_Sunshine_Hedging.html,,,
-Product,BRAC-PG-20/40-2L,BRAC,Senecio-Sunshine-(Brachyglottis-Sunshine)-20-40cm-2L-pot.html,BRAC-PG-20/40-2L,Brachyglottis Senecio 'Sunshine',Senecio 'Sunshine' 20/40cm 2L pot
-Product,BRAC-PG-40/60-5L ,BRAC,Senecio-Sunshine-(Brachyglottis-Sunshine)-40-60cm-5L-pot.html,BRAC-PG-40/60-5L ,Brachyglottis Senecio 'Sunshine',Senecio 'Sunshine' 40/60cm 5L  pot
+Product,BRAC-PG-20/40-2L,BRAC,Senecio-Sunshine-Brachyglottis-Sunshine-20-40cm-2L-pot.html,BRAC-PG-20/40-2L,Brachyglottis Senecio 'Sunshine',Senecio 'Sunshine' 20/40cm 2L pot
+Product,BRAC-PG-40/60-5L ,BRAC,Senecio-Sunshine-Brachyglottis-Sunshine-40-60cm-5L-pot.html,BRAC-PG-40/60-5L ,Brachyglottis Senecio 'Sunshine',Senecio 'Sunshine' 40/60cm 5L  pot
 End,Section,,,,,
 Section,Ceanothus,CEAN,californian-lilac-ceanothus-autumnal-blue.html,,,
-Product,CEAN-PG-20/40-2L,CEAN,Californian-Lilac-(Ceanothus)-20-40cm-2L-pot.html,CEAN-PG-20/40-2L,Ceanothus,Californian Lilac 20/40cm 2L pot
-Product,CEAN-PG-40/60-5L,CEAN,Californian-Lilac-(Ceanothus)-40-60cm-5L-pot.html,CEAN-PG-40/60-5L,Ceanothus,Californian Lilac 40/60cm 5L pot
+Product,CEAN-PG-20/40-2L,CEAN,Californian-Lilac-Ceanothus-20-40cm-2L-pot.html,CEAN-PG-20/40-2L,Ceanothus,Californian Lilac 20/40cm 2L pot
+Product,CEAN-PG-40/60-5L,CEAN,Californian-Lilac-Ceanothus-40-60cm-5L-pot.html,CEAN-PG-40/60-5L,Ceanothus,Californian Lilac 40/60cm 5L pot
 End,Section,,,,,
 Section,Cotoneaster Franchetii,COTF,cotoneaster_franchettii.html,,,
-Product,COTF-BR-60/100,COTF,Franchets-Cotoneaster-(Cotoneaster-franchetii)-60-100cm-bare-root.html,COTF-BR-60/100,Cotoneaster franchetii,Cotoneaster franchetii 60/100 bare root
-Product,COTF-PG-40/60-2L,COTF,Franchets-Cotoneaster-(Cotoneaster-franchetii)-40-60cm-2L-pot.html,COTF-PG-40/60-2L,Cotoneaster franchetii,Cotoneaster franchetii 40/60 2L pot
-Product,COTF-PG-60/90-2L,COTF,Franchets-Cotoneaster-(Cotoneaster-franchetii)-60-90cm-2L-pot.html,COTF-PG-60/90-2L,Cotoneaster franchetii,Cotoneaster franchetii 60/90 2L pot
-Product,COTF-PG-90/120-5L,COTF,Franchets-Cotoneaster-(Cotoneaster-franchetii)-90-120cm-5L-pot.html,COTF-PG-90/120-5L,Cotoneaster franchetii,Cotoneaster franchetii 90/120 5L pot
+Product,COTF-BR-60/100,COTF,Franchets-Cotoneaster-Cotoneaster-franchetii-60-100cm-bare-root.html,COTF-BR-60/100,Cotoneaster franchetii,Cotoneaster franchetii 60/100 bare root
+Product,COTF-PG-40/60-2L,COTF,Franchets-Cotoneaster-Cotoneaster-franchetii-40-60cm-2L-pot.html,COTF-PG-40/60-2L,Cotoneaster franchetii,Cotoneaster franchetii 40/60 2L pot
+Product,COTF-PG-60/90-2L,COTF,Franchets-Cotoneaster-Cotoneaster-franchetii-60-90cm-2L-pot.html,COTF-PG-60/90-2L,Cotoneaster franchetii,Cotoneaster franchetii 60/90 2L pot
+Product,COTF-PG-90/120-5L,COTF,Franchets-Cotoneaster-Cotoneaster-franchetii-90-120cm-5L-pot.html,COTF-PG-90/120-5L,Cotoneaster franchetii,Cotoneaster franchetii 90/120 5L pot
 End,Section,,,,,
 Section,Cotoneaster horizontalis,COTH,cotoneaster_horizontalis.html,,,
-Product,COTH-PG-20/40-2L,COTH,Wall-Cotoneaster-(Cotoneaster-horizontalis)-20-40cm-2L-pot.html,COTH-PG-20/40-2L,Cotoneaster horizontalis,Wall Cotoneaster 20/40cm 2L pot
-Product,COTH-PG-40/60-5L,COTH,Wall-Cotoneaster-(Cotoneaster-horizontalis)-40-60cm-5L-pot.html,COTH-PG-40/60-5L,Cotoneaster horizontalis,Wall Cotoneaster 40/60cm 5L pot
+Product,COTH-PG-20/40-2L,COTH,Wall-Cotoneaster-Cotoneaster-horizontalis-20-40cm-2L-pot.html,COTH-PG-20/40-2L,Cotoneaster horizontalis,Wall Cotoneaster 20/40cm 2L pot
+Product,COTH-PG-40/60-5L,COTH,Wall-Cotoneaster-Cotoneaster-horizontalis-40-60cm-5L-pot.html,COTH-PG-40/60-5L,Cotoneaster horizontalis,Wall Cotoneaster 40/60cm 5L pot
 End,Section,,,,,
 Section,Cotoneaster lacteus,COTL,cotoneaster_lacteus.html,,,
-Product,COTL-PG-20/40-2L,COTL,Late-Cotoneaster-(Cotoneaster-lacteus)-20-40cm-2L-pot.html,COTL-PG-20/40-2L,Cotoneaster lacteus,Late Cotoneaster 20/40cm 2L pot
-Product,COTL-PG-40/60-2L,COTL,Late-Cotoneaster-(Cotoneaster-lacteus)-40-60cm-2L-pot.html,COTL-PG-40/60-2L,Cotoneaster lacteus,Late Cotoneaster 40/60cm 2L pot
+Product,COTL-PG-20/40-2L,COTL,Late-Cotoneaster-Cotoneaster-lacteus-20-40cm-2L-pot.html,COTL-PG-20/40-2L,Cotoneaster lacteus,Late Cotoneaster 20/40cm 2L pot
+Product,COTL-PG-40/60-2L,COTL,Late-Cotoneaster-Cotoneaster-lacteus-40-60cm-2L-pot.html,COTL-PG-40/60-2L,Cotoneaster lacteus,Late Cotoneaster 40/60cm 2L pot
 End,Section,,,,,
 Section,Cotoneaster Simonsii,COTS,Cotoneaster_simonsii__Himalyan_Cotoneaster_.html,,,
-Product,COTS-PG-40/60-2L,COTS,Himalayan-Cotoneaster-(Cotoneaster-Simonsii)-40-60cm-2L-pot.html,COTS-PG-40/60-2L,Cotoneaster Simonsii,Himalayan Cotoneaster 40/60cm 2L pot
+Product,COTS-PG-40/60-2L,COTS,Himalayan-Cotoneaster-Cotoneaster-Simonsii-40-60cm-2L-pot.html,COTS-PG-40/60-2L,Cotoneaster Simonsii,Himalayan Cotoneaster 40/60cm 2L pot
 End,Section,,,,,
 Section,Crab Apple,MAL,crab_apple.html,,,
-Product,MAL-BR-120/150,MAL,Crab-Apple-(Malus-sylvestris)-120-150cm-bare-root.html,MAL-BR-120/150,Crab Apple,Crab Apple 120/150cm bare root
-Product,MAL-BR-150/200,MAL,Crab-Apple-(Malus-sylvestris)-150-200cm-bare-root.html,MAL-BR-150/200,Crab Apple,Crab Apple 150/200cm bare root
-Product,MAL-BR-40/60,MAL,Crab-Apple-(Malus-sylvestris)-40-60cm-bare-root.html,MAL-BR-40/60,Crab Apple,Crab Apple 40/60cm bare root
-Product,MAL-BR-60/90,MAL,Crab-Apple-(Malus-sylvestris)-60-90cm-bare-root.html,MAL-BR-60/90,Crab Apple,Crab Apple 60/90cm bare root
-Product,MAL-BR-90/120,MAL,Crab-Apple-(Malus-sylvestris)-90-120cm-bare-root.html,MAL-BR-90/120,Crab Apple,Crab Apple 90/120cm bare root
-Product,MAL-PG-40/60-2L,MAL,Crab-Apple-(Malus-sylvestris)-40-60cm-2L-pot.html,MAL-PG-40/60-2L,Crab Apple,Crab Apple 40/60cm 2L pot
+Product,MAL-BR-120/150,MAL,Crab-Apple-Malus-sylvestris-120-150cm-bare-root.html,MAL-BR-120/150,Crab Apple,Crab Apple 120/150cm bare root
+Product,MAL-BR-150/200,MAL,Crab-Apple-Malus-sylvestris-150-200cm-bare-root.html,MAL-BR-150/200,Crab Apple,Crab Apple 150/200cm bare root
+Product,MAL-BR-40/60,MAL,Crab-Apple-Malus-sylvestris-40-60cm-bare-root.html,MAL-BR-40/60,Crab Apple,Crab Apple 40/60cm bare root
+Product,MAL-BR-60/90,MAL,Crab-Apple-Malus-sylvestris-60-90cm-bare-root.html,MAL-BR-60/90,Crab Apple,Crab Apple 60/90cm bare root
+Product,MAL-BR-90/120,MAL,Crab-Apple-Malus-sylvestris-90-120cm-bare-root.html,MAL-BR-90/120,Crab Apple,Crab Apple 90/120cm bare root
+Product,MAL-PG-30/50-CG,MAL,Crab-Apple-Malus-sylvestris-30-50-cell-grown.html,MAL-PG-30/50-CG,Crab Apple,Crab Apple 30/50cm Cell grown
+Product,MAL-PG-40/60-2L,MAL,Crab-Apple-Malus-sylvestris-40-60cm-2L-pot.html,MAL-PG-40/60-2L,Crab Apple,Crab Apple 40/60cm 2L pot
 End,Section,,,,,
 Section,Daisy Bush,OLE,daisy-bush-olearia-haastii.html,,,
-Product,OLE-PG-20/40-2L,OLE,Daisy-Bush-(Olearia-haastii)-20-40cm-2L-pot.html,OLE-PG-20/40-2L,Daisy Bush,Daisy Bush 20/40cm 2L pot
+Product,OLE-PG-20/40-2L,OLE,Daisy-Bush-Olearia-haastii-20-40cm-2L-pot.html,OLE-PG-20/40-2L,Daisy Bush,Daisy Bush 20/40cm 2L pot
 End,Section,,,,,
 Section,Dog Rose,ROS,dog-rose-hedge-rosa-canina.html,,,
-Product,ROS-BR-120/150,ROS,Dog-Rose-(Rosa-canina)-120-150cm-bare-root.html,ROS-BR-120/150,Dog Rose,Dog rose 120/150cm bare root
-Product,ROS-BR-40/60,ROS,Dog-Rose-(Rosa-canina)-40-60cm-bare-root.html,ROS-BR-40/60,Dog Rose,Dog rose 40/60cm bare root
-Product,ROS-BR-60/90,ROS,Dog-Rose-(Rosa-canina)-60-90cm-bare-root.html,ROS-BR-60/90,Dog Rose,Dog rose 60/90cm bare root
-Product,ROS-BR-90/120,ROS,Dog-Rose-(Rosa-canina)-90-120cm-bare-root.html,ROS-BR-90/120,Dog Rose,Dog rose 90/120cm bare root
-Product,ROS-PG-40/60-2L,ROS,Dog-Rose-(Rosa-canina)-40-60cm-2L-pot.html,ROS-PG-40/60-2L,Dog Rose,Dog Rose 40/60cm 2L pot
-Product,ROS-PG-60/90-2L,ROS,Dog-Rose-(Rosa-canina)-60-90cm-2L-pot.html,ROS-PG-60/90-2L,Dog Rose,Dog Rose 60/90cm 2L pot
+Product,ROS-BR-120/150,ROS,Dog-Rose-Rosa-canina-120-150cm-bare-root.html,ROS-BR-120/150,Dog Rose,Dog rose 120/150cm bare root
+Product,ROS-BR-40/60,ROS,Dog-Rose-Rosa-canina-40-60cm-bare-root.html,ROS-BR-40/60,Dog Rose,Dog rose 40/60cm bare root
+Product,ROS-BR-60/90,ROS,Dog-Rose-Rosa-canina-60-90cm-bare-root.html,ROS-BR-60/90,Dog Rose,Dog rose 60/90cm bare root
+Product,ROS-BR-90/120,ROS,Dog-Rose-Rosa-canina-90-120cm-bare-root.html,ROS-BR-90/120,Dog Rose,Dog rose 90/120cm bare root
+Product,ROS-PG-20/40-CG,ROS,Dog-Rose-Rosa-canina-20-40cm-cell-grown.html,ROS-PG-20/40-CG,Dog Rose,Dog Rose 20/40cm Cell grown
+Product,ROS-PG-40/60-2L,ROS,Dog-Rose-Rosa-canina-40-60cm-2L-pot.html,ROS-PG-40/60-2L,Dog Rose,Dog Rose 40/60cm 2L pot
+Product,ROS-PG-60/90-2L,ROS,Dog-Rose-Rosa-canina-60-90cm-2L-pot.html,ROS-PG-60/90-2L,Dog Rose,Dog Rose 60/90cm 2L pot
 End,Section,,,,,
 Section,Dogwood - Orange Stemmed,COSA,orange-dogwood-cornus-sanguinea.html,,,
-Product,COSA-BR-40/60,COSA,Orange-Dogwood-(Cornus-sanguinea)-40-60cm-bare-root.html,COSA-BR-40/60,Dogwood - Orange Stemmed,Orange Dogwood 40/60cm bare root
-Product,COSA-BR-60/90,COSA,Orange-Dogwood-(Cornus-sanguinea)-60-90cm-bare-root.html,COSA-BR-60/90,Dogwood - Orange Stemmed,Orange Dogwood 60/90cm bare root
-Product,COSA-PG-40/60-2L,COSA,Orange-Dogwood-(Cornus-sanguinea)-40-60cm-2L-pot.html,COSA-PG-40/60-2L,Dogwood - Orange Stemmed,Orange Dogwood 40/60cm 2L pot
+Product,COSA-BR-40/60,COSA,Orange-Dogwood-Cornus-sanguinea-40-60cm-bare-root.html,COSA-BR-40/60,Dogwood - Orange Stemmed,Orange Dogwood 40/60cm bare root
+Product,COSA-BR-60/90,COSA,Orange-Dogwood-Cornus-sanguinea-60-90cm-bare-root.html,COSA-BR-60/90,Dogwood - Orange Stemmed,Orange Dogwood 60/90cm bare root
+Product,COSA-PG-20/40-CG,COSA,Orange-Dogwood-Cornus-sanguinea-20-40cm-cell-grown.html,COSA-PG-20/40-CG,Dogwood - Orange Stemmed,Orange Dogwood 20/40cm Cell grown
+Product,COSA-PG-40/60-2L,COSA,Orange-Dogwood-Cornus-sanguinea-40-60cm-2L-pot.html,COSA-PG-40/60-2L,Dogwood - Orange Stemmed,Orange Dogwood 40/60cm 2L pot
 End,Section,,,,,
 Section,Dogwood - Red Stemmed,COAL,red-dogwood-cornus-alba.html,,,
-Product,COAL-BR-40/60,COAL,Red-Dogwood-(Cornus-alba)-40-60cm-bare-root.html,COAL-BR-40/60,Red Dogwood,Red Dogwood 40/60cm bare root
-Product,COAL-BR-60/90,COAL,Red-Dogwood-(Cornus-alba)-60-90cm-bare-root.html,COAL-BR-60/90,Red Dogwood,Red Dogwood 60/90cm bare root
-Product,COAL-PG-40/60-2L,COAL,Red-Dogwood-(Cornus-alba)-40-60cm-2L-pot.html,COAL-PG-40/60-2L,Red Dogwood,Red Dogwood 40/60cm 2L pot
+Product,COAL-BR-40/60,COAL,Red-Dogwood-Cornus-alba-40-60cm-bare-root.html,COAL-BR-40/60,Red Dogwood,Red Dogwood 40/60cm bare root
+Product,COAL-BR-60/90,COAL,Red-Dogwood-Cornus-alba-60-90cm-bare-root.html,COAL-BR-60/90,Red Dogwood,Red Dogwood 60/90cm bare root
+Product,COAL-PG-40/60-2L,COAL,Red-Dogwood-Cornus-alba-40-60cm-2L-pot.html,COAL-PG-40/60-2L,Red Dogwood,Red Dogwood 40/60cm 2L pot
 End,Section,,,,,
 Section,Dogwood - Vivid Red Stemmed,COSI,vivid-red-dogwood-cornus-alba-sibirica.html,,,
-Product,COSI-BR-40/60,COSI,Vivid-Red-Dogwood-(Cornus-alba-Sibirica)-40-60cm-bare-root.html,COSI-BR-40/60,Vivid Red Dogwood,Vivid Red Dogwood 40/60cm bare root
-Product,COSI-BR-60/90,COSI,Vivid-Red-Dogwood-(Cornus-alba-Sibirica)-60-90cm-bare-root.html,COSI-BR-60/90,Vivid Red Dogwood,Vivid Red Dogwood 60/90cm bare root
-Product,COSI-PG-40/60-2L,COSI,Vivid-Red-Dogwood-(Cornus-alba-Sibirica)-40-60cm-2L-pot.html,COSI-PG-40/60-2L,Vivid Red Dogwood,Vivid Red Dogwood 40/60cm 2L pot
-Product,COSI-PG-60/90-2L,COSI,Vivid-Red-Dogwood-(Cornus-alba-Sibirica)-60-90cm-2L-pot.html,COSI-PG-60/90-2L,Vivid Red Dogwood,Vivid Red Dogwood 60/90cm 2L pot
+Product,COSI-BR-40/60,COSI,Vivid-Red-Dogwood-Cornus-alba-Sibirica-40-60cm-bare-root.html,COSI-BR-40/60,Vivid Red Dogwood,Vivid Red Dogwood 40/60cm bare root
+Product,COSI-BR-60/90,COSI,Vivid-Red-Dogwood-Cornus-alba-Sibirica-60-90cm-bare-root.html,COSI-BR-60/90,Vivid Red Dogwood,Vivid Red Dogwood 60/90cm bare root
+Product,COSI-PG-40/60-2L,COSI,Vivid-Red-Dogwood-Cornus-alba-Sibirica-40-60cm-2L-pot.html,COSI-PG-40/60-2L,Vivid Red Dogwood,Vivid Red Dogwood 40/60cm 2L pot
+Product,COSI-PG-60/90-2L,COSI,Vivid-Red-Dogwood-Cornus-alba-Sibirica-60-90cm-2L-pot.html,COSI-PG-60/90-2L,Vivid Red Dogwood,Vivid Red Dogwood 60/90cm 2L pot
 End,Section,,,,,
 Section,Dogwood - Yellow Stemmed,CORS,Yellow-Dogwood-Cornus-stolonifera-Flaviramea.html,,,
-Product,CORS-BR-40/60,CORS,Yellow-Dogwood-(Cornus-stolonifera-Flaviramea)-40-60cm-bare-root.html,CORS-BR-40/60,Dogwood - Yellow Stemmed,Yellow Dogwood 40/60cm bare root
-Product,CORS-BR-60/90,CORS,Yellow-Dogwood-(Cornus-stolonifera-Flaviramea)-60-90cm-bare-root.html,CORS-BR-60/90,Dogwood - Yellow Stemmed,Yellow Dogwood 60/90cm bare root
-Product,CORS-PG-40/60-2L,CORS,Yellow-Dogwood-(Cornus-stolonifera-Flaviramea)-40-60cm-2L-pot.html,CORS-PG-40/60-2L,Dogwood - Yellow Stemmed,Yellow Dogwood 40/60 2L pot
+Product,CORS-BR-40/60,CORS,Yellow-Dogwood-Cornus-stolonifera-Flaviramea-40-60cm-bare-root.html,CORS-BR-40/60,Dogwood - Yellow Stemmed,Yellow Dogwood 40/60cm bare root
+Product,CORS-BR-60/90,CORS,Yellow-Dogwood-Cornus-stolonifera-Flaviramea-60-90cm-bare-root.html,CORS-BR-60/90,Dogwood - Yellow Stemmed,Yellow Dogwood 60/90cm bare root
+Product,CORS-PG-40/60-2L,CORS,Yellow-Dogwood-Cornus-stolonifera-Flaviramea-40-60cm-2L-pot.html,CORS-PG-40/60-2L,Dogwood - Yellow Stemmed,Yellow Dogwood 40/60 2L pot
 End,Section,,,,,
 Section,Elder,SAM,elder_sambucus_nigra.html,,,
-Product,SAM-BR-40/60,SAM,Elder-(Sambucus-nigra)-40-60cm-bare-root.html,SAM-BR-40/60,Elder,Elder 40/60cm bare root
-Product,SAM-BR-60/90,SAM,Elder-(Sambucus-nigra)-60-90cm-bare-root.html,SAM-BR-60/90,Elder,Elder 60/90cm bare root
-Product,SAM-BR-90/120,SAM,Elder-(Sambucus-nigra)-90-120cm-bare-root.html,SAM-BR-90/120,Elder,Elder 90/120cm bare root
-Product,SAM-PG-40/60-2L,SAM,Elder-(Sambucus-nigra)-40-60cm-2L-pot.html,SAM-PG-40/60-2L,Elder,Elder 40/60cm 2L pot
+Product,SAM-BR-40/60,SAM,Elder-Sambucus-nigra-40-60cm-bare-root.html,SAM-BR-40/60,Elder,Elder 40/60cm bare root
+Product,SAM-BR-60/90,SAM,Elder-Sambucus-nigra-60-90cm-bare-root.html,SAM-BR-60/90,Elder,Elder 60/90cm bare root
+Product,SAM-BR-90/120,SAM,Elder-Sambucus-nigra-90-120cm-bare-root.html,SAM-BR-90/120,Elder,Elder 90/120cm bare root
+Product,SAM-PG-15/30-CG,SAM,Elder-Sambucus-nigra-15-30cm-cell-grown.html,SAM-PG-15/30-CG,Elder,Elder 15/30cm Cell grown
+Product,SAM-PG-40/60-2L,SAM,Elder-Sambucus-nigra-40-60cm-2L-pot.html,SAM-PG-40/60-2L,Elder,Elder 40/60cm 2L pot
 End,Section,,,,,
 Section,Elder - Golden,SAMA,golden_elder.html,,,
 End,Section,,,,,
 Section,Escallonia - Pink,ESCD,pink-escallonia-donard-seedling.html,,,
-Product,ESCD-PG-20/40-2L,ESCD,Pink-Escallonia-(Escallonia-Donard-Seedling)-20-40cm-2L-pot.html,ESCD-PG-20/40-2L,Escallonia - Pink,Pink Escallonia 20/40cm 2L pot
-Product,ESCD-PG-40/60-2L,ESCD,Pink-Escallonia-(Escallonia-Donard-Seedling)-40-60cm-2L-pot.html,ESCD-PG-40/60-2L,Escallonia - Pink,Pink Escallonia 40/60cm 2L pot
-Product,ESCD-PG-40/60-5L,ESCD,Pink-Escallonia-(Escallonia-Donard-Seedling)-40-60cm-5L-pot.html,ESCD-PG-40/60-5L,Escallonia - Pink,Pink Escallonia 40/60cm 5L pot
-Product,ESCD-PG-60/90-2L,ESCD,Pink-Escallonia-(Escallonia-Donard-Seedling)-60-90cm-2L-pot.html,ESCD-PG-60/90-2L,Escallonia - Pink,Pink Escallonia 60/90cm 2L pot
-Product,ESCD-PG-60/90-5L,ESCD,Pink-Escallonia-(Escallonia-Donard-Seedling)-60-90cm-5L-pot.html,ESCD-PG-60/90-5L,Escallonia - Pink,Pink Escallonia 60/90cm 5L pot
+Product,ESCD-PG-20/40-2L,ESCD,Pink-Escallonia-Escallonia-Donard-Seedling-20-40cm-2L-pot.html,ESCD-PG-20/40-2L,Escallonia - Pink,Pink Escallonia 20/40cm 2L pot
+Product,ESCD-PG-40/60-2L,ESCD,Pink-Escallonia-Escallonia-Donard-Seedling-40-60cm-2L-pot.html,ESCD-PG-40/60-2L,Escallonia - Pink,Pink Escallonia 40/60cm 2L pot
+Product,ESCD-PG-40/60-5L,ESCD,Pink-Escallonia-Escallonia-Donard-Seedling-40-60cm-5L-pot.html,ESCD-PG-40/60-5L,Escallonia - Pink,Pink Escallonia 40/60cm 5L pot
+Product,ESCD-PG-60/90-2L,ESCD,Pink-Escallonia-Escallonia-Donard-Seedling-60-90cm-2L-pot.html,ESCD-PG-60/90-2L,Escallonia - Pink,Pink Escallonia 60/90cm 2L pot
+Product,ESCD-PG-60/90-5L,ESCD,Pink-Escallonia-Escallonia-Donard-Seedling-60-90cm-5L-pot.html,ESCD-PG-60/90-5L,Escallonia - Pink,Pink Escallonia 60/90cm 5L pot
 End,Section,,,,,
-Section,English Oak,QUE,English-Oak-Quercus-Robur).html,,,
-Product,QUE-BR-40/60,QUE,English-Oak-(Quercus-Robur)-40-60cm-bare-root.html,QUE-BR-40/60,English Oak,English Oak 40/60cm bare root
-Product,QUE-BR-60/90,QUE,English-Oak-(Quercus-Robur)-60-90cm-bare-root.html,QUE-BR-60/90,English Oak,English Oak 60/90cm bare root
+Section,English Oak,QUE,English-Oak-Quercus-Robur.html,,,
+Product,QUE-BR-40/60,QUE,English-Oak-Quercus-Robur-40-60cm-bare-root.html,QUE-BR-40/60,English Oak,English Oak 40/60cm bare root
+Product,QUE-BR-60/90,QUE,English-Oak-Quercus-Robur-60-90cm-bare-root.html,QUE-BR-60/90,English Oak,English Oak 60/90cm bare root
 End,Section,,,,,
 Section,Escallonia - Red,ESCR,red-escallonia-rubra-macrantha.html,,,
-Product,ESCR-PG-20/40-2L,ESCR,Red-Escallonia-(Escallonia-Rubra-Macanthra)-20-40cm-2L-pot.html,ESCR-PG-20/40-2L,Escallonia - Red,Red Escallonia 20/40cm 2L pot
-Product,ESCR-PG-40/60-2L,ESCR,Red-Escallonia-(Escallonia-Rubra-Macanthra)-40-60cm-2L-pot.html,ESCR-PG-40/60-2L,Escallonia - Red,Red Escallonia 40/60cm 2L pot
-Product,ESCR-PG-40/60-5L,ESCR,Red-Escallonia-(Escallonia-Rubra-Macanthra)-40-60cm-5L-pot.html,ESCR-PG-40/60-5L,Escallonia - Red,Red Escallonia 40/60cm 5L pot
-Product,ESCR-PG-60/90-2L,ESCR,Red-Escallonia-(Escallonia-Rubra-Macanthra)-60-90cm-2L-pot.html,ESCR-PG-60/90-2L,Escallonia - Red,Red Escallonia 60/90cm 2L pot
-Product,ESCR-PG-60/90-5L,ESCR,Red-Escallonia-(Escallonia-Rubra-Macanthra)-60-90cm-5L-pot.html,ESCR-PG-60/90-5L,Escallonia - Red,Red Escallonia 60/90cm 5L pot
+Product,ESCR-PG-20/40-2L,ESCR,Red-Escallonia-Escallonia-Rubra-Macanthra-20-40cm-2L-pot.html,ESCR-PG-20/40-2L,Escallonia - Red,Red Escallonia 20/40cm 2L pot
+Product,ESCR-PG-40/60-2L,ESCR,Red-Escallonia-Escallonia-Rubra-Macanthra-40-60cm-2L-pot.html,ESCR-PG-40/60-2L,Escallonia - Red,Red Escallonia 40/60cm 2L pot
+Product,ESCR-PG-40/60-5L,ESCR,Red-Escallonia-Escallonia-Rubra-Macanthra-40-60cm-5L-pot.html,ESCR-PG-40/60-5L,Escallonia - Red,Red Escallonia 40/60cm 5L pot
+Product,ESCR-PG-60/90-2L,ESCR,Red-Escallonia-Escallonia-Rubra-Macanthra-60-90cm-2L-pot.html,ESCR-PG-60/90-2L,Escallonia - Red,Red Escallonia 60/90cm 2L pot
+Product,ESCR-PG-60/90-5L,ESCR,Red-Escallonia-Escallonia-Rubra-Macanthra-60-90cm-5L-pot.html,ESCR-PG-60/90-5L,Escallonia - Red,Red Escallonia 60/90cm 5L pot
 End,Section,,,,,
 Section,Escallonia - White,ESCI,white-escallonia-iveyi.html,,,
-Product,ESCI-PG-20/40-2L,ESCI,White-Escallonia-(Escallonia-Iveyi)-20-40cm-2L-pot.html,ESCI-PG-20/40-2L,Escallonia - White,White Escallonia 20/40cm 2L pot
-Product,ESCI-PG-40/60-2L,ESCI,White-Escallonia-(Escallonia-Iveyi)-40-60cm-2L-pot.html,ESCI-PG-40/60-2L,Escallonia - White,White Escallonia 40/60cm 2L pot
-Product,ESCI-PG-40/60-5L,ESCI,White-Escallonia-(Escallonia-Iveyi)-40-60cm-5L-pot.html,ESCI-PG-40/60-5L,Escallonia - White,White Escallonia 40/60cm 5L pot
-Product,ESCI-PG-60/90-2L,ESCI,White-Escallonia-(Escallonia-Iveyi)-60-90cm-2L-pot.html,ESCI-PG-60/90-2L,Escallonia - White,White Escallonia 60/90cm 2L pot
-Product,ESCI-PG-60/90-5L,ESCI,White-Escallonia-(Escallonia-Iveyi)-60-90cm-5L-pot.html,ESCI-PG-60/90-5L,Escallonia - White,White Escallonia 60/90cm 5L pot
+Product,ESCI-PG-20/40-2L,ESCI,White-Escallonia-Escallonia-Iveyi-20-40cm-2L-pot.html,ESCI-PG-20/40-2L,Escallonia - White,White Escallonia 20/40cm 2L pot
+Product,ESCI-PG-40/60-2L,ESCI,White-Escallonia-Escallonia-Iveyi-40-60cm-2L-pot.html,ESCI-PG-40/60-2L,Escallonia - White,White Escallonia 40/60cm 2L pot
+Product,ESCI-PG-40/60-5L,ESCI,White-Escallonia-Escallonia-Iveyi-40-60cm-5L-pot.html,ESCI-PG-40/60-5L,Escallonia - White,White Escallonia 40/60cm 5L pot
+Product,ESCI-PG-60/90-2L,ESCI,White-Escallonia-Escallonia-Iveyi-60-90cm-2L-pot.html,ESCI-PG-60/90-2L,Escallonia - White,White Escallonia 60/90cm 2L pot
+Product,ESCI-PG-60/90-5L,ESCI,White-Escallonia-Escallonia-Iveyi-60-90cm-5L-pot.html,ESCI-PG-60/90-5L,Escallonia - White,White Escallonia 60/90cm 5L pot
 End,Section,,,,,
 Section,Euonymus 'Emerald Gaiety',EUOF,Euonymus_Emerald_Gaiety_Hedge.html,,,
-Product,EUOF-PG-15/20-2L,EUOF,Euonymus-Emerald-Gaiety-(Euonymus-fortunei-Emerald-Gaiety)-15-20cm-2L-pot.html,EUOF-PG-15/20-2L,Euonymus 'Emerald Gaiety',Euonymus 'Emerald Gaiety' 15/20cm 2L pot
-Product,EUOF-PG-20/30-5L,EUOF,Euonymus-Emerald-Gaiety-(Euonymus-fortunei-Emerald-Gaiety)-20-30cm-5L-pot.html,EUOF-PG-20/30-5L,Euonymus 'Emerald Gaiety',Euonymus 'Emerald Gaiety' 20/30cm 5L pot
+Product,EUOF-PG-15/20-2L,EUOF,Euonymus-Emerald-Gaiety-Euonymus-fortunei-Emerald-Gaiety-15-20cm-2L-pot.html,EUOF-PG-15/20-2L,Euonymus 'Emerald Gaiety',Euonymus 'Emerald Gaiety' 15/20cm 2L pot
+Product,EUOF-PG-20/30-5L,EUOF,Euonymus-Emerald-Gaiety-Euonymus-fortunei-Emerald-Gaiety-20-30cm-5L-pot.html,EUOF-PG-20/30-5L,Euonymus 'Emerald Gaiety',Euonymus 'Emerald Gaiety' 20/30cm 5L pot
 End,Section,,,,,
 Section,Euonymus fortunei Emerald n Gold Hedge,EUOE,euonymous_Emerald_n_Gold.html,,,
-Product,EUOE-PG-15/20-2L,EUOE,Euonymus-Emerald-&-Gold-(Euonymus-fortunei-Emerald-n-Gold)-15-20cm-2L-pot.html,EUOE-PG-15/20-2L,Euonymus fortunei Emerald n Gold Hedge,Euonymus 'Emerald & Gold' 15/20cm 2L pot
-Product,EUOE-PG-20/30-5L,EUOE,Euonymus-Emerald-&-Gold-(Euonymus-fortunei-Emerald-n-Gold)-20-30cm-5L-pot.html,EUOE-PG-20/30-5L,Euonymus fortunei Emerald n Gold Hedge,Euonymus 'Emerald & Gold' 20/30cm 5L pot
+Product,EUOE-PG-15/20-2L,EUOE,Euonymus-Emerald-&-Gold-Euonymus-fortunei-Emerald-n-Gold-15-20cm-2L-pot.html,EUOE-PG-15/20-2L,Euonymus fortunei Emerald n Gold Hedge,Euonymus 'Emerald & Gold' 15/20cm 2L pot
+Product,EUOE-PG-20/30-5L,EUOE,Euonymus-Emerald-&-Gold-Euonymus-fortunei-Emerald-n-Gold-20-30cm-5L-pot.html,EUOE-PG-20/30-5L,Euonymus fortunei Emerald n Gold Hedge,Euonymus 'Emerald & Gold' 20/30cm 5L pot
 End,Section,,,,,
 Section,Euonymus japonicus 'Jean Hugues',EUJH,Euonymus_Japonicus_Jean_Hugues.html,,,
-Product,EUJH-PG-20/40-2L,EUJH,Euonymus-Jean-Hugues-(Euonymus-Jap-Jean-Hugues)-20-40cm-2L-pot.html,EUJH-PG-20/40-2L,Euonymus japonicus 'Jean Hugues',Euonymus 'Jean Hugues' 20/40cm 2L pot
-Product,EUJH-PG-40/60-5L,EUJH,Euonymus-Jean-Hugues-(Euonymus-Jap-Jean-Hugues)-40-60cm-5L-pot.html,EUJH-PG-40/60-5L,Euonymus japonicus 'Jean Hugues',Euonymus 'Jean Hugues' 40/60cm 5L pot
+Product,EUJH-PG-20/40-2L,EUJH,Euonymus-Jean-Hugues-Euonymus-Jap-Jean-Hugues-20-40cm-2L-pot.html,EUJH-PG-20/40-2L,Euonymus japonicus 'Jean Hugues',Euonymus 'Jean Hugues' 20/40cm 2L pot
+Product,EUJH-PG-40/60-5L,EUJH,Euonymus-Jean-Hugues-Euonymus-Jap-Jean-Hugues-40-60cm-5L-pot.html,EUJH-PG-40/60-5L,Euonymus japonicus 'Jean Hugues',Euonymus 'Jean Hugues' 40/60cm 5L pot
 End,Section,,,,,
 Section,Euonymus japonicus 'Ovatus Aureus',EUOO,Euonymus_japonicus_ovatus_aureum.html,,,
-Product,EUOO-PG-20/40-2L,EUOO,Japanese-Spindle-(Euonymus-japonicus-Ovatus-Aureus)-20-40cm-2L-pot.html,EUOO-PG-20/40-2L,Euonymus japonicus 'Ovatus Aureus',Japanese Spindle 20/40cm 2L pot
-Product,EUOO-PG-40/60-5L,EUOO,Japanese-Spindle-(Euonymus-japonicus-Ovatus-Aureus)-40-60cm-5L-pot.html,EUOO-PG-40/60-5L,Euonymus japonicus 'Ovatus Aureus',Japanese Spindle 40/60cm 5L pot
+Product,EUOO-PG-20/40-2L,EUOO,Japanese-Spindle-Euonymus-japonicus-Ovatus-Aureus-20-40cm-2L-pot.html,EUOO-PG-20/40-2L,Euonymus japonicus 'Ovatus Aureus',Japanese Spindle 20/40cm 2L pot
+Product,EUOO-PG-40/60-5L,EUOO,Japanese-Spindle-Euonymus-japonicus-Ovatus-Aureus-40-60cm-5L-pot.html,EUOO-PG-40/60-5L,Euonymus japonicus 'Ovatus Aureus',Japanese Spindle 40/60cm 5L pot
 End,Section,,,,,
 Section,Euonymus Kathy,EUOK,Euonymus_japonicus__Bravo__Hedge.html,,,
-Product,EUOK-PG-20/40-2L,EUOK,Euonymus-Kathy-(Euonymus-japonicus-Kathy)-20-40cm-2L-pot.html,EUOK-PG-20/40-2L,Euonymus Kathy,Euonymus 'Kathy' 20/40cm 2L pot
-Product,EUOK-PG-40/60-5L,EUOK,Euonymus-Kathy-(Euonymus-japonicus-Kathy)-40-60cm-5L-pot.html,EUOK-PG-40/60-5L,Euonymus Kathy,Euonymus 'Kathy' 40/60cm 5L pot
+Product,EUOK-PG-20/40-2L,EUOK,Euonymus-Kathy-Euonymus-japonicus-Kathy-20-40cm-2L-pot.html,EUOK-PG-20/40-2L,Euonymus Kathy,Euonymus 'Kathy' 20/40cm 2L pot
+Product,EUOK-PG-40/60-5L,EUOK,Euonymus-Kathy-Euonymus-japonicus-Kathy-40-60cm-5L-pot.html,EUOK-PG-40/60-5L,Euonymus Kathy,Euonymus 'Kathy' 40/60cm 5L pot
 End,Section,,,,,
 Section,Field Maple,ACE,field_maple.html,,,
-Product,ACE-BR-120/150,ACE,Field-Maple-(Acer-campestre)-120-150cm-bare-root.html,ACE-BR-120/150,Field Maple,Field maple 120/150cm bare root
-Product,ACE-BR-150/180,ACE,Field-Maple-(Acer-campestre)-150-180cm-bare-root.html,ACE-BR-150/180,Field Maple,Field maple 150/180cm bare root
-Product,ACE-BR-40/60,ACE,Field-Maple-(Acer-campestre)-40-60cm-bare-root.html,ACE-BR-40/60,Field Maple,Field maple 40/60cm bare root
-Product,ACE-BR-60/90,ACE,Field-Maple-(Acer-campestre)-60-90cm-bare-root.html,ACE-BR-60/90,Field Maple,Field maple 60/90cm bare root
-Product,ACE-BR-90/120,ACE,Field-Maple-(Acer-campestre)-90-120cm-bare-root.html,ACE-BR-90/120,Field Maple,Field maple 90/120cm bare root
-Product,ACE-PG-40/60-2L,ACE,Field-Maple-(Acer-campestre)-40-60cm-2L-pot.html,ACE-PG-40/60-2L,Field Maple,Field Maple 40/60cm 2L pot
-Product,ACE-PG-60/90-2L,ACE,Field-Maple-(Acer-campestre)-60-90cm-2L-pot.html,ACE-PG-60/90-2L,Field Maple,Field Maple 60/90cm 2L pot
-Product,ACE-PG-80/100-2L,ACE,Field-Maple-(Acer-campestre)-80-100cm-2L-pot.html,ACE-PG-80/100-2L,Field Maple,Field Maple 80/100cm 2L pot
-Product,ACE-PG-90/120-2L,ACE,Field-Maple-(Acer-campestre)-90-120cm-2L-pot.html,ACE-PG-90/120-2L,Field Maple,Field Maple 90/120cm 2L pot
+Product,ACE-BR-120/150,ACE,Field-Maple-Acer-campestre-120-150cm-bare-root.html,ACE-BR-120/150,Field Maple,Field maple 120/150cm bare root
+Product,ACE-BR-150/180,ACE,Field-Maple-Acer-campestre-150-180cm-bare-root.html,ACE-BR-150/180,Field Maple,Field maple 150/180cm bare root
+Product,ACE-BR-40/60,ACE,Field-Maple-Acer-campestre-40-60cm-bare-root.html,ACE-BR-40/60,Field Maple,Field maple 40/60cm bare root
+Product,ACE-BR-60/90,ACE,Field-Maple-Acer-campestre-60-90cm-bare-root.html,ACE-BR-60/90,Field Maple,Field maple 60/90cm bare root
+Product,ACE-BR-90/120,ACE,Field-Maple-Acer-campestre-90-120cm-bare-root.html,ACE-BR-90/120,Field Maple,Field maple 90/120cm bare root
+Product,ACE-PG-30/50-CG,ACE,Field-Maple-Acer-campestre-30-50cm-cell-grown.html,ACE-PG-30/50-CG,Field Maple,Field Maple 30/50cm Cell grown
+Product,ACE-PG-40/60-2L,ACE,Field-Maple-Acer-campestre-40-60cm-2L-pot.html,ACE-PG-40/60-2L,Field Maple,Field Maple 40/60cm 2L pot
+Product,ACE-PG-60/90-2L,ACE,Field-Maple-Acer-campestre-60-90cm-2L-pot.html,ACE-PG-60/90-2L,Field Maple,Field Maple 60/90cm 2L pot
+Product,ACE-PG-80/100-2L,ACE,Field-Maple-Acer-campestre-80-100cm-2L-pot.html,ACE-PG-80/100-2L,Field Maple,Field Maple 80/100cm 2L pot
+Product,ACE-PG-90/120-2L,ACE,Field-Maple-Acer-campestre-90-120cm-2L-pot.html,ACE-PG-90/120-2L,Field Maple,Field Maple 90/120cm 2L pot
 End,Section,,,,,
 Section,Flowering Currant,RIB,flowering_currant.html,,,
-Product,RIB-BR-40/60,RIB,Flowering-Currant-(Ribes-sanguineum-King-Edward)-40-60cm-bare-root.html,RIB-BR-40/60,Flowering Currant,Flowering currant 40/60cm bare root
-Product,RIB-BR-60/90,RIB,Flowering-Currant-(Ribes-sanguineum-King-Edward)-60-90cm-bare-root.html,RIB-BR-60/90,Flowering Currant,Flowering currant 60/90cm bare root
-Product,RIB-PG-40/60-2L,RIB,Flowering-Currant-(Ribes-sanguineum-King-Edward)-40-60cm-2L-pot.html,RIB-PG-40/60-2L,Flowering Currant,Flowering Currant 40/60cm 2L pot
-Product,RIB-PG-60/90-2L,RIB,Flowering-Currant-(Ribes-sanguineum-King-Edward)-60-90cm-2L-pot.html,RIB-PG-60/90-2L,Flowering Currant,Flowering Currant 60/90cm 2L pot
+Product,RIB-BR-40/60,RIB,Flowering-Currant-Ribes-sanguineum-King-Edward-40-60cm-bare-root.html,RIB-BR-40/60,Flowering Currant,Flowering currant 40/60cm bare root
+Product,RIB-BR-60/90,RIB,Flowering-Currant-Ribes-sanguineum-King-Edward-60-90cm-bare-root.html,RIB-BR-60/90,Flowering Currant,Flowering currant 60/90cm bare root
+Product,RIB-PG-40/60-2L,RIB,Flowering-Currant-Ribes-sanguineum-King-Edward-40-60cm-2L-pot.html,RIB-PG-40/60-2L,Flowering Currant,Flowering Currant 40/60cm 2L pot
+Product,RIB-PG-60/90-2L,RIB,Flowering-Currant-Ribes-sanguineum-King-Edward-60-90cm-2L-pot.html,RIB-PG-60/90-2L,Flowering Currant,Flowering Currant 60/90cm 2L pot
 End,Section,,,,,
 Section,Forsythia,FOR,forsythia.html,,,
-Product,FOR-BR-60/90,FOR,Forsythia-Lynwood-(Forsythia-spectabilis-Lynwood)-60-90cm-bare-root.html,FOR-BR-60/90,Forsythia,Forsythia 'Lynwood' 60/90cm bare root
-Product,FOR-PG-40/60-2L,FOR,Forsythia-Lynwood-(Forsythia-spectabilis-Lynwood)-40-60cm-2L-pot.html,FOR-PG-40/60-2L,Forsythia,Forsythia 'Lynwood' 40/60cm 2L pot
-Product,FOR-PG-60/90-2L,FOR,Forsythia-Lynwood-(Forsythia-spectabilis-Lynwood)-60-90cm-2L-pot.html,FOR-PG-60/90-2L,Forsythia,Forsythia 'Lynwood' 60/90cm 2L pot
-Product,FOR-PG-90/120-5L,FOR,Forsythia-Lynwood-(Forsythia-spectabilis-Lynwood)-90-120cm-5L-pot.html,FOR-PG-90/120-5L,Forsythia,Forsythia 'Lynwood' 90/120cm 5L pot
+Product,FOR-BR-60/90,FOR,Forsythia-Lynwood-Forsythia-spectabilis-Lynwood-60-90cm-bare-root.html,FOR-BR-60/90,Forsythia,Forsythia 'Lynwood' 60/90cm bare root
+Product,FOR-PG-40/60-2L,FOR,Forsythia-Lynwood-Forsythia-spectabilis-Lynwood-40-60cm-2L-pot.html,FOR-PG-40/60-2L,Forsythia,Forsythia 'Lynwood' 40/60cm 2L pot
+Product,FOR-PG-60/90-2L,FOR,Forsythia-Lynwood-Forsythia-spectabilis-Lynwood-60-90cm-2L-pot.html,FOR-PG-60/90-2L,Forsythia,Forsythia 'Lynwood' 60/90cm 2L pot
+Product,FOR-PG-90/120-5L,FOR,Forsythia-Lynwood-Forsythia-spectabilis-Lynwood-90-120cm-5L-pot.html,FOR-PG-90/120-5L,Forsythia,Forsythia 'Lynwood' 90/120cm 5L pot
 End,Section,,,,,
 Section,Fuchsia magellanica,FUCH,Fuchsia_magellanica.html,,,
-Product,FUCH-PG-25/40-2L,FUCH,Fuschia-Magellanica-(Fuschia-magellanica)-25-40cm-2L-pot.html,FUCH-PG-25/40-2L,Fuchsia magellanica,Fuschia Magellanica 25/40cm 2L pot
+Product,FUCH-PG-25/40-2L,FUCH,Fuschia-Magellanica-Fuschia-magellanica-25-40cm-2L-pot.html,FUCH-PG-25/40-2L,Fuchsia magellanica,Fuschia Magellanica 25/40cm 2L pot
 End,Section,,,,,
 Section,Gorse,ULE,gorse-hedging-ulex-europaeus.html,,,
-Product,ULE-PG-20/40-1.5L,ULE,Gorse-(Ulex-europaeus)-20-40cm-1-5L-pot.html,ULE-PG-20/40-1.5L,Gorse,Gorse 20/40cm 1.5L pot
-Product,ULE-PG-40/60-2L,ULE,Gorse-(Ulex-europaeus)-40-60cm-2L-pot.html,ULE-PG-40/60-2L,Gorse,Gorse 40/60cm 2L pot
+Product,ULE-PG-15/30-CG,ULE,Gorse-Ulex-europaeus-15-30cm-cell-grown.html,ULE-PG-15/30-CG,Gorse,Gorse 15/30cm Cell grown
+Product,ULE-PG-20/40-1.5L,ULE,Gorse-Ulex-europaeus-20-40cm-1-5L-pot.html,ULE-PG-20/40-1.5L,Gorse,Gorse 20/40cm 1.5L pot
+Product,ULE-PG-40/60-2L,ULE,Gorse-Ulex-europaeus-40-60cm-2L-pot.html,ULE-PG-40/60-2L,Gorse,Gorse 40/60cm 2L pot
 End,Section,,,,,
 Section,Griselinia 'Dixons Cream',GRID,griselinia-littoralis-variegata-griselina-dixons-cream.html,,,
-Product,GRID-PG-40/60-2L,GRID,Griselinia-Dixons-Cream-(Griselinia-Variegata)-40-60cm-2L-pot.html,GRID-PG-40/60-2L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 40/60cm 2L pot
-Product,GRID-PG-40/60-5L,GRID,Griselinia-Dixons-Cream-(Griselinia-Variegata)-40-60cm-5L-pot.html,GRID-PG-40/60-5L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 40/60cm 5L pot
-Product,GRID-PG-60/90-2L,GRID,Griselinia-Dixons-Cream-(Griselinia-Variegata)-60-90cm-2L-pot.html,GRID-PG-60/90-2L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 60/90cm 2L pot
-Product,GRID-PG-60/90-5L,GRID,Griselinia-Dixons-Cream-(Griselinia-Variegata)-60-90cm-5L-pot.html,GRID-PG-60/90-5L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 60/90cm 5L pot
+Product,GRID-PG-40/60-2L,GRID,Griselinia-Dixons-Cream-Griselinia-Variegata-40-60cm-2L-pot.html,GRID-PG-40/60-2L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 40/60cm 2L pot
+Product,GRID-PG-40/60-5L,GRID,Griselinia-Dixons-Cream-Griselinia-Variegata-40-60cm-5L-pot.html,GRID-PG-40/60-5L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 40/60cm 5L pot
+Product,GRID-PG-60/90-2L,GRID,Griselinia-Dixons-Cream-Griselinia-Variegata-60-90cm-2L-pot.html,GRID-PG-60/90-2L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 60/90cm 2L pot
+Product,GRID-PG-60/90-5L,GRID,Griselinia-Dixons-Cream-Griselinia-Variegata-60-90cm-5L-pot.html,GRID-PG-60/90-5L,Griselinia 'Dixons Cream',Griselinia 'Dixons Cream' 60/90cm 5L pot
 End,Section,,,,,
 Section,Griselinia littoralis,GRIS,griselinia_littoralis.html,,,
-Product,GRIS-BR-40/60,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-40-60cm-bare-root.html,GRIS-BR-40/60,Griselinia littoralis,Griselinia littoralis 40/60cm bare root
-Product,GRIS-BR-60/90,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-60-90cm-bare-root.html,GRIS-BR-60/90,Griselinia littoralis,Griselinia littoralis 60/90cm bare root
-Product,GRIS-PG-120/150-10L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-120-150cm-10L-pot.html,GRIS-PG-120/150-10L,Griselinia littoralis,Griselinia Littoralis 120/150cm 10L pot
-Product,GRIS-PG-120/150-20L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-120-150cm-20L-pot.html,GRIS-PG-120/150-20L,Griselinia littoralis,Griselinia Littoralis 120/150cm 20L pot
-Product,GRIS-PG-40/60-2L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-40-60cm-2L-pot.html,GRIS-PG-40/60-2L,Griselinia littoralis,Griselinia Littoralis 40/60cm 2L pot
-Product,GRIS-PG-60/90-2L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-60-90cm-2L-pot.html,GRIS-PG-60/90-2L,Griselinia littoralis,Griselinia Littoralis 60/90cm 2L pot
-Product,GRIS-PG-60/90-5L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-60-90cm-5L-pot.html,GRIS-PG-60/90-5L,Griselinia littoralis,Griselinia Littoralis 60/90cm 5L pot
-Product,GRIS-PG-90/120-20L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-90-120cm-20L-pot.html,GRIS-PG-90/120-20L,Griselinia littoralis,Griselinia Littoralis 90/120cm 20L pot
-Product,GRIS-PG-90/120-5L,GRIS,Griselinia-Littoralis-(Griselinia-littoralis)-90-120cm-5L-pot.html,GRIS-PG-90/120-5L,Griselinia littoralis,Griselinia Littoralis 90/120cm 5L pot
+Product,GRIS-BR-40/60,GRIS,Griselinia-Littoralis-Griselinia-littoralis-40-60cm-bare-root.html,GRIS-BR-40/60,Griselinia littoralis,Griselinia littoralis 40/60cm bare root
+Product,GRIS-BR-60/90,GRIS,Griselinia-Littoralis-Griselinia-littoralis-60-90cm-bare-root.html,GRIS-BR-60/90,Griselinia littoralis,Griselinia littoralis 60/90cm bare root
+Product,GRIS-PG-120/150-10L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-120-150cm-10L-pot.html,GRIS-PG-120/150-10L,Griselinia littoralis,Griselinia Littoralis 120/150cm 10L pot
+Product,GRIS-PG-120/150-20L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-120-150cm-20L-pot.html,GRIS-PG-120/150-20L,Griselinia littoralis,Griselinia Littoralis 120/150cm 20L pot
+Product,GRIS-PG-40/60-2L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-40-60cm-2L-pot.html,GRIS-PG-40/60-2L,Griselinia littoralis,Griselinia Littoralis 40/60cm 2L pot
+Product,GRIS-PG-60/90-2L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-60-90cm-2L-pot.html,GRIS-PG-60/90-2L,Griselinia littoralis,Griselinia Littoralis 60/90cm 2L pot
+Product,GRIS-PG-60/90-5L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-60-90cm-5L-pot.html,GRIS-PG-60/90-5L,Griselinia littoralis,Griselinia Littoralis 60/90cm 5L pot
+Product,GRIS-PG-90/120-20L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-90-120cm-20L-pot.html,GRIS-PG-90/120-20L,Griselinia littoralis,Griselinia Littoralis 90/120cm 20L pot
+Product,GRIS-PG-90/120-5L,GRIS,Griselinia-Littoralis-Griselinia-littoralis-90-120cm-5L-pot.html,GRIS-PG-90/120-5L,Griselinia littoralis,Griselinia Littoralis 90/120cm 5L pot
 End,Section,,,,,
 Section,Hawthorn,CRA,common_hawthorn.html,,,
-Product,CRA-BR-120/150,CRA,Hawthorn-(Craetagus-monogyna)-120-150cm-bare-root.html,CRA-BR-120/150,Hawthorn,Hawthorn 120/150cm bare root
-Product,CRA-BR-150/175,CRA,Hawthorn-(Craetagus-monogyna)-150-175cm-bare-root.html,CRA-BR-150/175,Hawthorn,Hawthorn 150/175cm bare root
-Product,CRA-BR-175/200,CRA,Hawthorn-(Craetagus-monogyna)-175-200cm-bare-root.html,CRA-BR-175/200,Hawthorn,Hawthorn 175/200cm bare root
-Product,CRA-BR-20/30,CRA,Hawthorn-(Craetagus-monogyna)-20-30cm-bare-root.html,CRA-BR-20/30,Hawthorn,Hawthorn 20/30cm bare root
-Product,CRA-BR-40/60,CRA,Hawthorn-(Craetagus-monogyna)-40-60cm-bare-root.html,CRA-BR-40/60,Hawthorn,Hawthorn 40/60cm bare root
-Product,CRA-BR-60/90,CRA,Hawthorn-(Craetagus-monogyna)-60-90cm-bare-root.html,CRA-BR-60/90,Hawthorn,Hawthorn 60/90cm bare root
-Product,CRA-BR-90/120,CRA,Hawthorn-(Craetagus-monogyna)-90-120cm-bare-root.html,CRA-BR-90/120,Hawthorn,Hawthorn 90/120cm bare root
-Product,CRA-PG-120/150-5L,CRA,Hawthorn-(Craetagus-monogyna)-120-150cm-5L-pot.html,CRA-PG-120/150-5L,Hawthorn,Hawthorn 120/150cm 5L pot
-Product,CRA-PG-150/175-20L,CRA,Hawthorn-(Craetagus-monogyna)-150-175cm-20L-pot.html,CRA-PG-150/175-20L,Hawthorn,Hawthorn 150/175cm 20L pot
-Product,CRA-PG-40/60-2L,CRA,Hawthorn-(Craetagus-monogyna)-40-60cm-2L-pot.html,CRA-PG-40/60-2L,Hawthorn,Hawthorn 40/60cm 2L pot
-Product,CRA-PG-60/90-2L,CRA,Hawthorn-(Craetagus-monogyna)-60-90cm-2L-pot.html,CRA-PG-60/90-2L,Hawthorn,Hawthorn 60/90cm 2L pot
-Product,CRA-PG-90/120-2L,CRA,Hawthorn-(Craetagus-monogyna)-90-120cm-2L-pot.html,CRA-PG-90/120-2L,Hawthorn,Hawthorn 90/120cm 2L pot
-Product,CRA-PG-90/120-5L,CRA,Hawthorn-(Craetagus-monogyna)-90-120cm-5L-pot.html,CRA-PG-90/120-5L,Hawthorn,Hawthorn 90/120cm 5L pot
-Product,CRA-RB-150/175,CRA,Hawthorn-(Craetagus-monogyna)-150-175cm-Root-ball.html,CRA-RB-150/175,Hawthorn,Hawthorn 150/175cm Root ball
-Product,CRA-RB-175/200,CRA,Hawthorn-(Craetagus-monogyna)-175-200cm-Root-ball.html,CRA-RB-175/200,Hawthorn,Hawthorn 175/200cm Root ball
+Product,CRA-BR-120/150,CRA,Hawthorn-Craetagus-monogyna-120-150cm-bare-root.html,CRA-BR-120/150,Hawthorn,Hawthorn 120/150cm bare root
+Product,CRA-BR-150/175,CRA,Hawthorn-Craetagus-monogyna-150-175cm-bare-root.html,CRA-BR-150/175,Hawthorn,Hawthorn 150/175cm bare root
+Product,CRA-BR-175/200,CRA,Hawthorn-Craetagus-monogyna-175-200cm-bare-root.html,CRA-BR-175/200,Hawthorn,Hawthorn 175/200cm bare root
+Product,CRA-BR-20/30,CRA,Hawthorn-Craetagus-monogyna-20-30cm-bare-root.html,CRA-BR-20/30,Hawthorn,Hawthorn 20/30cm bare root
+Product,CRA-BR-40/60,CRA,Hawthorn-Craetagus-monogyna-40-60cm-bare-root.html,CRA-BR-40/60,Hawthorn,Hawthorn 40/60cm bare root
+Product,CRA-BR-60/90,CRA,Hawthorn-Craetagus-monogyna-60-90cm-bare-root.html,CRA-BR-60/90,Hawthorn,Hawthorn 60/90cm bare root
+Product,CRA-BR-90/120,CRA,Hawthorn-Craetagus-monogyna-90-120cm-bare-root.html,CRA-BR-90/120,Hawthorn,Hawthorn 90/120cm bare root
+Product,CRA-PG-30/50-CG,CRA,Hawthorn-Craetagus-monogyna-30-50cm-cell-grown.html,CRA-PG-30/50-CG,Hawthorn,Hawthorn 30/50cm Cell grown
+Product,CRA-PG-120/150-5L,CRA,Hawthorn-Craetagus-monogyna-120-150cm-5L-pot.html,CRA-PG-120/150-5L,Hawthorn,Hawthorn 120/150cm 5L pot
+Product,CRA-PG-150/175-20L,CRA,Hawthorn-Craetagus-monogyna-150-175cm-20L-pot.html,CRA-PG-150/175-20L,Hawthorn,Hawthorn 150/175cm 20L pot
+Product,CRA-PG-40/60-2L,CRA,Hawthorn-Craetagus-monogyna-40-60cm-2L-pot.html,CRA-PG-40/60-2L,Hawthorn,Hawthorn 40/60cm 2L pot
+Product,CRA-PG-60/90-2L,CRA,Hawthorn-Craetagus-monogyna-60-90cm-2L-pot.html,CRA-PG-60/90-2L,Hawthorn,Hawthorn 60/90cm 2L pot
+Product,CRA-PG-90/120-2L,CRA,Hawthorn-Craetagus-monogyna-90-120cm-2L-pot.html,CRA-PG-90/120-2L,Hawthorn,Hawthorn 90/120cm 2L pot
+Product,CRA-PG-90/120-5L,CRA,Hawthorn-Craetagus-monogyna-90-120cm-5L-pot.html,CRA-PG-90/120-5L,Hawthorn,Hawthorn 90/120cm 5L pot
+Product,CRA-RB-150/175,CRA,Hawthorn-Craetagus-monogyna-150-175cm-Root-ball.html,CRA-RB-150/175,Hawthorn,Hawthorn 150/175cm Root ball
+Product,CRA-RB-175/200,CRA,Hawthorn-Craetagus-monogyna-175-200cm-Root-ball.html,CRA-RB-175/200,Hawthorn,Hawthorn 175/200cm Root ball
 Product,CRA-IH-100/120-40L,CRA,Hawthorn-Craetagus-monogyna-40L-100-120cm-1-Metre-trough.html,CRA-IH-100/120-40L,Hawthorn,Hawthorn 40L 100/120cm 1 Metre trough
 Product,CRA-IH-150/175-90L,CRA,Hawthorn-Craetagus-monogyna-90L-150-175cm-1-Metre-trough.html,CRA-IH-150/175-90L,Hawthorn,Hawthorn 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Hazel,COR,hazel_hedge.html,,,
-Product,COR-BR-120/150,COR,Hazel-(Corylus-avellana)-120-150cm-bare-root.html,COR-BR-120/150,Hazel,Hazel 120/150cm bare root
-Product,COR-BR-150/200,COR,Hazel-(Corylus-avellana)-150-200cm-bare-root.html,COR-BR-150/200,Hazel,Hazel 150/200cm bare root
-Product,COR-BR-40/60,COR,Hazel-(Corylus-avellana)-40-60cm-bare-root.html,COR-BR-40/60,Hazel,Hazel 40/60cm bare root
-Product,COR-BR-60/90,COR,Hazel-(Corylus-avellana)-60-90cm-bare-root.html,COR-BR-60/90,Hazel,Hazel 60/90cm bare root
-Product,COR-BR-90/120,COR,Hazel-(Corylus-avellana)-90-120cm-bare-root.html,COR-BR-90/120,Hazel,Hazel 90/120cm bare root
-Product,COR-PG-40/60-2L,COR,Hazel-(Corylus-avellana)-40-60cm-2L-pot.html,COR-PG-40/60-2L,Hazel,Hazel 40/60cm 2L pot
-Product,COR-PG-60/90-2L,COR,Hazel-(Corylus-avellana)-60-90cm-2L-pot.html,COR-PG-60/90-2L,Hazel,Hazel 60/90cm 2L pot
+Product,COR-BR-120/150,COR,Hazel-Corylus-avellana-120-150cm-bare-root.html,COR-BR-120/150,Hazel,Hazel 120/150cm bare root
+Product,COR-BR-150/200,COR,Hazel-Corylus-avellana-150-200cm-bare-root.html,COR-BR-150/200,Hazel,Hazel 150/200cm bare root
+Product,COR-BR-40/60,COR,Hazel-Corylus-avellana-40-60cm-bare-root.html,COR-BR-40/60,Hazel,Hazel 40/60cm bare root
+Product,COR-BR-60/90,COR,Hazel-Corylus-avellana-60-90cm-bare-root.html,COR-BR-60/90,Hazel,Hazel 60/90cm bare root
+Product,COR-BR-90/120,COR,Hazel-Corylus-avellana-90-120cm-bare-root.html,COR-BR-90/120,Hazel,Hazel 90/120cm bare root
+Product,COR-PG-30/50-CG,COR,Hazel-Corylus-avellana-30-50-cell-grown.html,COR-PG-30/50-CG,Hazel,Hazel 30/50cm Cell grown
+Product,COR-PG-40/60-2L,COR,Hazel-Corylus-avellana-40-60cm-2L-pot.html,COR-PG-40/60-2L,Hazel,Hazel 40/60cm 2L pot
+Product,COR-PG-60/90-2L,COR,Hazel-Corylus-avellana-60-90cm-2L-pot.html,COR-PG-60/90-2L,Hazel,Hazel 60/90cm 2L pot
 End,Section,,,,,
 Section,Hebe 'Mrs Winder',HEBM,Hebe-Veronica-Mrs-Winder-Hebe-Mrs-Winder.html,,,
-Product,HEBM-PG-15/20-2L,HEBM,Hebe-Veronica-Mrs-Winder-(Hebe-Mrs-Winder)-15-20cm-2L-pot.html,HEBM-PG-15/20-2L,Hebe 'Mrs Winder',Hebe Veronica 'Mrs Winder' 15/20cm 2L pot
+Product,HEBM-PG-15/20-2L,HEBM,Hebe-Veronica-Mrs-Winder-Hebe-Mrs-Winder-15-20cm-2L-pot.html,HEBM-PG-15/20-2L,Hebe 'Mrs Winder',Hebe Veronica 'Mrs Winder' 15/20cm 2L pot
 End,Section,,,,,
 Section,Hebe 'Red Edge',HEBR,Hebe-Veronica-Red-Edge-Hebe-Red-Edge.html,,,
-Product,HEBR-PG-15/20-2L,HEBR,Hebe-Veronica-Red-Edge-(Hebe-Red-Edge)-15-20cm-2L-pot.html,HEBR-PG-15/20-2L,Hebe 'Red Edge',Hebe Veronica 'Red Edge' 15/20cm 2L pot
+Product,HEBR-PG-15/20-2L,HEBR,Hebe-Veronica-Red-Edge-Hebe-Red-Edge-15-20cm-2L-pot.html,HEBR-PG-15/20-2L,Hebe 'Red Edge',Hebe Veronica 'Red Edge' 15/20cm 2L pot
 End,Section,,,,,
 Section,Hebe Sutherlandii,HEBS,Hebe-Veronica-Sutherlandii-Hebe-Sutherlandii.html,,,
-Product,HEBS-PG-15/20-2L,HEBS,Hebe-Veronica-Sutherlandii-(Hebe-Sutherlandii)-15-20cm-2L-pot.html,HEBS-PG-15/20-2L,Hebe Sutherlandii,Hebe Veronica 'Sutherlandii' 15/20cm 2L pot
+Product,HEBS-PG-15/20-2L,HEBS,Hebe-Veronica-Sutherlandii-Hebe-Sutherlandii-15-20cm-2L-pot.html,HEBS-PG-15/20-2L,Hebe Sutherlandii,Hebe Veronica 'Sutherlandii' 15/20cm 2L pot
 End,Section,,,,,
 Section,Holly - English,ILE,english_holly.html,,,
-Product,ILE-BR-20/30,ILE,English-Holly-(Ilex-aquifolium)-20-30cm-bare-root.html,ILE-BR-20/30,Holly - English,English Holly 20/30cm bare root
-Product,ILE-BR-40/60,ILE,English-Holly-(Ilex-aquifolium)-40-60cm-bare-root.html,ILE-BR-40/60,Holly - English,English Holly 40/60cm bare root
-Product,ILE-PG-120/150-10L,ILE,English-Holly-(Ilex-aquifolium)-120-150cm-10L-pot.html,ILE-PG-120/150-10L,Holly - English,English Holly 120/150cm 10L pot
-Product,ILE-PG-120/150-7.5L,ILE,English-Holly-(Ilex-aquifolium)-120-150cm-7.5L-pot.html,ILE-PG-120/150-7.5L,Holly - English,English Holly 120/150cm 7.5L pot
-Product,ILE-PG-20/40-2L,ILE,English-Holly-(Ilex-aquifolium)-20-40cm-2L-pot.html,ILE-PG-20/40-2L,Holly - English,English Holly 20/40cm 2L pot
-Product,ILE-PG-200/225-25L,ILE,English-Holly-(Ilex-aquifolium)-200-225cm-25L-pot.html,ILE-PG-200/225-25L,Holly - English,English Holly 200/225cm 25L pot
-Product,ILE-PG-40/60-2L,ILE,English-Holly-(Ilex-aquifolium)-40-60cm-2L-pot.html,ILE-PG-40/60-2L,Holly - English,English Holly 40/60cm 2L pot
-Product,ILE-PG-60/90-2L,ILE,English-Holly-(Ilex-aquifolium)-60-90cm-2L-pot.html,ILE-PG-60/90-2L,Holly - English,English Holly 60/90cm 2L pot
-Product,ILE-PG-80/100-5L,ILE,English-Holly-(Ilex-aquifolium)-80-100cm-5L-pot.html,ILE-PG-80/100-5L,Holly - English,English Holly 80/100cm  pot
-Product,ILE-PG-90/120-5L,ILE,English-Holly-(Ilex-aquifolium)-90-120cm-5L-pot.html,ILE-PG-90/120-5L,Holly - English,English Holly 90/120cm 5L pot
-Product,ILE-RB-100/125,ILE,English-Holly-(Ilex-aquifolium)-100-125cm-Root-ball.html,ILE-RB-100/125,Holly - English,English Holly 100/125cm Root ball
-Product,ILE-RB-125/150,ILE,English-Holly-(Ilex-aquifolium)-125-150cm-Root-ball.html,ILE-RB-125/150,Holly - English,English Holly 125/150cm Root ball
-Product,ILE-RB-150/175,ILE,English-Holly-(Ilex-aquifolium)-150-175cm-Root-ball.html,ILE-RB-150/175,Holly - English,English Holly 150/175cm Root ball
-Product,ILE-RB-175/200,ILE,English-Holly-(Ilex-aquifolium)-175-200cm-Root-ball.html,ILE-RB-175/200,Holly - English,English Holly 175/200cm Root ball
-Product,ILE-RB-200/225,ILE,English-Holly-(Ilex-aquifolium)-200-225cm-Root-ball.html,ILE-RB-200/225,Holly - English,English Holly 200/225cm Root ball
-Product,ILE-RB-80/100,ILE,English-Holly-(Ilex-aquifolium)-80-100cm-Root-ball.html,ILE-RB-80/100,Holly - English,English Holly 80/100cm Root ball
+Product,ILE-BR-20/30,ILE,English-Holly-Ilex-aquifolium-20-30cm-bare-root.html,ILE-BR-20/30,Holly - English,English Holly 20/30cm bare root
+Product,ILE-BR-40/60,ILE,English-Holly-Ilex-aquifolium-40-60cm-bare-root.html,ILE-BR-40/60,Holly - English,English Holly 40/60cm bare root
+Product,ILE-PG-20/40-CG,ILE,English-Holly-Ilex-aquifolium-20-40cm-cell-grown.html,ILE-PG-20/40-CG,Holly - English,English Holly 20/40cm Cell grown
+Product,ILE-PG-120/150-10L,ILE,English-Holly-Ilex-aquifolium-120-150cm-10L-pot.html,ILE-PG-120/150-10L,Holly - English,English Holly 120/150cm 10L pot
+Product,ILE-PG-120/150-7.5L,ILE,English-Holly-Ilex-aquifolium-120-150cm-7.5L-pot.html,ILE-PG-120/150-7.5L,Holly - English,English Holly 120/150cm 7.5L pot
+Product,ILE-PG-20/40-2L,ILE,English-Holly-Ilex-aquifolium-20-40cm-2L-pot.html,ILE-PG-20/40-2L,Holly - English,English Holly 20/40cm 2L pot
+Product,ILE-PG-200/225-25L,ILE,English-Holly-Ilex-aquifolium-200-225cm-25L-pot.html,ILE-PG-200/225-25L,Holly - English,English Holly 200/225cm 25L pot
+Product,ILE-PG-40/60-2L,ILE,English-Holly-Ilex-aquifolium-40-60cm-2L-pot.html,ILE-PG-40/60-2L,Holly - English,English Holly 40/60cm 2L pot
+Product,ILE-PG-60/90-2L,ILE,English-Holly-Ilex-aquifolium-60-90cm-2L-pot.html,ILE-PG-60/90-2L,Holly - English,English Holly 60/90cm 2L pot
+Product,ILE-PG-80/100-5L,ILE,English-Holly-Ilex-aquifolium-80-100cm-5L-pot.html,ILE-PG-80/100-5L,Holly - English,English Holly 80/100cm  pot
+Product,ILE-PG-90/120-5L,ILE,English-Holly-Ilex-aquifolium-90-120cm-5L-pot.html,ILE-PG-90/120-5L,Holly - English,English Holly 90/120cm 5L pot
+Product,ILE-RB-100/125,ILE,English-Holly-Ilex-aquifolium-100-125cm-Root-ball.html,ILE-RB-100/125,Holly - English,English Holly 100/125cm Root ball
+Product,ILE-RB-125/150,ILE,English-Holly-Ilex-aquifolium-125-150cm-Root-ball.html,ILE-RB-125/150,Holly - English,English Holly 125/150cm Root ball
+Product,ILE-RB-150/175,ILE,English-Holly-Ilex-aquifolium-150-175cm-Root-ball.html,ILE-RB-150/175,Holly - English,English Holly 150/175cm Root ball
+Product,ILE-RB-175/200,ILE,English-Holly-Ilex-aquifolium-175-200cm-Root-ball.html,ILE-RB-175/200,Holly - English,English Holly 175/200cm Root ball
+Product,ILE-RB-200/225,ILE,English-Holly-Ilex-aquifolium-200-225cm-Root-ball.html,ILE-RB-200/225,Holly - English,English Holly 200/225cm Root ball
+Product,ILE-RB-80/100,ILE,English-Holly-Ilex-aquifolium-80-100cm-Root-ball.html,ILE-RB-80/100,Holly - English,English Holly 80/100cm Root ball
 Product,ILE-IH-100/120-40L,ILE,English-Holly-Ilex-aquifolium-40L-100-120cm-1-Metre-trough.html,ILE-IH-100/120-40L,Holly - English,English Holly 40L 100/120cm 1 Metre trough
 Product,ILE-IH-150/175-90L,ILE,English-Holly-Ilex-aquifolium-90L-150-175cm-1-Metre-trough.html,ILE-IH-150/175-90L,Holly - English,English Holly 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Holly - Silver,ILAM,silver_holly.html,,,
-Product,ILAM-PG-20/40-2L,ILAM,Silver-Holly-(Ilex-aquifolium-Argentea-Marginata)-20-40cm-2L-pot.html,ILAM-PG-20/40-2L,Holly - Silver,Silver Holly 20/40cm 2L pot
-Product,ILAM-PG-40/60-2L,ILAM,Silver-Holly-(Ilex-aquifolium-Argentea-Marginata)-40-60cm-2L-pot.html,ILAM-PG-40/60-2L,Holly - Silver,Silver Holly 40/60cm 2L pot
-Product,ILAM-PG-60/90-2L,ILAM,Silver-Holly-(Ilex-aquifolium-Argentea-Marginata)-60-90cm-2L-pot.html,ILAM-PG-60/90-2L,Holly - Silver,Silver Holly 60/90cm 2L pot
-Product,ILAM-PG-60/90-5L,ILAM,Silver-Holly-(Ilex-aquifolium-Argentea-Marginata)-60-90cm-5L-pot.html,ILAM-PG-60/90-5L,Holly - Silver,Silver Holly 60/90cm 5L pot
-Product,ILAM-PG-90/120-5L,ILAM,Silver-Holly-(Ilex-aquifolium-Argentea-Marginata)-90-120cm-5L-pot.html,ILAM-PG-90/120-5L,Holly - Silver,Silver Holly 90/120cm 5L pot
+Product,ILAM-PG-20/40-2L,ILAM,Silver-Holly-Ilex-aquifolium-Argentea-Marginata-20-40cm-2L-pot.html,ILAM-PG-20/40-2L,Holly - Silver,Silver Holly 20/40cm 2L pot
+Product,ILAM-PG-40/60-2L,ILAM,Silver-Holly-Ilex-aquifolium-Argentea-Marginata-40-60cm-2L-pot.html,ILAM-PG-40/60-2L,Holly - Silver,Silver Holly 40/60cm 2L pot
+Product,ILAM-PG-60/90-2L,ILAM,Silver-Holly-Ilex-aquifolium-Argentea-Marginata-60-90cm-2L-pot.html,ILAM-PG-60/90-2L,Holly - Silver,Silver Holly 60/90cm 2L pot
+Product,ILAM-PG-60/90-5L,ILAM,Silver-Holly-Ilex-aquifolium-Argentea-Marginata-60-90cm-5L-pot.html,ILAM-PG-60/90-5L,Holly - Silver,Silver Holly 60/90cm 5L pot
+Product,ILAM-PG-90/120-5L,ILAM,Silver-Holly-Ilex-aquifolium-Argentea-Marginata-90-120cm-5L-pot.html,ILAM-PG-90/120-5L,Holly - Silver,Silver Holly 90/120cm 5L pot
 End,Section,,,,,
 Section,Hornbeam,CARP,hornbeam_hedge.html,,,
-Product,CARP-BR-120/150,CARP,Hornbeam-(Carpinus-betulus)-120-150cm-bare-root.html,CARP-BR-120/150,Hornbeam,Hornbeam 120/150cm bare root
-Product,CARP-BR-150/180,CARP,Hornbeam-(Carpinus-betulus)-150-180cm-bare-root.html,CARP-BR-150/180,Hornbeam,Hornbeam 150/180cm bare root
-Product,CARP-BR-180/200,CARP,Hornbeam-(Carpinus-betulus)-180-200cm-bare-root.html,CARP-BR-180/200,Hornbeam,Hornbeam 180/200cm bare root
-Product,CARP-BR-40/60,CARP,Hornbeam-(Carpinus-betulus)-40-60cm-bare-root.html,CARP-BR-40/60,Hornbeam,Hornbeam 40/60cm bare root
-Product,CARP-BR-60/90,CARP,Hornbeam-(Carpinus-betulus)-60-90cm-bare-root.html,CARP-BR-60/90,Hornbeam,Hornbeam 60/90cm bare root
-Product,CARP-BR-80/100,CARP,Hornbeam-(Carpinus-betulus)-80-100cm-bare-root.html,CARP-BR-80/100,Hornbeam,Hornbeam 80/100cm bare root
-Product,CARP-BR-90/120,CARP,Hornbeam-(Carpinus-betulus)-90-120cm-bare-root.html,CARP-BR-90/120,Hornbeam,Hornbeam 90/120cm bare root
-Product,CARP-PG-120/150-5L,CARP,Hornbeam-(Carpinus-betulus)-120-150cm-5L-pot.html,CARP-PG-120/150-5L,Hornbeam,Hornbeam 120/150cm 5L pot
-Product,CARP-PG-150/175-10L,CARP,Hornbeam-(Carpinus-betulus)-150-175cm-10L-pot.html,CARP-PG-150/175-10L,Hornbeam,Hornbeam 150/175cm 10L pot
-Product,CARP-PG-150/175-20L,CARP,Hornbeam-(Carpinus-betulus)-150-175cm-20L-pot.html,CARP-PG-150/175-20L,Hornbeam,Hornbeam 150/175cm 20L pot
-Product,CARP-PG-175/200-10L,CARP,Hornbeam-(Carpinus-betulus)-175-200cm-10L-pot.html,CARP-PG-175/200-10L,Hornbeam,Hornbeam 175/200cm 10L pot
-Product,CARP-PG-40/60-2L,CARP,Hornbeam-(Carpinus-betulus)-40-60cm-2L-pot.html,CARP-PG-40/60-2L,Hornbeam,Hornbeam 40/60cm 2L pot
-Product,CARP-PG-60/90-2L,CARP,Hornbeam-(Carpinus-betulus)-60-90cm-2L-pot.html,CARP-PG-60/90-2L,Hornbeam,Hornbeam 60/90cm 2L pot
-Product,CARP-PG-80/100-2L,CARP,Hornbeam-(Carpinus-betulus)-80-100cm-2L-pot.html,CARP-PG-80/100-2L,Hornbeam,Hornbeam 80/100cm 2L pot
-Product,CARP-PG-90/120-5L,CARP,Hornbeam-(Carpinus-betulus)-90-120cm-5L-pot.html,CARP-PG-90/120-5L,Hornbeam,Hornbeam 90/120cm 5L pot
-Product,CARP-RB-150/175,CARP,Hornbeam-(Carpinus-betulus)-150-175cm-Root-ball.html,CARP-RB-150/175,Hornbeam,Hornbeam 150/175cm Root ball
-Product,CARP-RB-175/200,CARP,Hornbeam-(Carpinus-betulus)-175-200cm-Root-ball.html,CARP-RB-175/200,Hornbeam,Hornbeam 175/200cm Root ball
-Product,CARP-RB-200/225,CARP,Hornbeam-(Carpinus-betulus)-200-225cm-Root-ball.html,CARP-RB-200/225,Hornbeam,Hornbeam 200/225cm Root ball
-Product,CARP-IH-100/120-40L,CARP,Hornbeam-Carpinus-betulus-40L-100-120cm-1-Metre-trough.html,,Hornbeam,Hornbeam 40L 100/120cm 1 Metre trough
-Product,CARP-IH-150/175-40L,CARP,Hornbeam-Carpinus-betulus-90L-150-175cm-1-Metre-trough.html,,Hornbeam,Hornbeam 90L 150/175cm 1 Metre trough
+Product,CARP-BR-120/150,CARP,Hornbeam-Carpinus-betulus-120-150cm-bare-root.html,CARP-BR-120/150,Hornbeam,Hornbeam 120/150cm bare root
+Product,CARP-BR-150/180,CARP,Hornbeam-Carpinus-betulus-150-180cm-bare-root.html,CARP-BR-150/180,Hornbeam,Hornbeam 150/180cm bare root
+Product,CARP-BR-180/200,CARP,Hornbeam-Carpinus-betulus-180-200cm-bare-root.html,CARP-BR-180/200,Hornbeam,Hornbeam 180/200cm bare root
+Product,CARP-BR-40/60,CARP,Hornbeam-Carpinus-betulus-40-60cm-bare-root.html,CARP-BR-40/60,Hornbeam,Hornbeam 40/60cm bare root
+Product,CARP-BR-60/90,CARP,Hornbeam-Carpinus-betulus-60-90cm-bare-root.html,CARP-BR-60/90,Hornbeam,Hornbeam 60/90cm bare root
+Product,CARP-BR-80/100,CARP,Hornbeam-Carpinus-betulus-80-100cm-bare-root.html,CARP-BR-80/100,Hornbeam,Hornbeam 80/100cm bare root
+Product,CARP-BR-90/120,CARP,Hornbeam-Carpinus-betulus-90-120cm-bare-root.html,CARP-BR-90/120,Hornbeam,Hornbeam 90/120cm bare root
+Product,CARP-PG-30/50-CG,CARP,Hornbeam-Carpinus-betulus-30-50cm-cell-grown.html,CARP-PG-30/50-CG,Hornbeam,
+Product,CARP-PG-120/150-5L,CARP,Hornbeam-Carpinus-betulus-120-150cm-5L-pot.html,CARP-PG-120/150-5L,Hornbeam,Hornbeam 120/150cm 5L pot
+Product,CARP-PG-150/175-10L,CARP,Hornbeam-Carpinus-betulus-150-175cm-10L-pot.html,CARP-PG-150/175-10L,Hornbeam,Hornbeam 150/175cm 10L pot
+Product,CARP-PG-150/175-20L,CARP,Hornbeam-Carpinus-betulus-150-175cm-20L-pot.html,CARP-PG-150/175-20L,Hornbeam,Hornbeam 150/175cm 20L pot
+Product,CARP-PG-175/200-10L,CARP,Hornbeam-Carpinus-betulus-175-200cm-10L-pot.html,CARP-PG-175/200-10L,Hornbeam,Hornbeam 175/200cm 10L pot
+Product,CARP-PG-40/60-2L,CARP,Hornbeam-Carpinus-betulus-40-60cm-2L-pot.html,CARP-PG-40/60-2L,Hornbeam,Hornbeam 40/60cm 2L pot
+Product,CARP-PG-60/90-2L,CARP,Hornbeam-Carpinus-betulus-60-90cm-2L-pot.html,CARP-PG-60/90-2L,Hornbeam,Hornbeam 60/90cm 2L pot
+Product,CARP-PG-80/100-2L,CARP,Hornbeam-Carpinus-betulus-80-100cm-2L-pot.html,CARP-PG-80/100-2L,Hornbeam,Hornbeam 80/100cm 2L pot
+Product,CARP-PG-90/120-5L,CARP,Hornbeam-Carpinus-betulus-90-120cm-5L-pot.html,CARP-PG-90/120-5L,Hornbeam,Hornbeam 90/120cm 5L pot
+Product,CARP-RB-150/175,CARP,Hornbeam-Carpinus-betulus-150-175cm-Root-ball.html,CARP-RB-150/175,Hornbeam,Hornbeam 150/175cm Root ball
+Product,CARP-RB-175/200,CARP,Hornbeam-Carpinus-betulus-175-200cm-Root-ball.html,CARP-RB-175/200,Hornbeam,Hornbeam 175/200cm Root ball
+Product,CARP-RB-200/225,CARP,Hornbeam-Carpinus-betulus-200-225cm-Root-ball.html,CARP-RB-200/225,Hornbeam,Hornbeam 200/225cm Root ball
+Product,CARP-IH-100/120-40L,CARP,Hornbeam-Carpinus-betulus-40L-100-120cm-1-Metre-trough.html,CARP-IH-100/120-40L,Hornbeam,Hornbeam 40L 100/120cm 1 Metre trough
+Product,CARP-IH-150/175-90L,CARP,Hornbeam-Carpinus-betulus-90L-150-175cm-1-Metre-trough.html,CARP-IH-150/175-90L,Hornbeam,Hornbeam 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Hypericum hidcote,HYP,St-Johns-Wart-Hypericum-Hidcote.html,,,
-Product,HYP-PG-20/40-2L,HYP,St-Johns-Wart-(Hypericum-Hidcote)-20-40cm-2L-pot.html,HYP-PG-20/40-2L,Hypericum hidcote,St John's Wart 20/40cm 2L pot
-Product,HYP-PG-40/60-2L,HYP,St-Johns-Wart-(Hypericum-Hidcote)-40-60cm-2L-pot.html,HYP-PG-40/60-2L,Hypericum hidcote,St John's Wart 40/60cm 2L pot
-Product,HYP-PG-40/60-5L,HYP,St-Johns-Wart-(Hypericum-Hidcote)-40-60cm-5L-pot.html,HYP-PG-40/60-5L,Hypericum hidcote,St John's Wart 40/60cm 5L pot
+Product,HYP-PG-20/40-2L,HYP,St-Johns-Wart-Hypericum-Hidcote-20-40cm-2L-pot.html,HYP-PG-20/40-2L,Hypericum hidcote,St John's Wart 20/40cm 2L pot
+Product,HYP-PG-40/60-2L,HYP,St-Johns-Wart-Hypericum-Hidcote-40-60cm-2L-pot.html,HYP-PG-40/60-2L,Hypericum hidcote,St John's Wart 40/60cm 2L pot
+Product,HYP-PG-40/60-5L,HYP,St-Johns-Wart-Hypericum-Hidcote-40-60cm-5L-pot.html,HYP-PG-40/60-5L,Hypericum hidcote,St John's Wart 40/60cm 5L pot
 End,Section,,,,,
 Section,Ilex Crenata,ILEC,Holly_-_Japanese_Holly__Ilex_crenata_.html,,,
-Product,ILEC-PG-15/20-1.5L,ILEC,Japanese-Holly-(Ilex-crenata)-15-20cm-1-5L-pot.html,ILEC-PG-15/20-1.5L,Ilex Crenata,Japanese Holly 15/20cm 1.5L pot
-Product,ILEC-PG-20/40-2L,ILEC,Japanese-Holly-(Ilex-crenata)-20-40cm-2L-pot.html,ILEC-PG-20/40-2L,Ilex Crenata,Japanese Holly 20/40cm 2L pot
-Product,ILEC-PG-40/60-5L,ILEC,Japanese-Holly-(Ilex-crenata)-40-60cm-5L-pot.html,ILEC-PG-40/60-5L,Ilex Crenata,Japanese Holly 40/60cm 5L pot
-Product,ILEC-RB-60/80,ILEC,Japanese-Holly-(Ilex-crenata)-60-80cm-Root-ball.html,ILEC-RB-60/80,Ilex Crenata,Japanese Holly 60/80cm Root ball
-Product,ILEC-RB-80/100,ILEC,Japanese-Holly-(Ilex-crenata)-80-100cm-Root-ball.html,ILEC-RB-80/100,Ilex Crenata,Japanese Holly 80/100cm Root ball
+Product,ILEC-PG-15/20-1.5L,ILEC,Japanese-Holly-Ilex-crenata-15-20cm-1-5L-pot.html,ILEC-PG-15/20-1.5L,Ilex Crenata,Japanese Holly 15/20cm 1.5L pot
+Product,ILEC-PG-20/40-2L,ILEC,Japanese-Holly-Ilex-crenata-20-40cm-2L-pot.html,ILEC-PG-20/40-2L,Ilex Crenata,Japanese Holly 20/40cm 2L pot
+Product,ILEC-PG-40/60-5L,ILEC,Japanese-Holly-Ilex-crenata-40-60cm-5L-pot.html,ILEC-PG-40/60-5L,Ilex Crenata,Japanese Holly 40/60cm 5L pot
+Product,ILEC-RB-60/80,ILEC,Japanese-Holly-Ilex-crenata-60-80cm-Root-ball.html,ILEC-RB-60/80,Ilex Crenata,Japanese Holly 60/80cm Root ball
+Product,ILEC-RB-80/100,ILEC,Japanese-Holly-Ilex-crenata-80-100cm-Root-ball.html,ILEC-RB-80/100,Ilex Crenata,Japanese Holly 80/100cm Root ball
 Product,ILEC-IH-100/120-90L,ILEC,Japanese-Holly-Ilex-crenata-90L-100-120cm-1-Metre-trough.html,ILEC-IH-100/120-90L,Ilex Crenata,Japanese Holly 90L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Irish Ivy,IIVY,Ivy.html,,,
-Product,IIVY-PG-60/90-2L,IIVY,Irish-Ivy-(Hedera-Hibernica)-60-90cm-2L-pot.html,IIVY-PG-60/90-2L,Irish Ivy,Irish Ivy 60/90cm 2L pot
+Product,IIVY-PG-60/90-2L,IIVY,Irish-Ivy-Hedera-Hibernica-60-90cm-2L-pot.html,IIVY-PG-60/90-2L,Irish Ivy,Irish Ivy 60/90cm 2L pot
 End,Section,,,,,
 Section,Jasmine - Star,TAC,star-jasmine-trachelospermum-jasminoides.html,,,
-Product,TAC-PG-60/90-2L,TAC,Star-Jasmine-(Trachelospermum-Jasminoides)-60-90cm-2L-pot.html,TAC-PG-60/90-2L,Jasmine - Star,Star Jasmine 60/90cm 2L pot
+Product,TAC-PG-60/90-2L,TAC,Star-Jasmine-Trachelospermum-Jasminoides-60-90cm-2L-pot.html,TAC-PG-60/90-2L,Jasmine - Star,Star Jasmine 60/90cm 2L pot
 End,Section,,,,,
 Section,Juneberry,AME,June_Berry_Hedge_Amelanchier_Lamarkii_.html,,,
-Product,AME-BR-120/150,AME,Juneberry-(Amelanchier-canadensis)-120-150cm-bare-root.html,AME-BR-120/150,Juneberry,Juneberry 120/150cm bare root
-Product,AME-BR-40/60,AME,Juneberry-(Amelanchier-canadensis)-40-60cm-bare-root.html,AME-BR-40/60,Juneberry,Juneberry 40/60cm bare root
-Product,AME-BR-60/90,AME,Juneberry-(Amelanchier-canadensis)-60-90cm-bare-root.html,AME-BR-60/90,Juneberry,Juneberry 60/90cm bare root
-Product,AME-BR-90/120,AME,Juneberry-(Amelanchier-canadensis)-90-120cm-bare-root.html,AME-BR-90/120,Juneberry,Juneberry 90/120cm bare root
-Product,AME-PG-40/60-2L,AME,Juneberry-(Amelanchier-canadensis)-40-60cm-2L-pot.html,AME-PG-40/60-2L,Juneberry,Juneberry 40/60cm 2L pot
-Product,AME-PG-60/90-2L,AME,Juneberry-(Amelanchier-canadensis)-60-90cm-2L-pot.html,AME-PG-60/90-2L,Juneberry,Juneberry 60/90cm 2L pot
+Product,AME-BR-120/150,AME,Juneberry-Amelanchier-canadensis-120-150cm-bare-root.html,AME-BR-120/150,Juneberry,Juneberry 120/150cm bare root
+Product,AME-BR-40/60,AME,Juneberry-Amelanchier-canadensis-40-60cm-bare-root.html,AME-BR-40/60,Juneberry,Juneberry 40/60cm bare root
+Product,AME-BR-60/90,AME,Juneberry-Amelanchier-canadensis-60-90cm-bare-root.html,AME-BR-60/90,Juneberry,Juneberry 60/90cm bare root
+Product,AME-BR-90/120,AME,Juneberry-Amelanchier-canadensis-90-120cm-bare-root.html,AME-BR-90/120,Juneberry,Juneberry 90/120cm bare root
+Product,AME-PG-40/60-2L,AME,Juneberry-Amelanchier-canadensis-40-60cm-2L-pot.html,AME-PG-40/60-2L,Juneberry,Juneberry 40/60cm 2L pot
+Product,AME-PG-60/90-2L,AME,Juneberry-Amelanchier-canadensis-60-90cm-2L-pot.html,AME-PG-60/90-2L,Juneberry,Juneberry 60/90cm 2L pot
 End,Section,,,,,
 Section,Laurel - Bay,LAUN,bay-laurel-laurus-nobilis.html,,,
-Product,LAUN-PG-120/150-10L,LAUN,Bay-Laurel-(Laurus-nobilis)-120-150cm-10L-pot.html,LAUN-PG-120/150-10L,Laurel - Bay,Bay Laurel 120/150cm 10L pot
-Product,LAUN-PG-150/175-10L,LAUN,Bay-Laurel-(Laurus-nobilis)-150-175cm-10L-pot.html,LAUN-PG-150/175-10L,Laurel - Bay,Bay Laurel 150/175cm 10L pot
-Product,LAUN-PG-20/40-2L,LAUN,Bay-Laurel-(Laurus-nobilis)-20-40cm-2L-pot.html,LAUN-PG-20/40-2L,Laurel - Bay,Bay Laurel 20/40cm 2L pot
-Product,LAUN-PG-40/60-2L,LAUN,Bay-Laurel-(Laurus-nobilis)-40-60cm-2L-pot.html,LAUN-PG-40/60-2L,Laurel - Bay,Bay Laurel 40/60cm 2L pot
-Product,LAUN-PG-60/90-2L,LAUN,Bay-Laurel-(Laurus-nobilis)-60-90cm-2L-pot.html,LAUN-PG-60/90-2L,Laurel - Bay,Bay Laurel 60/90cm 2L pot
-Product,LAUN-PG-90/120-5L,LAUN,Bay-Laurel-(Laurus-nobilis)-90-120cm-5L-pot.html,LAUN-PG-90/120-5L,Laurel - Bay,Bay Laurel 90/120cm 5L pot
+Product,LAUN-PG-120/150-10L,LAUN,Bay-Laurel-Laurus-nobilis-120-150cm-10L-pot.html,LAUN-PG-120/150-10L,Laurel - Bay,Bay Laurel 120/150cm 10L pot
+Product,LAUN-PG-150/175-10L,LAUN,Bay-Laurel-Laurus-nobilis-150-175cm-10L-pot.html,LAUN-PG-150/175-10L,Laurel - Bay,Bay Laurel 150/175cm 10L pot
+Product,LAUN-PG-20/40-2L,LAUN,Bay-Laurel-Laurus-nobilis-20-40cm-2L-pot.html,LAUN-PG-20/40-2L,Laurel - Bay,Bay Laurel 20/40cm 2L pot
+Product,LAUN-PG-40/60-2L,LAUN,Bay-Laurel-Laurus-nobilis-40-60cm-2L-pot.html,LAUN-PG-40/60-2L,Laurel - Bay,Bay Laurel 40/60cm 2L pot
+Product,LAUN-PG-60/90-2L,LAUN,Bay-Laurel-Laurus-nobilis-60-90cm-2L-pot.html,LAUN-PG-60/90-2L,Laurel - Bay,Bay Laurel 60/90cm 2L pot
+Product,LAUN-PG-90/120-5L,LAUN,Bay-Laurel-Laurus-nobilis-90-120cm-5L-pot.html,LAUN-PG-90/120-5L,Laurel - Bay,Bay Laurel 90/120cm 5L pot
 End,Section,,,,,
 Section,Laurel - Caucasica,PRLC,laurel-caucasica-prunus-laurocerasus-caucasica.html,,,
-Product,PRLC-PG-120/150-10L,PRLC,Laurel-Caucasica-(Prunus-Rotundifolia-Caucasica)-120-150cm-10L-pot.html,PRLC-PG-120/150-10L,Laurel - Caucasica,Laurel 'Caucasica' 120/150cm 10L pot
-Product,PRLC-PG-150/175-10L,PRLC,Laurel-Caucasica-(Prunus-Rotundifolia-Caucasica)-150-175cm-10L-pot.html,PRLC-PG-150/175-10L,Laurel - Caucasica,Laurel 'Caucasica' 150/175cm 10L pot
-Product,PRLC-PG-40/60-2L,PRLC,Laurel-Caucasica-(Prunus-Rotundifolia-Caucasica)-40-60cm-2L-pot.html,PRLC-PG-40/60-2L,Laurel - Caucasica,Laurel 'Caucasica' 40/60cm 2L pot
-Product,PRLC-PG-60/90-5L,PRLC,Laurel-Caucasica-(Prunus-Rotundifolia-Caucasica)-60-90cm-5L-pot.html,PRLC-PG-60/90-5L,Laurel - Caucasica,Laurel 'Caucasica' 60/90cm 5L pot
+Product,PRLC-PG-120/150-10L,PRLC,Laurel-Caucasica-Prunus-Rotundifolia-Caucasica-120-150cm-10L-pot.html,PRLC-PG-120/150-10L,Laurel - Caucasica,Laurel 'Caucasica' 120/150cm 10L pot
+Product,PRLC-PG-150/175-10L,PRLC,Laurel-Caucasica-Prunus-Rotundifolia-Caucasica-150-175cm-10L-pot.html,PRLC-PG-150/175-10L,Laurel - Caucasica,Laurel 'Caucasica' 150/175cm 10L pot
+Product,PRLC-PG-40/60-2L,PRLC,Laurel-Caucasica-Prunus-Rotundifolia-Caucasica-40-60cm-2L-pot.html,PRLC-PG-40/60-2L,Laurel - Caucasica,Laurel 'Caucasica' 40/60cm 2L pot
+Product,PRLC-PG-60/90-5L,PRLC,Laurel-Caucasica-Prunus-Rotundifolia-Caucasica-60-90cm-5L-pot.html,PRLC-PG-60/90-5L,Laurel - Caucasica,Laurel 'Caucasica' 60/90cm 5L pot
 End,Section,,,,,
 Section,Laurel - Cherry,PRLR,Cherry-Laurel-Hedge-Prunus-laurocerasus-Rotundifolia.html,,,
-Product,PRLR-BR-30/40,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-30-40cm-bare-root.html,PRLR-BR-30/40,Laurel - Cherry,Cherry laurel 30/40cm bare root
-Product,PRLR-BR-40/60,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-40-60cm-bare-root.html,PRLR-BR-40/60,Laurel - Cherry,Cherry laurel 40/60cm bare root
-Product,PRLR-BR-50/80,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-50-80cm-bare-root.html,PRLR-BR-50/80,Laurel - Cherry,Cherry laurel 50/80cm bare root
-Product,PRLR-BR-80/100,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-80-100cm-bare-root.html,PRLR-BR-80/100,Laurel - Cherry,Cherry laurel 80/100cm bare root
-Product,PRLR-PG-120/150-10L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-120-150cm-10L-pot.html,PRLR-PG-120/150-10L,Laurel - Cherry,Cherry Laurel 120/150cm 10L pot
-Product,PRLR-PG-150/175-15L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-150-175cm-15L-pot.html,PRLR-PG-150/175-15L,Laurel - Cherry,Cherry Laurel 150/175cm 15L pot
-Product,PRLR-PG-175/200-15L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-175-200cm-15L-pot.html,PRLR-PG-175/200-15L,Laurel - Cherry,Cherry Laurel 175/200cm 15L pot
-Product,PRLR-PG-20/40-2L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-20-40cm-2L-pot.html,PRLR-PG-20/40-2L,Laurel - Cherry,Cherry Laurel 20/40cm 2L pot
-Product,PRLR-PG-40/60-2L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-40-60cm-2L-pot.html,PRLR-PG-40/60-2L,Laurel - Cherry,Cherry Laurel 40/60cm 2L pot
-Product,PRLR-PG-60/90-2L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-60-90cm-2L-pot.html,PRLR-PG-60/90-2L,Laurel - Cherry,Cherry Laurel 60/90cm 2L pot
-Product,PRLR-PG-90/120-10L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-90-120cm-10L-pot.html,PRLR-PG-90/120-10L,Laurel - Cherry,Cherry Laurel 90/120cm 10L pot
-Product,PRLR-PG-90/120-5L,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-90-120cm-5L-pot.html,PRLR-PG-90/120-5L,Laurel - Cherry,Cherry Laurel 90/120cm 5L pot
-Product,PRLR-RB-100/125,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-100-125cm-Root-ball.html,PRLR-RB-100/125,Laurel - Cherry,Cherry laurel 100/125cm Root ball
-Product,PRLR-RB-125/150,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-125-150cm-Root-ball.html,PRLR-RB-125/150,Laurel - Cherry,Cherry laurel 125/150cm Root ball
-Product,PRLR-RB-150/175,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-150-175cm-Root-ball.html,PRLR-RB-150/175,Laurel - Cherry,Cherry laurel 150/175cm Root ball
-Product,PRLR-RB-175/200,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-175-200cm-Root-ball.html,PRLR-RB-175/200,Laurel - Cherry,Cherry laurel 175/200cm Root ball
-Product,PRLR-RB-200/225,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-200-225cm-Root-ball.html,PRLR-RB-200/225,Laurel - Cherry,Cherry laurel 200/225cm Root ball
-Product,PRLR-RB-60/80,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-60-80cm-Root-ball.html,PRLR-RB-60/80,Laurel - Cherry,Cherry laurel 60/80cm Root ball
-Product,PRLR-RB-80/100,PRLR,Cherry-Laurel-(Prunus-laurocerasus-Rotundifolia)-80-100cm-Root-ball.html,PRLR-RB-80/100,Laurel - Cherry,Cherry laurel 80/100cm Root ball
+Product,PRLR-BR-30/40,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-30-40cm-bare-root.html,PRLR-BR-30/40,Laurel - Cherry,Cherry laurel 30/40cm bare root
+Product,PRLR-BR-40/60,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-40-60cm-bare-root.html,PRLR-BR-40/60,Laurel - Cherry,Cherry laurel 40/60cm bare root
+Product,PRLR-BR-50/80,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-50-80cm-bare-root.html,PRLR-BR-50/80,Laurel - Cherry,Cherry laurel 50/80cm bare root
+Product,PRLR-BR-80/100,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-80-100cm-bare-root.html,PRLR-BR-80/100,Laurel - Cherry,Cherry laurel 80/100cm bare root
+Product,PRLR-PG-15/30-CG,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-15-30cm-cell-grown.html,PRLR-PG-15/30-CG,Laurel - Cherry,Cherry Laurel 15/30cm Cell grown
+Product,PRLR-PG-120/150-10L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-120-150cm-10L-pot.html,PRLR-PG-120/150-10L,Laurel - Cherry,Cherry Laurel 120/150cm 10L pot
+Product,PRLR-PG-150/175-15L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-150-175cm-15L-pot.html,PRLR-PG-150/175-15L,Laurel - Cherry,Cherry Laurel 150/175cm 15L pot
+Product,PRLR-PG-175/200-15L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-175-200cm-15L-pot.html,PRLR-PG-175/200-15L,Laurel - Cherry,Cherry Laurel 175/200cm 15L pot
+Product,PRLR-PG-20/40-2L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-20-40cm-2L-pot.html,PRLR-PG-20/40-2L,Laurel - Cherry,Cherry Laurel 20/40cm 2L pot
+Product,PRLR-PG-40/60-2L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-40-60cm-2L-pot.html,PRLR-PG-40/60-2L,Laurel - Cherry,Cherry Laurel 40/60cm 2L pot
+Product,PRLR-PG-60/90-2L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-60-90cm-2L-pot.html,PRLR-PG-60/90-2L,Laurel - Cherry,Cherry Laurel 60/90cm 2L pot
+Product,PRLR-PG-90/120-10L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-90-120cm-10L-pot.html,PRLR-PG-90/120-10L,Laurel - Cherry,Cherry Laurel 90/120cm 10L pot
+Product,PRLR-PG-90/120-5L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-90-120cm-5L-pot.html,PRLR-PG-90/120-5L,Laurel - Cherry,Cherry Laurel 90/120cm 5L pot
+Product,PRLR-RB-100/125,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-100-125cm-Root-ball.html,PRLR-RB-100/125,Laurel - Cherry,Cherry laurel 100/125cm Root ball
+Product,PRLR-RB-125/150,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-125-150cm-Root-ball.html,PRLR-RB-125/150,Laurel - Cherry,Cherry laurel 125/150cm Root ball
+Product,PRLR-RB-150/175,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-150-175cm-Root-ball.html,PRLR-RB-150/175,Laurel - Cherry,Cherry laurel 150/175cm Root ball
+Product,PRLR-RB-175/200,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-175-200cm-Root-ball.html,PRLR-RB-175/200,Laurel - Cherry,Cherry laurel 175/200cm Root ball
+Product,PRLR-RB-200/225,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-200-225cm-Root-ball.html,PRLR-RB-200/225,Laurel - Cherry,Cherry laurel 200/225cm Root ball
+Product,PRLR-RB-60/80,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-60-80cm-Root-ball.html,PRLR-RB-60/80,Laurel - Cherry,Cherry laurel 60/80cm Root ball
+Product,PRLR-RB-80/100,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-80-100cm-Root-ball.html,PRLR-RB-80/100,Laurel - Cherry,Cherry laurel 80/100cm Root ball
 Product,PRLR-IH-100/120-40L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-40L-100-120cm-1-Metre-trough.html,PRLR-IH-100/120-40L,Laurel - Cherry,Cherry Laurel 40L 100/120cm 1 Metre trough
 Product,PRLR-IH-150/175-90L,PRLR,Cherry-Laurel-Prunus-laurocerasus-Rotundifolia-90L-150-175cm-1-Metre-trough.html,PRLR-IH-150/175-90L,Laurel - Cherry,Cherry Laurel 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Laurel - Compact,PRLO,Compact_Laurel_Hedge_Prunus_Laurocerasus_Otto_Luyken.html,,,
-Product,PRLO-BR-20/30,PRLO,Compact-Laurel-Hedging-(Prunus-laurocerasus-Otto-Luyken)-20-30cm-bare-root.html,PRLO-BR-20/30,Laurel - Compact,Compact laurel 20/30cm bare root
-Product,PRLO-BR-30/50,PRLO,Compact-Laurel-Hedging-(Prunus-laurocerasus-Otto-Luyken)-30-50cm-bare-root.html,PRLO-BR-30/50,Laurel - Compact,Compact laurel 30/50cm bare root
-Product,PRLO-PG-20/40-2L,PRLO,Compact-Laurel-Hedging-(Prunus-laurocerasus-Otto-Luyken)-20-40cm-2L-pot.html,PRLO-PG-20/40-2L,Laurel - Compact,Compact Laurel Hedging 20/40cm 2L pot
-Product,PRLO-PG-40/60-5L,PRLO,Compact-Laurel-Hedging-(Prunus-laurocerasus-Otto-Luyken)-40-60cm-5L-pot.html,PRLO-PG-40/60-5L,Laurel - Compact,Compact Laurel Hedging 40/60cm 5L pot
+Product,PRLO-BR-20/30,PRLO,Compact-Laurel-Hedging-Prunus-laurocerasus-Otto-Luyken-20-30cm-bare-root.html,PRLO-BR-20/30,Laurel - Compact,Compact laurel 20/30cm bare root
+Product,PRLO-BR-30/50,PRLO,Compact-Laurel-Hedging-Prunus-laurocerasus-Otto-Luyken-30-50cm-bare-root.html,PRLO-BR-30/50,Laurel - Compact,Compact laurel 30/50cm bare root
+Product,PRLO-PG-20/40-2L,PRLO,Compact-Laurel-Hedging-Prunus-laurocerasus-Otto-Luyken-20-40cm-2L-pot.html,PRLO-PG-20/40-2L,Laurel - Compact,Compact Laurel Hedging 20/40cm 2L pot
+Product,PRLO-PG-40/60-5L,PRLO,Compact-Laurel-Hedging-Prunus-laurocerasus-Otto-Luyken-40-60cm-5L-pot.html,PRLO-PG-40/60-5L,Laurel - Compact,Compact Laurel Hedging 40/60cm 5L pot
 End,Section,,,,,
 Section,Laurel - Etna,PRLE,Laurel_Hedge_Etna_Prunus_Laurocerasus_Etna_.html,,,
-Product,PRLE-PG-20/40-2L,PRLE,Laurel-Etna-(Prunus-laurocerasus-Etna)-20-40cm-2L-pot.html,PRLE-PG-20/40-2L,Laurel - Etna,Laurel Etna 20/40cm 2L pot
-Product,PRLE-PG-40/60-5L,PRLE,Laurel-Etna-(Prunus-laurocerasus-Etna)-40-60cm-5L-pot.html,PRLE-PG-40/60-5L,Laurel - Etna,Laurel Etna 40/60cm 5L pot
-Product,PRLE-PG-60/90-10L,PRLE,Laurel-Etna-(Prunus-laurocerasus-Etna)-60-90cm-10L-pot.html,PRLE-PG-60/90-10L,Laurel - Etna,Laurel Etna 60/90cm 10L pot
+Product,PRLE-PG-20/40-2L,PRLE,Laurel-Etna-Prunus-laurocerasus-Etna-20-40cm-2L-pot.html,PRLE-PG-20/40-2L,Laurel - Etna,Laurel Etna 20/40cm 2L pot
+Product,PRLE-PG-40/60-5L,PRLE,Laurel-Etna-Prunus-laurocerasus-Etna-40-60cm-5L-pot.html,PRLE-PG-40/60-5L,Laurel - Etna,Laurel Etna 40/60cm 5L pot
+Product,PRLE-PG-60/90-10L,PRLE,Laurel-Etna-Prunus-laurocerasus-Etna-60-90cm-10L-pot.html,PRLE-PG-60/90-10L,Laurel - Etna,Laurel Etna 60/90cm 10L pot
 End,Section,,,,,
 Section,Laurel - Portuguese,PRUL,Portuguese_Laurel_Hedge_Prunus_Lusitanica.html,,,
-Product,PRUL-BR-20/40,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-20-40cm-bare-root.html,PRUL-BR-20/40,Laurel - Portuguese,Portuguese laurel 20/40cm bare root
-Product,PRUL-PG-120/150-15L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-120-150cm-15L-pot.html,PRUL-PG-120/150-15L,Laurel - Portuguese,Portuguese Laurel 120/150cm 15L pot
-Product,PRUL-PG-150/175-20L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-150-175cm-20L-pot.html,PRUL-PG-150/175-20L,Laurel - Portuguese,Portuguese Laurel 150/175cm 20L pot
-Product,PRUL-PG-20/40-2L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-20-40cm-2L-pot.html,PRUL-PG-20/40-2L,Laurel - Portuguese,Portuguese Laurel 20/40cm 2L pot
-Product,PRUL-PG-40/60-2L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-40-60cm-2L-pot.html,PRUL-PG-40/60-2L,Laurel - Portuguese,Portuguese Laurel 40/60cm 2L pot
-Product,PRUL-PG-60/90-2L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-60-90cm-2L-pot.html,PRUL-PG-60/90-2L,Laurel - Portuguese,Portuguese Laurel 60/90cm 2L pot
-Product,PRUL-PG-60/90-5L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-60-90cm-5L-pot.html,PRUL-PG-60/90-5L,Laurel - Portuguese,Portuguese Laurel 60/90cm 5L pot
-Product,PRUL-PG-80/100-5L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-80-100cm-5L-pot.html,PRUL-PG-80/100-5L,Laurel - Portuguese,Portuguese Laurel 80/100cm 5L pot
-Product,PRUL-PG-90/120-10L,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-90-120cm-10L-pot.html,PRUL-PG-90/120-10L,Laurel - Portuguese,Portuguese Laurel 90/120cm 10L pot
-Product,PRUL-RB-100/125,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-100-125cm-Root-ball.html,PRUL-RB-100/125,Laurel - Portuguese,Portuguese laurel 100/125cm Root ball
-Product,PRUL-RB-125/150,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-125-150cm-Root-ball.html,PRUL-RB-125/150,Laurel - Portuguese,Portuguese laurel 125/150cm Root ball
-Product,PRUL-RB-150/175,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-150-175cm-Root-ball.html,PRUL-RB-150/175,Laurel - Portuguese,Portuguese laurel 150/175cm Root ball
-Product,PRUL-RB-175/200,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-175-200cm-Root-ball.html,PRUL-RB-175/200,Laurel - Portuguese,Portuguese laurel 175/200cm Root ball
-Product,PRUL-RB-200/225,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-200-225cm-Root-ball.html,PRUL-RB-200/225,Laurel - Portuguese,Portuguese laurel 200/225cm Root ball
-Product,PRUL-RB-60/80,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-60-80cm-Root-ball.html,PRUL-RB-60/80,Laurel - Portuguese,Portuguese laurel 60/80cm Root ball
-Product,PRUL-RB-80/100,PRUL,Portuguese-Laurel-(Prunus-lusitanica)-80-100cm-Root-ball.html,PRUL-RB-80/100,Laurel - Portuguese,Portuguese laurel 80/100cm Root ball
+Product,PRUL-BR-20/40,PRUL,Portuguese-Laurel-Prunus-lusitanica-20-40cm-bare-root.html,PRUL-BR-20/40,Laurel - Portuguese,Portuguese laurel 20/40cm bare root
+Product,PRUL-PG-15/30-CG,PRUL,Portuguese-Laurel-Prunus-lusitanica-15-30cm-cell-grown.html,PRUL-PG-15/30-CG,Laurel - Portuguese,Portuguese Laurel 15/30cm Cell grown
+Product,PRUL-PG-120/150-15L,PRUL,Portuguese-Laurel-Prunus-lusitanica-120-150cm-15L-pot.html,PRUL-PG-120/150-15L,Laurel - Portuguese,Portuguese Laurel 120/150cm 15L pot
+Product,PRUL-PG-150/175-20L,PRUL,Portuguese-Laurel-Prunus-lusitanica-150-175cm-20L-pot.html,PRUL-PG-150/175-20L,Laurel - Portuguese,Portuguese Laurel 150/175cm 20L pot
+Product,PRUL-PG-20/40-2L,PRUL,Portuguese-Laurel-Prunus-lusitanica-20-40cm-2L-pot.html,PRUL-PG-20/40-2L,Laurel - Portuguese,Portuguese Laurel 20/40cm 2L pot
+Product,PRUL-PG-40/60-2L,PRUL,Portuguese-Laurel-Prunus-lusitanica-40-60cm-2L-pot.html,PRUL-PG-40/60-2L,Laurel - Portuguese,Portuguese Laurel 40/60cm 2L pot
+Product,PRUL-PG-60/90-2L,PRUL,Portuguese-Laurel-Prunus-lusitanica-60-90cm-2L-pot.html,PRUL-PG-60/90-2L,Laurel - Portuguese,Portuguese Laurel 60/90cm 2L pot
+Product,PRUL-PG-60/90-5L,PRUL,Portuguese-Laurel-Prunus-lusitanica-60-90cm-5L-pot.html,PRUL-PG-60/90-5L,Laurel - Portuguese,Portuguese Laurel 60/90cm 5L pot
+Product,PRUL-PG-80/100-5L,PRUL,Portuguese-Laurel-Prunus-lusitanica-80-100cm-5L-pot.html,PRUL-PG-80/100-5L,Laurel - Portuguese,Portuguese Laurel 80/100cm 5L pot
+Product,PRUL-PG-90/120-10L,PRUL,Portuguese-Laurel-Prunus-lusitanica-90-120cm-10L-pot.html,PRUL-PG-90/120-10L,Laurel - Portuguese,Portuguese Laurel 90/120cm 10L pot
+Product,PRUL-RB-100/125,PRUL,Portuguese-Laurel-Prunus-lusitanica-100-125cm-Root-ball.html,PRUL-RB-100/125,Laurel - Portuguese,Portuguese laurel 100/125cm Root ball
+Product,PRUL-RB-125/150,PRUL,Portuguese-Laurel-Prunus-lusitanica-125-150cm-Root-ball.html,PRUL-RB-125/150,Laurel - Portuguese,Portuguese laurel 125/150cm Root ball
+Product,PRUL-RB-150/175,PRUL,Portuguese-Laurel-Prunus-lusitanica-150-175cm-Root-ball.html,PRUL-RB-150/175,Laurel - Portuguese,Portuguese laurel 150/175cm Root ball
+Product,PRUL-RB-175/200,PRUL,Portuguese-Laurel-Prunus-lusitanica-175-200cm-Root-ball.html,PRUL-RB-175/200,Laurel - Portuguese,Portuguese laurel 175/200cm Root ball
+Product,PRUL-RB-200/225,PRUL,Portuguese-Laurel-Prunus-lusitanica-200-225cm-Root-ball.html,PRUL-RB-200/225,Laurel - Portuguese,Portuguese laurel 200/225cm Root ball
+Product,PRUL-RB-60/80,PRUL,Portuguese-Laurel-Prunus-lusitanica-60-80cm-Root-ball.html,PRUL-RB-60/80,Laurel - Portuguese,Portuguese laurel 60/80cm Root ball
+Product,PRUL-RB-80/100,PRUL,Portuguese-Laurel-Prunus-lusitanica-80-100cm-Root-ball.html,PRUL-RB-80/100,Laurel - Portuguese,Portuguese laurel 80/100cm Root ball
 Product,PRUL-IH-100/120-40L,PRUL,Portuguese-Laurel-Prunus-lusitanica-40L-100-120cm-1-Metre-trough.html,PRUL-IH-100/120-40L,Laurel - Portuguese,Portuguese Laurel 40L 100/120cm 1 Metre trough
 Product,PRUL-IH-150/175-90L,PRUL,Portuguese-Laurel-Prunus-lusitanica-90L-150-175cm-1-Metre-trough.html,PRUL-IH-150/175-90L,Laurel - Portuguese,Portuguese Laurel 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Laurel - Spotted,AUC,spotted-laurel-aucuba-japonica-crotonifolia.html,,,
-Product,AUC-PG-30/40-2L,AUC,Spotted-Laurel-(Aucuba-japonica-Crotonifolia)-30-40cm-2L-pot.html,AUC-PG-30/40-2L,Laurel - Spotted,Spotted Laurel 30/40cm 2L pot
-Product,AUC-PG-40/60-2L,AUC,Spotted-Laurel-(Aucuba-japonica-Crotonifolia)-40-60cm-2L-pot.html,AUC-PG-40/60-2L,Laurel - Spotted,Spotted Laurel 40/60cm 2L pot
-Product,AUC-PG-40/60-5L,AUC,Spotted-Laurel-(Aucuba-japonica-Crotonifolia)-40-60cm-5L-pot.html,AUC-PG-40/60-5L,Laurel - Spotted,Spotted Laurel 40/60cm 5L pot
-Product,AUC-PG-60/90-10L,AUC,Spotted-Laurel-(Aucuba-japonica-Crotonifolia)-60-90cm-10L-pot.html,AUC-PG-60/90-10L,Laurel - Spotted,Spotted Laurel 60/90cm 10L pot
-Product,AUC-PG-60/90-5L,AUC,Spotted-Laurel-(Aucuba-japonica-Crotonifolia)-60-90cm-5L-pot.html,AUC-PG-60/90-5L,Laurel - Spotted,Spotted Laurel 60/90cm 5L pot
+Product,AUC-PG-30/40-2L,AUC,Spotted-Laurel-Aucuba-japonica-Crotonifolia-30-40cm-2L-pot.html,AUC-PG-30/40-2L,Laurel - Spotted,Spotted Laurel 30/40cm 2L pot
+Product,AUC-PG-40/60-2L,AUC,Spotted-Laurel-Aucuba-japonica-Crotonifolia-40-60cm-2L-pot.html,AUC-PG-40/60-2L,Laurel - Spotted,Spotted Laurel 40/60cm 2L pot
+Product,AUC-PG-40/60-5L,AUC,Spotted-Laurel-Aucuba-japonica-Crotonifolia-40-60cm-5L-pot.html,AUC-PG-40/60-5L,Laurel - Spotted,Spotted Laurel 40/60cm 5L pot
+Product,AUC-PG-60/90-10L,AUC,Spotted-Laurel-Aucuba-japonica-Crotonifolia-60-90cm-10L-pot.html,AUC-PG-60/90-10L,Laurel - Spotted,Spotted Laurel 60/90cm 10L pot
+Product,AUC-PG-60/90-5L,AUC,Spotted-Laurel-Aucuba-japonica-Crotonifolia-60-90cm-5L-pot.html,AUC-PG-60/90-5L,Laurel - Spotted,Spotted Laurel 60/90cm 5L pot
 End,Section,,,,,
 Section,Lavender - English,LAVA,english-lavender-lavandula-angustifolia-munstead.html,,,
-Product,LAVA-PG-10/20-2L,LAVA,English-Lavender-(Lavandula-angustifolia-Munstead)-10-20cm-2L-pot.html,LAVA-PG-10/20-2L,Lavender - English,English Lavender 10/20cm 2L pot
-Product,LAVA-PG-20/30-5L,LAVA,English-Lavender-(Lavandula-angustifolia-Munstead)-20-30cm-5L-pot.html,LAVA-PG-20/30-5L,Lavender - English,English Lavender 20/30cm 5L pot
+Product,LAVA-PG-10/20-2L,LAVA,English-Lavender-Lavandula-angustifolia-Munstead-10-20cm-2L-pot.html,LAVA-PG-10/20-2L,Lavender - English,English Lavender 10/20cm 2L pot
+Product,LAVA-PG-20/30-5L,LAVA,English-Lavender-Lavandula-angustifolia-Munstead-20-30cm-5L-pot.html,LAVA-PG-20/30-5L,Lavender - English,English Lavender 20/30cm 5L pot
 End,Section,,,,,
 Section,Lavender - Dwarf,LAVL,dwarf-lavender-Lavandula-angustifolia-Little-Lady.html,,,
-Product,LAVL-PG-10/20-2L,LAVL,Dwarf-Lavender-(Lavandula-angustifolia-Little-Lady)-10-20cm-2L-pot.html,LAVL-PG-10/20-2L,Lavender - Dwarf,Dwarf Lavender 10/20cm 2L pot
+Product,LAVL-PG-10/20-2L,LAVL,Dwarf-Lavender-Lavandula-angustifolia-Little-Lady-10-20cm-2L-pot.html,LAVL-PG-10/20-2L,Lavender - Dwarf,Dwarf Lavender 10/20cm 2L pot
 End,Section,,,,,
 Section,Lavender - French,LAVS,french-lavender-lavandula-stoechas.html,,,
-Product,LAVS-PG-10/20-2L,LAVS,French-Lavender-(Lavandula-stoechas)-10-20cm-2L-pot.html,LAVS-PG-10/20-2L,Lavender - French,French Lavender 10/20cm 2L pot
-Product,LAVS-PG-20/30-5L,LAVS,French-Lavender-(Lavandula-stoechas)-20-30cm-5L-pot.html,LAVS-PG-20/30-5L,Lavender - French,French Lavender 20/30cm 5L pot
+Product,LAVS-PG-10/20-2L,LAVS,French-Lavender-Lavandula-stoechas-10-20cm-2L-pot.html,LAVS-PG-10/20-2L,Lavender - French,French Lavender 10/20cm 2L pot
+Product,LAVS-PG-20/30-5L,LAVS,French-Lavender-Lavandula-stoechas-20-30cm-5L-pot.html,LAVS-PG-20/30-5L,Lavender - French,French Lavender 20/30cm 5L pot
 End,Section,,,,,
 Section,Lavender - Hidcote,LAVH,Lavender-Hidcote-lavandula-angustifolia-hidcote.html,,,
-Product,LAVH-PG-10/20-2L,LAVH,Lavender-Hidcote-(Lavandula-angustifolia-Hidcote)-10-20cm-2L-pot.html,LAVH-PG-10/20-2L,Lavender - Hidcote,Lavender - Hidcote 10/20cm 2L pot
-Product,LAVH-PG-20/30-5L,LAVH,Lavender-Hidcote-(Lavandula-angustifolia-Hidcote)-20-30cm-5L-pot.html,LAVH-PG-20/30-5L,Lavender - Hidcote,Lavender - Hidcote 20/30cm 5L pot
+Product,LAVH-PG-10/20-2L,LAVH,Lavender-Hidcote-Lavandula-angustifolia-Hidcote-10-20cm-2L-pot.html,LAVH-PG-10/20-2L,Lavender - Hidcote,Lavender - Hidcote 10/20cm 2L pot
+Product,LAVH-PG-20/30-5L,LAVH,Lavender-Hidcote-Lavandula-angustifolia-Hidcote-20-30cm-5L-pot.html,LAVH-PG-20/30-5L,Lavender - Hidcote,Lavender - Hidcote 20/30cm 5L pot
 End,Section,,,,,
 Section,Lavender - White,LAVW,White-Lavender-Lavandula-angustifolia-Artic-White.html,,,
-Product,LAVW-PG-10/20-2L,LAVW,White-Lavender-(Lavendula-arctic-snow)-10-20cm-2L-pot.html,LAVW-PG-10/20-2L,Lavender - White,White Lavender 10/20cm 2L pot
+Product,LAVW-PG-10/20-2L,LAVW,White-Lavender-Lavendula-arctic-snow-10-20cm-2L-pot.html,LAVW-PG-10/20-2L,Lavender - White,White Lavender 10/20cm 2L pot
 End,Section,,,,,
 Section,Leylandii - Golden,CUPL,golden_leylandii.html,,,
-Product,CUPL-PG-120/150-10L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-120-150cm-10L-pot.html,CUPL-PG-120/150-10L,Leylandii - Golden,Golden Leylandii 120/150cm 10L pot
-Product,CUPL-PG-120/150-5L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-120-150cm-5L-pot.html,CUPL-PG-120/150-5L,Leylandii - Golden,Golden Leylandii 120/150cm 5L pot
-Product,CUPL-PG-150/175-10L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-150-175cm-10L-pot.html,CUPL-PG-150/175-10L,Leylandii - Golden,Golden Leylandii 150/175cm 10L pot
-Product,CUPL-PG-175/200-10L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-175-200cm-10L-pot.html,CUPL-PG-175/200-10L,Leylandii - Golden,Golden Leylandii 175/200cm 10L pot
-Product,CUPL-PG-200/250-15L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-200-250cm-15L-pot.html,CUPL-PG-200/250-15L,Leylandii - Golden,Golden Leylandii 200/250cm 15L pot
-Product,CUPL-PG-40/60-2L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-40-60cm-2L-pot.html,CUPL-PG-40/60-2L,Leylandii - Golden,Golden Leylandii 40/60cm 2L pot
-Product,CUPL-PG-60/90-2L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-60-90cm-2L-pot.html,CUPL-PG-60/90-2L,Leylandii - Golden,Golden Leylandii 60/90cm 2L pot
-Product,CUPL-PG-90/120-3L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-90-120cm-3L-pot.html,CUPL-PG-90/120-3L,Leylandii - Golden,Golden Leylandii 90/120cm 3L pot
-Product,CUPL-PG-90/120-5L,CUPL,Golden-Leylandii-(Cupressocyparis-Castlewellan-Gold)-90-120cm-5L-pot.html,CUPL-PG-90/120-5L,Leylandii - Golden,Golden Leylandii 90/120cm 5L pot
+Product,CUPL-PG-120/150-10L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-120-150cm-10L-pot.html,CUPL-PG-120/150-10L,Leylandii - Golden,Golden Leylandii 120/150cm 10L pot
+Product,CUPL-PG-120/150-5L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-120-150cm-5L-pot.html,CUPL-PG-120/150-5L,Leylandii - Golden,Golden Leylandii 120/150cm 5L pot
+Product,CUPL-PG-150/175-10L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-150-175cm-10L-pot.html,CUPL-PG-150/175-10L,Leylandii - Golden,Golden Leylandii 150/175cm 10L pot
+Product,CUPL-PG-175/200-10L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-175-200cm-10L-pot.html,CUPL-PG-175/200-10L,Leylandii - Golden,Golden Leylandii 175/200cm 10L pot
+Product,CUPL-PG-200/250-15L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-200-250cm-15L-pot.html,CUPL-PG-200/250-15L,Leylandii - Golden,Golden Leylandii 200/250cm 15L pot
+Product,CUPL-PG-40/60-2L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-40-60cm-2L-pot.html,CUPL-PG-40/60-2L,Leylandii - Golden,Golden Leylandii 40/60cm 2L pot
+Product,CUPL-PG-60/90-2L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-60-90cm-2L-pot.html,CUPL-PG-60/90-2L,Leylandii - Golden,Golden Leylandii 60/90cm 2L pot
+Product,CUPL-PG-90/120-3L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-90-120cm-3L-pot.html,CUPL-PG-90/120-3L,Leylandii - Golden,Golden Leylandii 90/120cm 3L pot
+Product,CUPL-PG-90/120-5L,CUPL,Golden-Leylandii-Cupressocyparis-Castlewellan-Gold-90-120cm-5L-pot.html,CUPL-PG-90/120-5L,Leylandii - Golden,Golden Leylandii 90/120cm 5L pot
 End,Section,,,,,
 Section,Leylandii - Green,LEY,leylandii-hedging-plants-cupressocyparis-leylandii.html,,,
-Product,LEY-PG-100/125-5L,LEY,Leylandii-(Cupressocyparis-Leylandii)-100-125cm-5L-pot.html,LEY-PG-100/125-5L,Leylandii - Green,Leylandii 100/125cm 5L pot
-Product,LEY-PG-100/130-3L,LEY,Leylandii-(Cupressocyparis-Leylandii)-100-130cm-3L-pot.html,LEY-PG-100/130-3L,Leylandii - Green,Leylandii 100/130cm 3L pot
-Product,LEY-PG-150/175-10L,LEY,Leylandii-(Cupressocyparis-Leylandii)-150-175cm-10L-pot.html,LEY-PG-150/175-10L,Leylandii - Green,Leylandii 150/175cm 10L pot
-Product,LEY-PG-175/200-10L,LEY,Leylandii-(Cupressocyparis-Leylandii)-175-200cm-10L-pot.html,LEY-PG-175/200-10L,Leylandii - Green,Leylandii 175/200cm 10L pot
-Product,LEY-PG-200/250-15L,LEY,Leylandii-(Cupressocyparis-Leylandii)-200-250cm-15L-pot.html,LEY-PG-200/250-15L,Leylandii - Green,Leylandii 200/250cm 15L pot
-Product,LEY-PG-40/60-2L,LEY,Leylandii-(Cupressocyparis-Leylandii)-40-60cm-2L-pot.html,LEY-PG-40/60-2L,Leylandii - Green,Leylandii 40/60cm 2L pot
-Product,LEY-PG-60/90-2L,LEY,Leylandii-(Cupressocyparis-Leylandii)-60-90cm-2L-pot.html,LEY-PG-60/90-2L,Leylandii - Green,Leylandii 60/90cm 2L pot
-Product,LEY-PG-70/100-3L,LEY,Leylandii-(Cupressocyparis-Leylandii)-70-100cm-3L-pot.html,LEY-PG-70/100-3L,Leylandii - Green,Leylandii 70/100cm 3L pot
-Product,LEY-PG-90/120-5L,LEY,Leylandii-(Cupressocyparis-Leylandii)-90-120cm-5L-pot.html,LEY-PG-90/120-5L,Leylandii - Green,Leylandii 90/120cm 5L pot
-Product,LEY-RB-150/175,LEY,Leylandii-(Cupressocyparis-Leylandii)-150-175cm-Root-ball.html,LEY-RB-150/175,Leylandii - Green,Leylandii 150/175cm Root ball
-Product,LEY-RB-175/200,LEY,Leylandii-(Cupressocyparis-Leylandii)-175-200cm-Root-ball.html,LEY-RB-175/200,Leylandii - Green,Leylandii 175/200cm Root ball
-Product,LEY-RB-200/225,LEY,Leylandii-(Cupressocyparis-Leylandii)-200-225cm-Root-ball.html,LEY-RB-200/225,Leylandii - Green,Leylandii 200/225cm Root ball
-Product,LEY-RB-225/250,LEY,Leylandii-(Cupressocyparis-Leylandii)-225-250cm-Root-ball.html,LEY-RB-225/250,Leylandii - Green,Leylandii 225/250cm Root ball
+Product,LEY-PG-100/125-5L,LEY,Leylandii-Cupressocyparis-Leylandii-100-125cm-5L-pot.html,LEY-PG-100/125-5L,Leylandii - Green,Leylandii 100/125cm 5L pot
+Product,LEY-PG-100/130-3L,LEY,Leylandii-Cupressocyparis-Leylandii-100-130cm-3L-pot.html,LEY-PG-100/130-3L,Leylandii - Green,Leylandii 100/130cm 3L pot
+Product,LEY-PG-150/175-10L,LEY,Leylandii-Cupressocyparis-Leylandii-150-175cm-10L-pot.html,LEY-PG-150/175-10L,Leylandii - Green,Leylandii 150/175cm 10L pot
+Product,LEY-PG-175/200-10L,LEY,Leylandii-Cupressocyparis-Leylandii-175-200cm-10L-pot.html,LEY-PG-175/200-10L,Leylandii - Green,Leylandii 175/200cm 10L pot
+Product,LEY-PG-200/250-15L,LEY,Leylandii-Cupressocyparis-Leylandii-200-250cm-15L-pot.html,LEY-PG-200/250-15L,Leylandii - Green,Leylandii 200/250cm 15L pot
+Product,LEY-PG-40/60-2L,LEY,Leylandii-Cupressocyparis-Leylandii-40-60cm-2L-pot.html,LEY-PG-40/60-2L,Leylandii - Green,Leylandii 40/60cm 2L pot
+Product,LEY-PG-60/90-2L,LEY,Leylandii-Cupressocyparis-Leylandii-60-90cm-2L-pot.html,LEY-PG-60/90-2L,Leylandii - Green,Leylandii 60/90cm 2L pot
+Product,LEY-PG-70/100-3L,LEY,Leylandii-Cupressocyparis-Leylandii-70-100cm-3L-pot.html,LEY-PG-70/100-3L,Leylandii - Green,Leylandii 70/100cm 3L pot
+Product,LEY-PG-90/120-5L,LEY,Leylandii-Cupressocyparis-Leylandii-90-120cm-5L-pot.html,LEY-PG-90/120-5L,Leylandii - Green,Leylandii 90/120cm 5L pot
+Product,LEY-RB-150/175,LEY,Leylandii-Cupressocyparis-Leylandii-150-175cm-Root-ball.html,LEY-RB-150/175,Leylandii - Green,Leylandii 150/175cm Root ball
+Product,LEY-RB-175/200,LEY,Leylandii-Cupressocyparis-Leylandii-175-200cm-Root-ball.html,LEY-RB-175/200,Leylandii - Green,Leylandii 175/200cm Root ball
+Product,LEY-RB-200/225,LEY,Leylandii-Cupressocyparis-Leylandii-200-225cm-Root-ball.html,LEY-RB-200/225,Leylandii - Green,Leylandii 200/225cm Root ball
+Product,LEY-RB-225/250,LEY,Leylandii-Cupressocyparis-Leylandii-225-250cm-Root-ball.html,LEY-RB-225/250,Leylandii - Green,Leylandii 225/250cm Root ball
 End,Section,,,,,
 Section,Lonicera nitida,LON,lonicera_nitida_.html,,,
-Product,LON-BR-30/40,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-30-45cm-bare-root.html,LON-BR-30/40,Lonicera nitida,Lonicera nitida 30/45cm bare root
-Product,LON-PG-20/40-2L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-20-40cm-2L-pot.html,LON-PG-20/40-2L,Lonicera nitida,Lonicera nitida 20/40cm 2L pot
-Product,LON-PG-40/60-2L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-40-60cm-2L-pot.html,LON-PG-40/60-2L,Lonicera nitida,Lonicera nitida 40/60cm 2L pot
-Product,LON-PG-40/60-5L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-40-60cm-5L-pot.html,LON-PG-40/60-5L,Lonicera nitida,Lonicera nitida 40/60cm 5L pot
-Product,LON-PG-60/90-2L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-60-90cm-2L-pot.html,LON-PG-60/90-2L,Lonicera nitida,Lonicera nitida 60/90cm 2L pot
-Product,LON-PG-60/90-5L,LON,Lonicera-nitida-(Shrubby-Honeysuckle)-60-90cm-5L-pot.html,LON-PG-60/90-5L,Lonicera nitida,Lonicera nitida 60/90cm 5L pot
-Product,LON-IH-100/120-90L,LON,Shrubby-Honeysuckle-Lonicera-nitida-90L-100-120cm-1-Metre-trough.html,LON-IH-100/120-90L,Lonicera nitida,Lonicera nitida 90L 100/120cm 1 Metre trough
+Product,LON-BR-30/40,LON,Lonicera-nitida-Shrubby-Honeysuckle-30-45cm-bare-root.html,LON-BR-30/40,Lonicera nitida,Lonicera nitida 30/45cm bare root
+Product,LON-PG-15/20-CG,LON,Lonicera-nitida-Shrubby-Honeysuckle-15-20cm-cell-grown.html,LON-PG-15/20-CG,Lonicera nitida,Lonicera nitida 15/20cm Cell grown
+Product,LON-PG-20/40-2L,LON,Lonicera-nitida-Shrubby-Honeysuckle-20-40cm-2L-pot.html,LON-PG-20/40-2L,Lonicera nitida,Lonicera nitida 20/40cm 2L pot
+Product,LON-PG-40/60-2L,LON,Lonicera-nitida-Shrubby-Honeysuckle-40-60cm-2L-pot.html,LON-PG-40/60-2L,Lonicera nitida,Lonicera nitida 40/60cm 2L pot
+Product,LON-PG-40/60-5L,LON,Lonicera-nitida-Shrubby-Honeysuckle-40-60cm-5L-pot.html,LON-PG-40/60-5L,Lonicera nitida,Lonicera nitida 40/60cm 5L pot
+Product,LON-PG-60/90-2L,LON,Lonicera-nitida-Shrubby-Honeysuckle-60-90cm-2L-pot.html,LON-PG-60/90-2L,Lonicera nitida,Lonicera nitida 60/90cm 2L pot
+Product,LON-PG-60/90-5L,LON,Lonicera-nitida-Shrubby-Honeysuckle-60-90cm-5L-pot.html,LON-PG-60/90-5L,Lonicera nitida,Lonicera nitida 60/90cm 5L pot
+Product,LON-IH-100/120-90L,LON,Lonicera-nitida-Shrubby-Honeysuckle-90L-100-120cm-1-Metre-trough.html,LON-IH-100/120-90L,Lonicera nitida,Lonicera nitida 90L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Lonicera nitida 'Baggesen's Gold',LONN,lonicera_nitida_bagessens_gold.html,,,
-Product,LONN-PG-20/40-2L,LONN,Lonicera-nitida-Baggesens-Gold-(Golden-Honeysuckle)-20-40cm-2L-pot.html,LONN-PG-20/40-2L,Lonicera nitida 'Baggesen's Gold',Golden Honeysuckle 20/40cm 2L pot
-Product,LONN-PG-40/60-5L,LONN,Lonicera-nitida-Baggesens-Gold-(Golden-Honeysuckle)-40-60cm-5L-pot.html,LONN-PG-40/60-5L,Lonicera nitida 'Baggesen's Gold',Golden Honeysuckle 40/60cm 5L pot
+Product,LONN-PG-20/40-2L,LONN,Lonicera-nitida-Baggesens-Gold-Golden-Honeysuckle-20-40cm-2L-pot.html,LONN-PG-20/40-2L,Lonicera nitida 'Baggesen's Gold',Golden Honeysuckle 20/40cm 2L pot
+Product,LONN-PG-40/60-5L,LONN,Lonicera-nitida-Baggesens-Gold-Golden-Honeysuckle-40-60cm-5L-pot.html,LONN-PG-40/60-5L,Lonicera nitida 'Baggesen's Gold',Golden Honeysuckle 40/60cm 5L pot
 End,Section,,,,,
 Section,Lonicera pileata,LONP,lonicera_pileata.html,,,
-Product,LONP-BR-30/45,LONP,Lonicera-pileata-(Box-Leaved-Honeysuckle)-30-45cm-bare-root.html,LONP-BR-30/45,Lonicera pileata,Lonicera pileata 30/45cm bare root
-Product,LONP-PG-20/40-2L,LONP,Lonicera-pileata-(Box-Leaved-Honeysuckle)-20-40cm-2L-pot.html,LONP-PG-20/40-2L,Lonicera pileata,Lonicera pileata 20/40cm 2L pot
+Product,LONP-BR-30/45,LONP,Lonicera-pileata-Box-Leaved-Honeysuckle-30-45cm-bare-root.html,LONP-BR-30/45,Lonicera pileata,Lonicera pileata 30/45cm bare root
+Product,LONP-PG-20/40-2L,LONP,Lonicera-pileata-Box-Leaved-Honeysuckle-20-40cm-2L-pot.html,LONP-PG-20/40-2L,Lonicera pileata,Lonicera pileata 20/40cm 2L pot
 End,Section,,,,,
 Section,Mexican Orange Blossom,CHO,Mexican-Orange-Blossom-Choisya-ternata.html,,,
-Product,CHO-PG-20/40-2L,CHO,Mexican-Orange-Blossom-(Choisya-ternata)-20-40cm-2L-pot.html,CHO-PG-20/40-2L,Mexican Orange Blossom,Mexican Orange Blossom 20/40cm 2L pot
-Product,CHO-PG-40/60-5L,CHO,Mexican-Orange-Blossom-(Choisya-ternata)-40-60cm-5L-pot.html,CHO-PG-40/60-5L,Mexican Orange Blossom,Mexican Orange Blossom 40/60cm 5L pot
+Product,CHO-PG-20/40-2L,CHO,Mexican-Orange-Blossom-Choisya-ternata-20-40cm-2L-pot.html,CHO-PG-20/40-2L,Mexican Orange Blossom,Mexican Orange Blossom 20/40cm 2L pot
+Product,CHO-PG-40/60-5L,CHO,Mexican-Orange-Blossom-Choisya-ternata-40-60cm-5L-pot.html,CHO-PG-40/60-5L,Mexican Orange Blossom,Mexican Orange Blossom 40/60cm 5L pot
 End,Section,,,,,
 Section,Mexican Orange Blossom - Golden,CHOS,Golden-Mexican-Orange-Blossom-Choisya-ternata-Sundance.html,,,
-Product,CHOS-PG-20/40-2L,CHOS,Golden-Mexican-Orange-Blossom-(Choisya-ternata-Sundance)-20-40cm-2L-pot.html,CHOS-PG-20/40-2L,Mexican Orange Blossom - Golden,Golden Mexican Orange Blossom 20/40cm 2L pot
-Product,CHOS-PG-40/60-5L,CHOS,Golden-Mexican-Orange-Blossom-(Choisya-ternata-Sundance)-40-60cm-5L-pot.html,CHOS-PG-40/60-5L,Mexican Orange Blossom - Golden,Golden Mexican Orange Blossom 40/60cm 5L pot
+Product,CHOS-PG-20/40-2L,CHOS,Golden-Mexican-Orange-Blossom-Choisya-ternata-Sundance-20-40cm-2L-pot.html,CHOS-PG-20/40-2L,Mexican Orange Blossom - Golden,Golden Mexican Orange Blossom 20/40cm 2L pot
+Product,CHOS-PG-40/60-5L,CHOS,Golden-Mexican-Orange-Blossom-Choisya-ternata-Sundance-40-60cm-5L-pot.html,CHOS-PG-40/60-5L,Mexican Orange Blossom - Golden,Golden Mexican Orange Blossom 40/60cm 5L pot
 End,Section,,,,,
 Section,Monterey Cypress Goldcrest,CUPM,monterey-cyprus-goldcrest-cupressus-macrocarpa-goldcrest.html,,,
-Product,CUPM-PG-20/40-2L,CUPM,Monterey-Cypress-Goldcrest-(Cupressus-macrocarpa-Goldcrest)-20-40cm-2L-pot.html,CUPM-PG-20/40-2L,Monterey Cypress Goldcrest,Monterey Cypress Goldcrest 20/40cm 2L pot
-Product,CUPM-PG-40/60-5L,CUPM,Monterey-Cypress-Goldcrest-(Cupressus-macrocarpa-Goldcrest)-40-60cm-5L-pot.html,CUPM-PG-40/60-5L,Monterey Cypress Goldcrest,Monterey Cypress Goldcrest 40/60cm 5L pot
+Product,CUPM-PG-20/40-2L,CUPM,Monterey-Cypress-Goldcrest-Cupressus-macrocarpa-Goldcrest-20-40cm-2L-pot.html,CUPM-PG-20/40-2L,Monterey Cypress Goldcrest,Monterey Cypress Goldcrest 20/40cm 2L pot
+Product,CUPM-PG-40/60-5L,CUPM,Monterey-Cypress-Goldcrest-Cupressus-macrocarpa-Goldcrest-40-60cm-5L-pot.html,CUPM-PG-40/60-5L,Monterey Cypress Goldcrest,Monterey Cypress Goldcrest 40/60cm 5L pot
 End ,Section,,,,,
 Section,Oleaster,ELA,oleaster-elaeagnus-x-ebbingei.html,,,
-Product,ELA-PG-40/60-2L,ELA,Oleaster-(Elaeagnus-x-ebbingei)-40-60cm-2L-pot.html,ELA-PG-40/60-2L,Oleaster,Oleaster 40/60cm 2L pot
-Product,ELA-PG-60/90-2L,ELA,Oleaster-(Elaeagnus-x-ebbingei)-60-90cm-2L-pot.html,ELA-PG-60/90-2L,Oleaster,Oleaster 60/90cm 2L pot
-Product,ELA-PG-60/90-5L,ELA,Oleaster-(Elaeagnus-x-ebbingei)-60-90cm-5L-pot.html,ELA-PG-60/90-5L,Oleaster,Oleaster 60/90cm 5L pot
-Product,ELA-PG-90/120-10L,ELA,Oleaster-(Elaeagnus-x-ebbingei)-90-120cm-10L-pot.html,ELA-PG-90/120-10L,Oleaster,Oleaster 90/120cm 10L pot
+Product,ELA-PG-40/60-2L,ELA,Oleaster-Elaeagnus-x-ebbingei-40-60cm-2L-pot.html,ELA-PG-40/60-2L,Oleaster,Oleaster 40/60cm 2L pot
+Product,ELA-PG-60/90-2L,ELA,Oleaster-Elaeagnus-x-ebbingei-60-90cm-2L-pot.html,ELA-PG-60/90-2L,Oleaster,Oleaster 60/90cm 2L pot
+Product,ELA-PG-60/90-5L,ELA,Oleaster-Elaeagnus-x-ebbingei-60-90cm-5L-pot.html,ELA-PG-60/90-5L,Oleaster,Oleaster 60/90cm 5L pot
+Product,ELA-PG-90/120-10L,ELA,Oleaster-Elaeagnus-x-ebbingei-90-120cm-10L-pot.html,ELA-PG-90/120-10L,Oleaster,Oleaster 90/120cm 10L pot
 End,Section,,,,,
 Section,Oleaster 'Gilt Edge',ELAG,oleaster_gilt_edge.html,,,
-Product,ELAG-PG-20/40-2L,ELAG,Oleaster-Gilt-Edge-(Elaeagnus-x-ebbingei-Gilt-Edge)-20-40cm-2L-pot.html,ELAG-PG-20/40-2L,Oleaster 'Gilt Edge',Oleaster 'Gilt Edge' 20/40cm 2L pot
-Product,ELAG-PG-40/60-5L,ELAG,Oleaster-Gilt-Edge-(Elaeagnus-x-ebbingei-Gilt-Edge)-40-60cm-5L-pot.html,ELAG-PG-40/60-5L,Oleaster 'Gilt Edge',Oleaster 'Gilt Edge' 40/60cm 5L pot
+Product,ELAG-PG-20/40-2L,ELAG,Oleaster-Gilt-Edge-Elaeagnus-x-ebbingei-Gilt-Edge-20-40cm-2L-pot.html,ELAG-PG-20/40-2L,Oleaster 'Gilt Edge',Oleaster 'Gilt Edge' 20/40cm 2L pot
+Product,ELAG-PG-40/60-5L,ELAG,Oleaster-Gilt-Edge-Elaeagnus-x-ebbingei-Gilt-Edge-40-60cm-5L-pot.html,ELAG-PG-40/60-5L,Oleaster 'Gilt Edge',Oleaster 'Gilt Edge' 40/60cm 5L pot
 End,Section,,,,,
 Section,Oleaster 'Limelight',ELAL,oleaster-limelight-elaeagnus-ebbingei-limelight.html,,,
-Product,ELAL-PG-20/40-2L,ELAL,Oleaster-Limelight-(Elaeagnus-x-ebbingei-Limelight)-20-40cm-2L-pot.html,ELAL-PG-20/40-2L,Oleaster 'Limelight',Oleaster 'Limelight' 20/40cm 2L pot
-Product,ELAL-PG-40/60-5L,ELAL,Oleaster-Limelight-(Elaeagnus-x-ebbingei-Limelight)-40-60cm-5L-pot.html,ELAL-PG-40/60-5L,Oleaster 'Limelight',Oleaster 'Limelight' 40/60cm 5L pot
+Product,ELAL-PG-20/40-2L,ELAL,Oleaster-Limelight-Elaeagnus-x-ebbingei-Limelight-20-40cm-2L-pot.html,ELAL-PG-20/40-2L,Oleaster 'Limelight',Oleaster 'Limelight' 20/40cm 2L pot
+Product,ELAL-PG-40/60-5L,ELAL,Oleaster-Limelight-Elaeagnus-x-ebbingei-Limelight-40-60cm-5L-pot.html,ELAL-PG-40/60-5L,Oleaster 'Limelight',Oleaster 'Limelight' 40/60cm 5L pot
 End,Section,,,,,
 Section,Osmanthus burkwoodii,OSM,Osmanthus_Burkwoodii.html,,,
-Product,OSM-PG-40/60-2L,OSM,Burkwood-Osmanthus-(Osmanthus-burkwoodii)-40-60cm-2L-pot.html,OSM-PG-40/60-2L,Osmanthus burkwoodii,Burkwood Osmanthus 40/60cm 2L pot
-Product,OSM-PG-60/90-5L,OSM,Burkwood-Osmanthus-(Osmanthus-burkwoodii)-60-90cm-5L-pot.html,OSM-PG-60/90-5L,Osmanthus burkwoodii,Burkwood Osmanthus 60/90cm 5L pot
+Product,OSM-PG-40/60-2L,OSM,Burkwood-Osmanthus-Osmanthus-burkwoodii-40-60cm-2L-pot.html,OSM-PG-40/60-2L,Osmanthus burkwoodii,Burkwood Osmanthus 40/60cm 2L pot
+Product,OSM-PG-60/90-5L,OSM,Burkwood-Osmanthus-Osmanthus-burkwoodii-60-90cm-5L-pot.html,OSM-PG-60/90-5L,Osmanthus burkwoodii,Burkwood Osmanthus 60/90cm 5L pot
 End,Section,,,,,
 Section,Philadelphus 'Belle Etoile',PHIL,Philadelphus_Belle_Etoile_Hedge__Mock_Orange_.html,,,
-Product,PHIL-PG-40/60-2L,PHIL,Mock-Orange-Belle-Etoile-(Philadelphus-Belle-Etoile)-40-60cm-2L-pot.html,PHIL-PG-40/60-2L,Philadelphus 'Belle Etoile',"Mock Orange 'Belle Etoile"" 40/60cm 2L pot"
+Product,PHIL-PG-40/60-2L,PHIL,Mock-Orange-Belle-Etoile-Philadelphus-Belle-Etoile-40-60cm-2L-pot.html,PHIL-PG-40/60-2L,Philadelphus 'Belle Etoile',"Mock Orange 'Belle Etoile"" 40/60cm 2L pot"
 End,Section,,,,,
 Section,Photinia 'Little Red Robin',PLRR,Photinia_x_fraseri_Little_Red_Robin.html,,,
-Product,PLRR-PG-20/40-2L,PLRR,Photinia-Little-Red-Robin-(Photinia-x-fraseri-Little-Red-Robin)-20-40cm-2L-pot.html,PLRR-PG-20/40-2L,Photinia 'Little Red Robin',Photinia 'Little Red Robin' 20/40cm 2L pot
-Product,PLRR-PG-40/60-2L,PLRR,Photinia-Little-Red-Robin-(Photinia-x-fraseri-Little-Red-Robin)-40-60cm-2L-pot.html,PLRR-PG-40/60-2L,Photinia 'Little Red Robin',Photinia 'Little Red Robin' 40/60cm 2L pot
-Product,PLRR-PG-40/60-5L,PLRR,Photinia-Little-Red-Robin-(Photinia-x-fraseri-Little-Red-Robin)-40-60cm-5L-pot.html,PLRR-PG-40/60-5L,Photinia 'Little Red Robin',Photinia 'Little Red Robin' 40/60cm 5L pot
+Product,PLRR-PG-20/40-2L,PLRR,Photinia-Little-Red-Robin-Photinia-x-fraseri-Little-Red-Robin-20-40cm-2L-pot.html,PLRR-PG-20/40-2L,Photinia 'Little Red Robin',Photinia 'Little Red Robin' 20/40cm 2L pot
+Product,PLRR-PG-40/60-2L,PLRR,Photinia-Little-Red-Robin-Photinia-x-fraseri-Little-Red-Robin-40-60cm-2L-pot.html,PLRR-PG-40/60-2L,Photinia 'Little Red Robin',Photinia 'Little Red Robin' 40/60cm 2L pot
+Product,PLRR-PG-40/60-5L,PLRR,Photinia-Little-Red-Robin-Photinia-x-fraseri-Little-Red-Robin-40-60cm-5L-pot.html,PLRR-PG-40/60-5L,Photinia 'Little Red Robin',Photinia 'Little Red Robin' 40/60cm 5L pot
 End,Section,,,,,
 Section,Photinia Red Robin,PHO,photinia_red_robin.html,,,
-Product,PHO-PG-120/150-10L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-120-150cm-10L-pot.html,PHO-PG-120/150-10L,Photinia Red Robin,Photinia 'Red Robin' 120/150cm 10L pot
-Product,PHO-PG-150/175-15L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-150-175cm-15L-pot.html,PHO-PG-150/175-15L,Photinia Red Robin,Photinia 'Red Robin' 150/175cm 15L pot
-Product,PHO-PG-175/200-15L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-175-200cm-15L-pot.html,PHO-PG-175/200-15L,Photinia Red Robin,Photinia 'Red Robin' 175/200cm 15L pot
-Product,PHO-PG-30/40-2L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-30-40cm-2L-pot.html,PHO-PG-30/40-2L,Photinia Red Robin,Photinia 'Red Robin' 30/40cm 2L pot
-Product,PHO-PG-40/60-2L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-40-60cm-2L-pot.html,PHO-PG-40/60-2L,Photinia Red Robin,Photinia 'Red Robin' 40/60cm 2L pot
-Product,PHO-PG-60/90-3L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-60-90cm-3L-pot.html,PHO-PG-60/90-3L,Photinia Red Robin,Photinia 'Red Robin' 60/90cm 3L pot
-Product,PHO-PG-60/90-5L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-60-90cm-5L-pot.html,PHO-PG-60/90-5L,Photinia Red Robin,Photinia 'Red Robin' 60/90cm 5L pot
-Product,PHO-PG-90/120-10L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-90-120cm-10L-pot.html,PHO-PG-90/120-10L,Photinia Red Robin,Photinia 'Red Robin' 90/120cm 10L pot
-Product,PHO-PG-90/120-5L,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-90-120cm-5L-pot.html,PHO-PG-90/120-5L,Photinia Red Robin,Photinia 'Red Robin' 90/120cm 5L pot
-Product,PHO-RB-100/125,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-100-125cm-Root-ball.html,PHO-RB-100/125,Photinia Red Robin,Photinia 'Red Robin' 100/125cm Root ball
-Product,PHO-RB-125/150,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-125-150cm-Root-ball.html,PHO-RB-125/150,Photinia Red Robin,Photinia 'Red Robin' 125/150cm Root ball
-Product,PHO-RB-150/175,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-150-175cm-Root-ball.html,PHO-RB-150/175,Photinia Red Robin,Photinia 'Red Robin' 150/175cm Root ball
-Product,PHO-RB-175/200,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-175-200cm-Root-ball.html,PHO-RB-175/200,Photinia Red Robin,Photinia 'Red Robin' 175/200cm Root ball
-Product,PHO-RB-200/225,PHO,Photinia-Red-Robin-(Photinia-x-fraseri-Red-Robin)-200-225cm-Root-ball.html,PHO-RB-200/225,Photinia Red Robin,Photinia 'Red Robin' 200/225cm Root ball
+Product,PHO-PG-15/20-CG,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-15-20cm-cell-grown.html,PHO-PG-15/20-CG,Photinia Red Robin,Photinia 'Red Robin' 15/20cm Cell grown
+Product,PHO-PG-120/150-10L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-120-150cm-10L-pot.html,PHO-PG-120/150-10L,Photinia Red Robin,Photinia 'Red Robin' 120/150cm 10L pot
+Product,PHO-PG-150/175-15L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-150-175cm-15L-pot.html,PHO-PG-150/175-15L,Photinia Red Robin,Photinia 'Red Robin' 150/175cm 15L pot
+Product,PHO-PG-175/200-15L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-175-200cm-15L-pot.html,PHO-PG-175/200-15L,Photinia Red Robin,Photinia 'Red Robin' 175/200cm 15L pot
+Product,PHO-PG-30/40-2L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-30-40cm-2L-pot.html,PHO-PG-30/40-2L,Photinia Red Robin,Photinia 'Red Robin' 30/40cm 2L pot
+Product,PHO-PG-40/60-2L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-40-60cm-2L-pot.html,PHO-PG-40/60-2L,Photinia Red Robin,Photinia 'Red Robin' 40/60cm 2L pot
+Product,PHO-PG-60/90-3L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-60-90cm-3L-pot.html,PHO-PG-60/90-3L,Photinia Red Robin,Photinia 'Red Robin' 60/90cm 3L pot
+Product,PHO-PG-60/90-5L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-60-90cm-5L-pot.html,PHO-PG-60/90-5L,Photinia Red Robin,Photinia 'Red Robin' 60/90cm 5L pot
+Product,PHO-PG-90/120-10L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-90-120cm-10L-pot.html,PHO-PG-90/120-10L,Photinia Red Robin,Photinia 'Red Robin' 90/120cm 10L pot
+Product,PHO-PG-90/120-5L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-90-120cm-5L-pot.html,PHO-PG-90/120-5L,Photinia Red Robin,Photinia 'Red Robin' 90/120cm 5L pot
+Product,PHO-RB-100/125,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-100-125cm-Root-ball.html,PHO-RB-100/125,Photinia Red Robin,Photinia 'Red Robin' 100/125cm Root ball
+Product,PHO-RB-125/150,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-125-150cm-Root-ball.html,PHO-RB-125/150,Photinia Red Robin,Photinia 'Red Robin' 125/150cm Root ball
+Product,PHO-RB-150/175,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-150-175cm-Root-ball.html,PHO-RB-150/175,Photinia Red Robin,Photinia 'Red Robin' 150/175cm Root ball
+Product,PHO-RB-175/200,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-175-200cm-Root-ball.html,PHO-RB-175/200,Photinia Red Robin,Photinia 'Red Robin' 175/200cm Root ball
+Product,PHO-RB-200/225,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-200-225cm-Root-ball.html,PHO-RB-200/225,Photinia Red Robin,Photinia 'Red Robin' 200/225cm Root ball
 Product,PHO-IH-90/120-40L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-40L-90-120cm-1-Metre-trough.html,PHO-IH-90/120-40L,Photinia Red Robin,Photinia 'Red Robin' 40L 90/120cm 1 Metre trough
 Product,PHO-IH-150/175-90L,PHO,Photinia-Red-Robin-Photinia-x-fraseri-Red-Robin-90L-150-175cm-1-Metre-trough.html,PHO-IH-150/175-90L,Photinia Red Robin,Photinia 'Red Robin' 90L 150/175cm 1 Metre trough
 End,Section,,,,,
-Section,Potentilla Pink,POTP,Pink-Potentilla-(Potentilla-Pink-Beauty).html,,,
-Product,POTP-PG-20/40-2L,POTP,Pink-Potentilla-(Potentilla-Pink-Beauty)-20-40cm-2L-pot.html,POTP-PG-20/40-2L,Potentilla Pink,Pink Potentilla 20/40cm 2L pot
+Section,Potentilla Pink,POTP,Pink-Potentilla-Potentilla-Pink-Beauty.html,,,
+Product,POTP-PG-20/40-2L,POTP,Pink-Potentilla-Potentilla-Pink-Beauty-20-40cm-2L-pot.html,POTP-PG-20/40-2L,Potentilla Pink,Pink Potentilla 20/40cm 2L pot
 End,Section,,,,,
-Section,Potentilla Tangerine,POTT,Orange-Potentilla-(Potentilla-Tangerine).html,,,
-Product,POTT-PG-20/40-2L,POTT,Orange-Potentilla-(Potentilla-Tangerine)-20-40cm-2L-pot.html,POTT-PG-20/40-2L,Potentilla Tangerine,Orange Potentilla 20/40cm 2L pot
+Section,Potentilla Tangerine,POTT,Orange-Potentilla-Potentilla-Tangerine.html,,,
+Product,POTT-PG-20/40-2L,POTT,Orange-Potentilla-Potentilla-Tangerine-20-40cm-2L-pot.html,POTT-PG-20/40-2L,Potentilla Tangerine,Orange Potentilla 20/40cm 2L pot
 End,Section,,,,,
-Section,Potentilla White,POTW,White-Potentilla-(Potentilla-Abbotswood).html,,,
-Product,POTW-PG-20/40-2L,POTW,White-Potentilla-(Potentilla-Abbotswood)-20-40cm-2L-pot.html,POTW-PG-20/40-2L,Potentilla White,White Potentilla 20/40cm 2L pot
+Section,Potentilla White,POTW,White-Potentilla-Potentilla-Abbotswood.html,,,
+Product,POTW-PG-20/40-2L,POTW,White-Potentilla-Potentilla-Abbotswood-20-40cm-2L-pot.html,POTW-PG-20/40-2L,Potentilla White,White Potentilla 20/40cm 2L pot
 End,Section,,,,,
-Section,Potentilla Yellow,POTY,Yellow-Potentilla-(Potentilla-Goldfinger).html,,,
-Product,POTY-PG-20/40-2L,POTY,Yellow-Potentilla-(Potentilla-Goldfinger)-20-40cm-2L-pot.html,POTY-PG-20/40-2L,Potentilla Yellow,Yellow Potentilla 20/40cm 2L pot
+Section,Potentilla Yellow,POTY,Yellow-Potentilla-Potentilla-Goldfinger.html,,,
+Product,POTY-PG-20/40-2L,POTY,Yellow-Potentilla-Potentilla-Goldfinger-20-40cm-2L-pot.html,POTY-PG-20/40-2L,Potentilla Yellow,Yellow Potentilla 20/40cm 2L pot
 End,Section,,,,,
 Section,Privet - Golden,LIGA,golden_privet_hedge.html,,,
-Product,LIGA-BR-30/40,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-30-40cm-bare-root.html,LIGA-BR-30/40,Privet - Golden,Golden Privet 30/40cm bare root
-Product,LIGA-BR-40/60,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-40-60cm-bare-root.html,LIGA-BR-40/60,Privet - Golden,Golden Privet 40/60cm bare root
-Product,LIGA-BR-60/90,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-60-90cm-bare-root.html,LIGA-BR-60/90,Privet - Golden,Golden Privet 60/90cm bare root
-Product,LIGA-PG-40/60-2L,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-40-60cm-2L-pot.html,LIGA-PG-40/60-2L,Privet - Golden,Golden Privet 40/60cm 2L pot
-Product,LIGA-PG-60/90-2L,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-60-90cm-2L-pot.html,LIGA-PG-60/90-2L,Privet - Golden,Golden Privet 60/90cm 2L pot
-Product,LIGA-PG-90/120-5L,LIGA,Golden-Privet-(Ligustrum-ovalifolium-aureum)-90-120cm-5L-pot.html,LIGA-PG-90/120-5L,Privet - Golden,Golden Privet 90/120cm 5L pot
+Product,LIGA-BR-30/40,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-30-40cm-bare-root.html,LIGA-BR-30/40,Privet - Golden,Golden Privet 30/40cm bare root
+Product,LIGA-BR-40/60,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-40-60cm-bare-root.html,LIGA-BR-40/60,Privet - Golden,Golden Privet 40/60cm bare root
+Product,LIGA-BR-60/90,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-60-90cm-bare-root.html,LIGA-BR-60/90,Privet - Golden,Golden Privet 60/90cm bare root
+Product,LIGA-PG-40/60-2L,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-40-60cm-2L-pot.html,LIGA-PG-40/60-2L,Privet - Golden,Golden Privet 40/60cm 2L pot
+Product,LIGA-PG-60/90-2L,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-60-90cm-2L-pot.html,LIGA-PG-60/90-2L,Privet - Golden,Golden Privet 60/90cm 2L pot
+Product,LIGA-PG-90/120-5L,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-90-120cm-5L-pot.html,LIGA-PG-90/120-5L,Privet - Golden,Golden Privet 90/120cm 5L pot
 Product,LIGA-IH-100/120-40L,LIGA,Golden-Privet-Ligustrum-ovalifolium-aureum-40L-100-120cm-1-Metre-trough.html,LIGA-IH-100/120-40L,Privet - Golden,Golden Privet 40L 100/120cm 1 Metre trough
 End,Section,,,,,
 Section,Privet - Green,LIGO,common_privet_hedge.html,,,
-Product,LIGO-BR-120/150,LIGO,Common-Privet-(Ligustrum-ovalifolium)-120-150cm-bare-root.html,LIGO-BR-120/150,Privet - Green,Common Privet 120/150cm bare root
-Product,LIGO-BR-30/40,LIGO,Common-Privet-(Ligustrum-ovalifolium)-30-40cm-bare-root.html,LIGO-BR-30/40,Privet - Green,Common Privet 30/40cm bare root
-Product,LIGO-BR-40/60,LIGO,Common-Privet-(Ligustrum-ovalifolium)-40-60cm-bare-root.html,LIGO-BR-40/60,Privet - Green,Common Privet 40/60cm bare root
-Product,LIGO-BR-60/90,LIGO,Common-Privet-(Ligustrum-ovalifolium)-60-90cm-bare-root.html,LIGO-BR-60/90,Privet - Green,Common Privet 60/90cm bare root
-Product,LIGO-BR-90/120,LIGO,Common-Privet-(Ligustrum-ovalifolium)-90-120cm-bare-root.html,LIGO-BR-90/120,Privet - Green,Common Privet 90/120cm bare root
-Product,LIGO-PG-120/150-10L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-120-150cm-10L-pot.html,LIGO-PG-120/150-10L,Privet - Green,Common Privet 120/150cm 10L pot
-Product,LIGO-PG-120/150-5L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-120-150cm-5L-pot.html,LIGO-PG-120/150-5L,Privet - Green,Common Privet 120/150cm 5L pot
-Product,LIGO-PG-150/175-10L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-150-175cm-10L-pot.html,LIGO-PG-150/175-10L,Privet - Green,Common Privet 150/175cm 10L pot
-Product,LIGO-PG-175/200-10L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-175-200cm-10L-pot.html,LIGO-PG-175/200-10L,Privet - Green,Common Privet 175/200cm 10L pot
-Product,LIGO-PG-40/60-2L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-40-60cm-2L-pot.html,LIGO-PG-40/60-2L,Privet - Green,Common Privet 40/60cm 2L pot
-Product,LIGO-PG-60/90-2L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-60-90cm-2L-pot.html,LIGO-PG-60/90-2L,Privet - Green,Common Privet 60/90cm 2L pot
-Product,LIGO-PG-90/120-5L,LIGO,Common-Privet-(Ligustrum-ovalifolium)-90-120cm-5L-pot.html,LIGO-PG-90/120-5L,Privet - Green,Common Privet 90/120cm 5L pot
-Product,LIGO-RB-100/125,LIGO,Common-Privet-(Ligustrum-ovalifolium)-100-125cm-Root-ball.html,LIGO-RB-100/125,Privet - Green,Common Privet 100/125cm Root ball
-Product,LIGO-RB-125/150,LIGO,Common-Privet-(Ligustrum-ovalifolium)-125-150cm-Root-ball.html,LIGO-RB-125/150,Privet - Green,Common Privet 125/150cm Root ball
-Product,LIGO-RB-150/175,LIGO,Common-Privet-(Ligustrum-ovalifolium)-150-175cm-Root-ball.html,LIGO-RB-150/175,Privet - Green,Common Privet 150/175cm Root ball
-Product,LIGO-RB-175/200,LIGO,Common-Privet-(Ligustrum-ovalifolium)-175-200cm-Root-ball.html,LIGO-RB-175/200,Privet - Green,Common Privet 175/200cm Root ball
-Product,LIGO-RB-200/225,LIGO,Common-Privet-(Ligustrum-ovalifolium)-200-225cm-Root-ball.html,LIGO-RB-200/225,Privet - Green,Common Privet 200/225cm Root ball
-Product,LIGO-RB-225/250,LIGO,Common-Privet-(Ligustrum-ovalifolium)-225-250cm-Root-ball.html,LIGO-RB-225/250,Privet - Green,Common Privet 225/250cm Root ball
+Product,LIGO-BR-120/150,LIGO,Common-Privet-Ligustrum-ovalifolium-120-150cm-bare-root.html,LIGO-BR-120/150,Privet - Green,Common Privet 120/150cm bare root
+Product,LIGO-BR-30/40,LIGO,Common-Privet-Ligustrum-ovalifolium-30-40cm-bare-root.html,LIGO-BR-30/40,Privet - Green,Common Privet 30/40cm bare root
+Product,LIGO-BR-40/60,LIGO,Common-Privet-Ligustrum-ovalifolium-40-60cm-bare-root.html,LIGO-BR-40/60,Privet - Green,Common Privet 40/60cm bare root
+Product,LIGO-BR-60/90,LIGO,Common-Privet-Ligustrum-ovalifolium-60-90cm-bare-root.html,LIGO-BR-60/90,Privet - Green,Common Privet 60/90cm bare root
+Product,LIGO-BR-90/120,LIGO,Common-Privet-Ligustrum-ovalifolium-90-120cm-bare-root.html,LIGO-BR-90/120,Privet - Green,Common Privet 90/120cm bare root
+Product,LIGO-PG-120/150-10L,LIGO,Common-Privet-Ligustrum-ovalifolium-120-150cm-10L-pot.html,LIGO-PG-120/150-10L,Privet - Green,Common Privet 120/150cm 10L pot
+Product,LIGO-PG-120/150-5L,LIGO,Common-Privet-Ligustrum-ovalifolium-120-150cm-5L-pot.html,LIGO-PG-120/150-5L,Privet - Green,Common Privet 120/150cm 5L pot
+Product,LIGO-PG-150/175-10L,LIGO,Common-Privet-Ligustrum-ovalifolium-150-175cm-10L-pot.html,LIGO-PG-150/175-10L,Privet - Green,Common Privet 150/175cm 10L pot
+Product,LIGO-PG-175/200-10L,LIGO,Common-Privet-Ligustrum-ovalifolium-175-200cm-10L-pot.html,LIGO-PG-175/200-10L,Privet - Green,Common Privet 175/200cm 10L pot
+Product,LIGO-PG-40/60-2L,LIGO,Common-Privet-Ligustrum-ovalifolium-40-60cm-2L-pot.html,LIGO-PG-40/60-2L,Privet - Green,Common Privet 40/60cm 2L pot
+Product,LIGO-PG-60/90-2L,LIGO,Common-Privet-Ligustrum-ovalifolium-60-90cm-2L-pot.html,LIGO-PG-60/90-2L,Privet - Green,Common Privet 60/90cm 2L pot
+Product,LIGO-PG-90/120-5L,LIGO,Common-Privet-Ligustrum-ovalifolium-90-120cm-5L-pot.html,LIGO-PG-90/120-5L,Privet - Green,Common Privet 90/120cm 5L pot
+Product,LIGO-RB-100/125,LIGO,Common-Privet-Ligustrum-ovalifolium-100-125cm-Root-ball.html,LIGO-RB-100/125,Privet - Green,Common Privet 100/125cm Root ball
+Product,LIGO-RB-125/150,LIGO,Common-Privet-Ligustrum-ovalifolium-125-150cm-Root-ball.html,LIGO-RB-125/150,Privet - Green,Common Privet 125/150cm Root ball
+Product,LIGO-RB-150/175,LIGO,Common-Privet-Ligustrum-ovalifolium-150-175cm-Root-ball.html,LIGO-RB-150/175,Privet - Green,Common Privet 150/175cm Root ball
+Product,LIGO-RB-175/200,LIGO,Common-Privet-Ligustrum-ovalifolium-175-200cm-Root-ball.html,LIGO-RB-175/200,Privet - Green,Common Privet 175/200cm Root ball
+Product,LIGO-RB-200/225,LIGO,Common-Privet-Ligustrum-ovalifolium-200-225cm-Root-ball.html,LIGO-RB-200/225,Privet - Green,Common Privet 200/225cm Root ball
+Product,LIGO-RB-225/250,LIGO,Common-Privet-Ligustrum-ovalifolium-225-250cm-Root-ball.html,LIGO-RB-225/250,Privet - Green,Common Privet 225/250cm Root ball
 Product,LIGO-IH-100/120-40L,LIGO,Common-Privet-Ligustrum-ovalifolium-40L-100-120cm-1-Metre-trough.html,LIGO-IH-100/120-40L,Privet - Green,Common Privet 40L 100/120cm 1 Metre trough
 Product,LIGO-IH-150/175-90L,LIGO,Common-Privet-Ligustrum-ovalifolium-90L-150-175cm-1-Metre-trough.html,LIGO-IH-150/175-90L,Privet - Green,Common Privet 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Privet - Wild,LIG,wild_privet_hedge.html,,,
-Product,LIG-BR-40/60,LIG,Wild-Privet-(Ligustrum-Vulgare)-40-60cm-bare-root.html,LIG-BR-40/60,Privet - Wild,Wild Privet 40/60cm bare root
-Product,LIG-BR-60/90,LIG,Wild-Privet-(Ligustrum-Vulgare)-60-90cm-bare-root.html,LIG-BR-60/90,Privet - Wild,Wild Privet 60/90cm bare root
-Product,LIG-BR-90/120,LIG,Wild-Privet-(Ligustrum-Vulgare)-90-120cm-bare-root.html,LIG-BR-90/120,Privet - Wild,Wild Privet 90/120cm bare root
-Product,LIG-PG-40/60-2L,LIG,Wild-Privet-(Ligustrum-vulgare)-40-60cm-2L-pot.html,LIG-PG-40/60-2L,Privet - Wild,Wild Privet 40/60cm 2L pot
-Product,LIG-RB-150/175,LIG,Wild-Privet-(Ligustrum-vulgare)-150-175cm-Root-ball.html,LIG-RB-150/175,Privet - Wild,Wild Privet 150/175cm Root ball
-Product,LIG-RB-175/200,LIG,Wild-Privet-(Ligustrum-vulgare)-175-200cm-Root-ball.html,LIG-RB-175/200,Privet - Wild,Wild Privet 175/200cm Root ball
-Product,LIG-RB-200/225,LIG,Wild-Privet-(Ligustrum-vulgare)-200-225cm-Root-ball.html,LIG-RB-200/225,Privet - Wild,Wild Privet 200/225cm Root ball
+Product,LIG-BR-40/60,LIG,Wild-Privet-Ligustrum-Vulgare-40-60cm-bare-root.html,LIG-BR-40/60,Privet - Wild,Wild Privet 40/60cm bare root
+Product,LIG-BR-60/90,LIG,Wild-Privet-Ligustrum-Vulgare-60-90cm-bare-root.html,LIG-BR-60/90,Privet - Wild,Wild Privet 60/90cm bare root
+Product,LIG-BR-90/120,LIG,Wild-Privet-Ligustrum-Vulgare-90-120cm-bare-root.html,LIG-BR-90/120,Privet - Wild,Wild Privet 90/120cm bare root
+Product,LIG-PG-20/40-CG,LIG,Wild-Privet-Ligustrum-vulgare-20-40cm-cell-grown.html,LIG-PG-20/40-CG,Privet - Wild,Wild Privet 20/40cm Cell grown
+Product,LIG-PG-40/60-2L,LIG,Wild-Privet-Ligustrum-vulgare-40-60cm-2L-pot.html,LIG-PG-40/60-2L,Privet - Wild,Wild Privet 40/60cm 2L pot
+Product,LIG-RB-150/175,LIG,Wild-Privet-Ligustrum-vulgare-150-175cm-Root-ball.html,LIG-RB-150/175,Privet - Wild,Wild Privet 150/175cm Root ball
+Product,LIG-RB-175/200,LIG,Wild-Privet-Ligustrum-vulgare-175-200cm-Root-ball.html,LIG-RB-175/200,Privet - Wild,Wild Privet 175/200cm Root ball
+Product,LIG-RB-200/225,LIG,Wild-Privet-Ligustrum-vulgare-200-225cm-Root-ball.html,LIG-RB-200/225,Privet - Wild,Wild Privet 200/225cm Root ball
 End,Section,,,,,
 Section,Prunus x cistena,PRUC,prunus_cistena.html,,,
-Product,PRUC-PG-40/60-2L,PRUC,Purple-Leaf-Sand-Cherry-(Prunus-x-cistena)-40-60cm-2L-pot.html,PRUC-PG-40/60-2L,Prunus x cistena,Purple Leaf Sand Cherry 40/60cm 2L pot
-Product,PRUC-PG-60/90-2L,PRUC,Purple-Leaf-Sand-Cherry-(Prunus-x-cistena)-60-90cm-2L-pot.html,PRUC-PG-60/90-2L,Prunus x cistena,Purple Leaf Sand Cherry 60/90cm 2L pot
-Product,PRUC-PG-90/120-5L,PRUC,Purple-Leaf-Sand-Cherry-(Prunus-x-cistena)-90-120-cm5L-pot.html,PRUC-PG-90/120-5L,Prunus x cistena,Purple Leaf Sand Cherry 90/120cm 5L pot
+Product,PRUC-PG-40/60-2L,PRUC,Purple-Leaf-Sand-Cherry-Prunus-x-cistena-40-60cm-2L-pot.html,PRUC-PG-40/60-2L,Prunus x cistena,Purple Leaf Sand Cherry 40/60cm 2L pot
+Product,PRUC-PG-60/90-2L,PRUC,Purple-Leaf-Sand-Cherry-Prunus-x-cistena-60-90cm-2L-pot.html,PRUC-PG-60/90-2L,Prunus x cistena,Purple Leaf Sand Cherry 60/90cm 2L pot
+Product,PRUC-PG-90/120-5L,PRUC,Purple-Leaf-Sand-Cherry-Prunus-x-cistena-90-120-cm5L-pot.html,PRUC-PG-90/120-5L,Prunus x cistena,Purple Leaf Sand Cherry 90/120cm 5L pot
 End,Section,,,,,
 Section,Pyracantha - Orange,PYRO,pyracantha_orange_berries.html,,,
-Product,PYRO-PG-120/150-5L,PYRO,Orange-Firethorn-(Pyracantha-Orange-Glow)-120-150cm-5L-pot.html,PYRO-PG-120/150-5L,Pyracantha - Orange,Orange Firethorn 120/150cm 5L pot
-Product,PYRO-PG-150/175-10L,PYRO,Orange-Firethorn-(Pyracantha-Orange-Glow)-150-175cm-10L-pot.html,PYRO-PG-150/175-10L,Pyracantha - Orange,Orange Firethorn 150/175cm 10L pot
-Product,PYRO-PG-40/60-2L,PYRO,Orange-Firethorn-(Pyracantha-Orange-Glow)-40-60cm-2L-pot.html,PYRO-PG-40/60-2L,Pyracantha - Orange,Orange Firethorn 40/60cm 2L pot
-Product,PYRO-PG-60/90-2L,PYRO,Orange-Firethorn-(Pyracantha-Orange-Glow)-60-90cm-2L-pot.html,PYRO-PG-60/90-2L,Pyracantha - Orange,Orange Firethorn 60/90cm 2L pot
-Product,PYRO-PG-90/120-3L,PYRO,Orange-Firethorn-(Pyracantha-Orange-Glow)-90-120cm-3L-pot.html,PYRO-PG-90/120-3L,Pyracantha - Orange,Orange Firethorn 90/120cm 3L pot
-Product,PYRO-PG-90/120-5L,PYRO,Orange-Firethorn-(Pyracantha-Orange-Glow)-90-120cm-5L-pot.html,PYRO-PG-90/120-5L,Pyracantha - Orange,Orange Firethorn 90/120cm 5L pot
+Product,PYRO-PG-120/150-5L,PYRO,Orange-Firethorn-Pyracantha-Orange-Glow-120-150cm-5L-pot.html,PYRO-PG-120/150-5L,Pyracantha - Orange,Orange Firethorn 120/150cm 5L pot
+Product,PYRO-PG-150/175-10L,PYRO,Orange-Firethorn-Pyracantha-Orange-Glow-150-175cm-10L-pot.html,PYRO-PG-150/175-10L,Pyracantha - Orange,Orange Firethorn 150/175cm 10L pot
+Product,PYRO-PG-40/60-2L,PYRO,Orange-Firethorn-Pyracantha-Orange-Glow-40-60cm-2L-pot.html,PYRO-PG-40/60-2L,Pyracantha - Orange,Orange Firethorn 40/60cm 2L pot
+Product,PYRO-PG-60/90-2L,PYRO,Orange-Firethorn-Pyracantha-Orange-Glow-60-90cm-2L-pot.html,PYRO-PG-60/90-2L,Pyracantha - Orange,Orange Firethorn 60/90cm 2L pot
+Product,PYRO-PG-90/120-3L,PYRO,Orange-Firethorn-Pyracantha-Orange-Glow-90-120cm-3L-pot.html,PYRO-PG-90/120-3L,Pyracantha - Orange,Orange Firethorn 90/120cm 3L pot
+Product,PYRO-PG-90/120-5L,PYRO,Orange-Firethorn-Pyracantha-Orange-Glow-90-120cm-5L-pot.html,PYRO-PG-90/120-5L,Pyracantha - Orange,Orange Firethorn 90/120cm 5L pot
 End,Section,,,,,
 Section,Pyracantha - Red,PYRR,pyracantha_red_berries.html,,,
-Product,PYRR-PG-120/150-5L,PYRR,Red-Firethorn-(Pyracantha-Red-Colum)-120-150cm-5L-pot.html,PYRR-PG-120/150-5L,Pyracantha - Red,Red Firethorn 120/150cm 5L pot
-Product,PYRR-PG-150/175-10L,PYRR,Red-Firethorn-(Pyracantha-Red-Colum)-150-175cm-10L-pot.html,PYRR-PG-150/175-10L,Pyracantha - Red,Red Firethorn 150/175cm 10L pot
-Product,PYRR-PG-40/60-2L,PYRR,Red-Firethorn-(Pyracantha-Red-Colum)-40-60cm-2L-pot.html,PYRR-PG-40/60-2L,Pyracantha - Red,Red Firethorn 40/60cm 2L pot
-Product,PYRR-PG-60/90-2L,PYRR,Red-Firethorn-(Pyracantha-Red-Colum)-60-90cm-2L-pot.html,PYRR-PG-60/90-2L,Pyracantha - Red,Red Firethorn 60/90cm 2L pot
-Product,PYRR-PG-90/120-3L,PYRR,Red-Firethorn-(Pyracantha-Red-Colum)-90-120cm-3L-pot.html,PYRR-PG-90/120-3L,Pyracantha - Red,Red Firethorn 90/120cm 3L pot
-Product,PYRR-PG-90/120-5L,PYRR,Red-Firethorn-(Pyracantha-Red-Colum)-90-120cm-5L-pot.html,PYRR-PG-90/120-5L,Pyracantha - Red,Red Firethorn 90/120cm 5L pot
+Product,PYRR-PG-120/150-5L,PYRR,Red-Firethorn-Pyracantha-Red-Colum-120-150cm-5L-pot.html,PYRR-PG-120/150-5L,Pyracantha - Red,Red Firethorn 120/150cm 5L pot
+Product,PYRR-PG-150/175-10L,PYRR,Red-Firethorn-Pyracantha-Red-Colum-150-175cm-10L-pot.html,PYRR-PG-150/175-10L,Pyracantha - Red,Red Firethorn 150/175cm 10L pot
+Product,PYRR-PG-40/60-2L,PYRR,Red-Firethorn-Pyracantha-Red-Colum-40-60cm-2L-pot.html,PYRR-PG-40/60-2L,Pyracantha - Red,Red Firethorn 40/60cm 2L pot
+Product,PYRR-PG-60/90-2L,PYRR,Red-Firethorn-Pyracantha-Red-Colum-60-90cm-2L-pot.html,PYRR-PG-60/90-2L,Pyracantha - Red,Red Firethorn 60/90cm 2L pot
+Product,PYRR-PG-90/120-3L,PYRR,Red-Firethorn-Pyracantha-Red-Colum-90-120cm-3L-pot.html,PYRR-PG-90/120-3L,Pyracantha - Red,Red Firethorn 90/120cm 3L pot
+Product,PYRR-PG-90/120-5L,PYRR,Red-Firethorn-Pyracantha-Red-Colum-90-120cm-5L-pot.html,PYRR-PG-90/120-5L,Pyracantha - Red,Red Firethorn 90/120cm 5L pot
 End,Section,,,,,
 Section,Pyracantha - Yellow,PYRS,pyracantha_yellow_berries.html,,,
-Product,PYRS-PG-120/150-5L,PYRS,Yellow-Firethorn-(Pyracantha-Soleil-dOr)-120-150cm-5L-pot.html,PYRS-PG-120/150-5L,Pyracantha - Yellow,Yellow Firethorn 120/150cm 5L pot
-Product,PYRS-PG-150/175-10L,PYRS,Yellow-Firethorn-(Pyracantha-Soleil-dOr)-150-175cm-10L-pot.html,PYRS-PG-150/175-10L,Pyracantha - Yellow,Yellow Firethorn 150/175cm 10L pot
-Product,PYRS-PG-40/60-2L,PYRS,Yellow-Firethorn-(Pyracantha-Soleil-dOr)-40-60cm-2L-pot.html,PYRS-PG-40/60-2L,Pyracantha - Yellow,Yellow Firethorn 40/60cm 2L pot
-Product,PYRS-PG-60/90-2L,PYRS,Yellow-Firethorn-(Pyracantha-Soleil-dOr)-60-90cm-2L-pot.html,PYRS-PG-60/90-2L,Pyracantha - Yellow,Yellow Firethorn 60/90cm 2L pot
-Product,PYRS-PG-90/120-5L,PYRS,Yellow-Firethorn-(Pyracantha-Soleil-dOr)-90-120cm-5L-pot.html,PYRS-PG-90/120-5L,Pyracantha - Yellow,Yellow Firethorn 90/120cm 5L pot
+Product,PYRS-PG-120/150-5L,PYRS,Yellow-Firethorn-Pyracantha-Soleil-dOr-120-150cm-5L-pot.html,PYRS-PG-120/150-5L,Pyracantha - Yellow,Yellow Firethorn 120/150cm 5L pot
+Product,PYRS-PG-150/175-10L,PYRS,Yellow-Firethorn-Pyracantha-Soleil-dOr-150-175cm-10L-pot.html,PYRS-PG-150/175-10L,Pyracantha - Yellow,Yellow Firethorn 150/175cm 10L pot
+Product,PYRS-PG-40/60-2L,PYRS,Yellow-Firethorn-Pyracantha-Soleil-dOr-40-60cm-2L-pot.html,PYRS-PG-40/60-2L,Pyracantha - Yellow,Yellow Firethorn 40/60cm 2L pot
+Product,PYRS-PG-60/90-2L,PYRS,Yellow-Firethorn-Pyracantha-Soleil-dOr-60-90cm-2L-pot.html,PYRS-PG-60/90-2L,Pyracantha - Yellow,Yellow Firethorn 60/90cm 2L pot
+Product,PYRS-PG-90/120-5L,PYRS,Yellow-Firethorn-Pyracantha-Soleil-dOr-90-120cm-5L-pot.html,PYRS-PG-90/120-5L,Pyracantha - Yellow,Yellow Firethorn 90/120cm 5L pot
 End,Section,,,,,
-Section,Rosa Rugosa - Pink,ROSR,Rosa-rugosa-pink-(Rosa-Rugosa-Rubra).html,,,
-Product,ROSR-BR-40/60,ROSR,Rosa-rugosa-pink-(Rosa-Rugosa-Rubra)-40-60cm-bare-root.html,ROSR-BR-40/60,Rosa Rugosa - Pink,Rosa rugosa pink 40/60cm bare root
-Product,ROSR-PG-40/60-2L,ROSR,Rosa-rugosa-pink-(Rosa-Rugosa-Rubra)-40-60cm-2L-pot.html,ROSR-PG-40/60-2L,Rosa Rugosa - Pink,Rosa rugosa pink 40/60cm 2L pot
+Section,Rosa Rugosa - Pink,ROSR,Rosa-rugosa-pink-Rosa-Rugosa-Rubra.html,,,
+Product,ROSR-BR-40/60,ROSR,Rosa-rugosa-pink-Rosa-Rugosa-Rubra-40-60cm-bare-root.html,ROSR-BR-40/60,Rosa Rugosa - Pink,Rosa rugosa pink 40/60cm bare root
+Product,ROSR-PG-20/40-CG,ROSR,Rosa-rugosa-pink-Rosa-Rugosa-Rubra-20-40cm-cell-grown.html,ROSR-PG-20/40-CG,Rosa Rugosa - Pink,Rosa rugosa pink 20/40cm Cell grown
+Product,ROSR-PG-40/60-2L,ROSR,Rosa-rugosa-pink-Rosa-Rugosa-Rubra-40-60cm-2L-pot.html,ROSR-PG-40/60-2L,Rosa Rugosa - Pink,Rosa rugosa pink 40/60cm 2L pot
 End,Section,,,,,
-Section,Rosa Rugosa - White,ROSA,Rosa-rugosa-alba-(White-Romanus-Rose).html,,,
-Product,ROSA-BR-40/60,ROSA,Rosa-rugosa-alba-(White-Romanus-Rose)-40-60cm-bare-root.html,ROSA-BR-40/60,Rosa Rugosa - White,Rosa rugosa white 40/60cm bare root
-Product,ROSA-PG-40/60-2L,ROSA,Rosa-rugosa-alba-(White-Romanus-Rose)-40-60cm-2L-pot.html,ROSA-PG-40/60-2L,Rosa Rugosa - White,Rosa rugosa white 40/60cm 2L pot
+Section,Rosa Rugosa - White,ROSA,Rosa-rugosa-alba-White-Romanus-Rose.html,,,
+Product,ROSA-BR-40/60,ROSA,Rosa-rugosa-alba-White-Romanus-Rose-40-60cm-bare-root.html,ROSA-BR-40/60,Rosa Rugosa - White,Rosa rugosa white 40/60cm bare root
+Product,ROSA-PG-20/40-CG,,Rosa-rugosa-alba-White-Romanus-Rose-20-40cm-cell-grown.html,ROSA-PG-20/40-CG,Rosa Rugosa - White,Rosa rugosa white 20/40cm Cell grown
+Product,ROSA-PG-40/60-2L,ROSA,Rosa-rugosa-alba-White-Romanus-Rose-40-60cm-2L-pot.html,ROSA-PG-40/60-2L,Rosa Rugosa - White,Rosa rugosa white 40/60cm 2L pot
 End,Section,,,,,
 Section,Rosemary,ROSE,rosemary_hedging.html,,,
-Product,ROSE-PG-20/40-2L,ROSE,Rosemary-(Rosmarinus-officinalis)-20-40cm-2L-pot.html,ROSE-PG-20/40-2L,Rosemary,Rosemary 20/40cm 2L pot
-Product,ROSE-PG-40/60-5L,ROSE,Rosemary-(Rosmarinus-officinalis)-40-60cm-5L-pot.html,ROSE-PG-40/60-5L,Rosemary,Rosemary 40/60cm 5L pot
+Product,ROSE-PG-20/40-2L,ROSE,Rosemary-Rosmarinus-officinalis-20-40cm-2L-pot.html,ROSE-PG-20/40-2L,Rosemary,Rosemary 20/40cm 2L pot
+Product,ROSE-PG-40/60-5L,ROSE,Rosemary-Rosmarinus-officinalis-40-60cm-5L-pot.html,ROSE-PG-40/60-5L,Rosemary,Rosemary 40/60cm 5L pot
 End,Section,,,,,
 Section,Rowan or Mountain Ash,SOR,rowan_mountain_ash.html,,,
-Product,SOR-BR-120/150,SOR,Rowan-(Sorbus-aucuparia)-120-150cm-bare-root.html,SOR-BR-120/150,Rowan or Mountain Ash,Rowan 120/150cm bare root
-Product,SOR-BR-150/200,SOR,Rowan-(Sorbus-aucuparia)-150-200cm-bare-root.html,SOR-BR-150/200,Rowan or Mountain Ash,Rowan 150/200cm bare root
-Product,SOR-BR-40/60,SOR,Rowan-(Sorbus-aucuparia)-40-60cm-bare-root.html,SOR-BR-40/60,Rowan or Mountain Ash,Rowan 40/60cm bare root
-Product,SOR-BR-60/90,SOR,Rowan-(Sorbus-aucuparia)-60-90cm-bare-root.html,SOR-BR-60/90,Rowan or Mountain Ash,Rowan 60/90cm bare root
-Product,SOR-BR-90/120,SOR,Rowan-(Sorbus-aucuparia)-90-120cm-bare-root.html,SOR-BR-90/120,Rowan or Mountain Ash,Rowan 90/120cm bare root
-Product,SOR-PG-40/60-2L,SOR,Rowan-(Sorbus-aucuparia)-40-60cm-2L-pot.html,SOR-PG-40/60-2L,Rowan or Mountain Ash,Rowan 40/60cm 2L pot
+Product,SOR-BR-120/150,SOR,Rowan-Sorbus-aucuparia-120-150cm-bare-root.html,SOR-BR-120/150,Rowan or Mountain Ash,Rowan 120/150cm bare root
+Product,SOR-BR-150/200,SOR,Rowan-Sorbus-aucuparia-150-200cm-bare-root.html,SOR-BR-150/200,Rowan or Mountain Ash,Rowan 150/200cm bare root
+Product,SOR-BR-40/60,SOR,Rowan-Sorbus-aucuparia-40-60cm-bare-root.html,SOR-BR-40/60,Rowan or Mountain Ash,Rowan 40/60cm bare root
+Product,SOR-BR-60/90,SOR,Rowan-Sorbus-aucuparia-60-90cm-bare-root.html,SOR-BR-60/90,Rowan or Mountain Ash,Rowan 60/90cm bare root
+Product,SOR-BR-90/120,SOR,Rowan-Sorbus-aucuparia-90-120cm-bare-root.html,SOR-BR-90/120,Rowan or Mountain Ash,Rowan 90/120cm bare root
+Product,SOR-PG-30/50-CG,SOR,Rowan-Sorbus-aucuparia-30-50cm-cell-grown.html,SOR-PG-30/50-CG,Rowan or Mountain Ash,Rowan 30/50cm Cell grown
+Product,SOR-PG-40/60-2L,SOR,Rowan-Sorbus-aucuparia-40-60cm-2L-pot.html,SOR-PG-40/60-2L,Rowan or Mountain Ash,Rowan 40/60cm 2L pot
 End,Section,,,,,
 Section,Sea Buckthorn,HIPR,sea_buckthorn.html,,,
-Product,HIPR-BR-40/60,HIPR,Sea-Buckthorn-(Hippophae-rhamnoides)-40-60cm-bare-root.html,HIPR-BR-40/60,Sea Buckthorn,Sea Buckthorn 40/60cm bare root
-Product,HIPR-BR-60/90,HIPR,Sea-Buckthorn-(Hippophae-rhamnoides)-60-90cm-bare-root.html,HIPR-BR-60/90,Sea Buckthorn,Sea Buckthorn 60/90cm bare root
-Product,HIPR-PG-40/60-2L,HIPR,Sea-Buckthorn-(Hippophae-rhamnoides)-40-60cm-2L-pot.html,HIPR-PG-40/60-2L,Sea Buckthorn,Sea Buckthorn 40/60cm 2L pot
+Product,HIPR-BR-40/60,HIPR,Sea-Buckthorn-Hippophae-rhamnoides-40-60cm-bare-root.html,HIPR-BR-40/60,Sea Buckthorn,Sea Buckthorn 40/60cm bare root
+Product,HIPR-BR-60/90,HIPR,Sea-Buckthorn-Hippophae-rhamnoides-60-90cm-bare-root.html,HIPR-BR-60/90,Sea Buckthorn,Sea Buckthorn 60/90cm bare root
+Product,HIPR-PG-40/60-2L,HIPR,Sea-Buckthorn-Hippophae-rhamnoides-40-60cm-2L-pot.html,HIPR-PG-40/60-2L,Sea Buckthorn,Sea Buckthorn 40/60cm 2L pot
 End,Section,,,,,
 Section,Skimmia Rubella,SKIM,Skimmia_Japonica_Rubella.html,,,
-Product,SKIM-PG-20/40-2L,SKIM,Skimmia-Rubella-(Skimmia-japonica-rubella)-20-40cm-2L-pot.html,SKIM-PG-20/40-2L,Skimmia Rubella,Skimmia 'Rubella' 20/40cm 2L pot
+Product,SKIM-PG-20/40-2L,SKIM,Skimmia-Rubella-Skimmia-japonica-rubella-20-40cm-2L-pot.html,SKIM-PG-20/40-2L,Skimmia Rubella,Skimmia 'Rubella' 20/40cm 2L pot
 End,Section,,,,,
 Section,Spindle,SPIN,Spindle__Euonymus_Europaeus__.html,,,
-Product,SPIN-BR-40/60,SPIN,Spindle-(Euonymus-europaeus)-40-60cm-bare-root.html,SPIN-BR-40/60,Spindle,Spindle 40/60cm bare root
-Product,SPIN-BR-60/90,SPIN,Spindle-(Euonymus-europaeus)-60-90cm-bare-root.html,SPIN-BR-60/90,Spindle,Spindle 60/90cm bare root
+Product,SPIN-BR-40/60,SPIN,Spindle-Euonymus-europaeus-40-60cm-bare-root.html,SPIN-BR-40/60,Spindle,Spindle 40/60cm bare root
+Product,SPIN-BR-60/90,SPIN,Spindle-Euonymus-europaeus-60-90cm-bare-root.html,SPIN-BR-60/90,Spindle,Spindle 60/90cm bare root
 End,Section,,,,,
 Section,Viburnum Lantana,VIBL,Viburnum_Lantana_Hedge.html,,,
 Product,VIBL-BR-40/60,VIBL,Viburnum-Lantana-40-60cm-bare-root.html,VIBL-BR-40/60,Viburnum Lantana,Viburnum Lantana 40/60cm bare root
 Product,VIBL-BR-60/90,VIBL,Viburnum-Lantana-60-90cm-bare-root.html,VIBL-BR-60/90,Viburnum Lantana,Viburnum Lantana 60/90cm bare root
 End,Section,,,,,
 Section,Viburnum Opulus,VIBO,guelder_rose.html,,,
-Product,VIBO-BR-40/60,VIBO,Guelder-Rose-(Viburnum-opulus)-40-60cm-bare-root.html,VIBO-BR-40/60,Viburnum Opulus,Guelder Rose 40/60cm bare root
-Product,VIBO-BR-60/90,VIBO,Guelder-Rose-(Viburnum-opulus)-60-90cm-bare-root.html,VIBO-BR-60/90,Viburnum Opulus,Guelder Rose 60/90cm bare root
-Product,VIBO-PG-40/60-2L,VIBO,Guelder-Rose-(Viburnum-opulus)-40-60cm-2L-pot.html,VIBO-PG-40/60-2L,Viburnum Opulus,Guelder Rose 40/60cm 2L pot
-Product,VIBO-PG-60/90-2L,VIBO,Guelder-Rose-(Viburnum-opulus)-60-90cm-2L-pot.html,VIBO-PG-60/90-2L,Viburnum Opulus,Guelder Rose 60/90cm 2L pot
+Product,VIBO-BR-40/60,VIBO,Guelder-Rose-Viburnum-opulus-40-60cm-bare-root.html,VIBO-BR-40/60,Viburnum Opulus,Guelder Rose 40/60cm bare root
+Product,VIBO-BR-60/90,VIBO,Guelder-Rose-Viburnum-opulus-60-90cm-bare-root.html,VIBO-BR-60/90,Viburnum Opulus,Guelder Rose 60/90cm bare root
+Product,VIBO-PG-20/40-CG,VIBO,Guelder-Rose-Viburnum-opulus-20-40cm-cell-grown.html,VIBO-PG-20/40-CG,Viburnum Opulus,Guelder Rose 20/40cm Cell grown
+Product,VIBO-PG-40/60-2L,VIBO,Guelder-Rose-Viburnum-opulus-40-60cm-2L-pot.html,VIBO-PG-40/60-2L,Viburnum Opulus,Guelder Rose 40/60cm 2L pot
+Product,VIBO-PG-60/90-2L,VIBO,Guelder-Rose-Viburnum-opulus-60-90cm-2L-pot.html,VIBO-PG-60/90-2L,Viburnum Opulus,Guelder Rose 60/90cm 2L pot
 End,Section,,,,,
 Section,Viburnum Tinus,VIBT,viburnum_tinus.html,,,
-Product,VIBT-PG-20/40-2L,VIBT,Viburnum-Tinus-Eve-Price-(Viburnum-tinus)-20-40cm-2L-pot.html,VIBT-PG-20/40-2L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 20/40cm 2L pot
-Product,VIBT-PG-40/60-2L,VIBT,Viburnum-Tinus-Eve-Price-(Viburnum-tinus)-40-60cm-2L-pot.html,VIBT-PG-40/60-2L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 40/60cm 2L pot
-Product,VIBT-PG-40/60-5L,VIBT,Viburnum-Tinus-Eve-Price-(Viburnum-tinus)-40-60cm-5L-pot.html,VIBT-PG-40/60-5L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 40/60cm 5L pot
-Product,VIBT-PG-60/90-10L,VIBT,Viburnum-Tinus-Eve-Price-(Viburnum-tinus)-60-90cm-10L-pot.html,VIBT-PG-60/90-10L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 60/90cm 10L pot
+Product,VIBT-PG-20/40-2L,VIBT,Viburnum-Tinus-Eve-Price-Viburnum-tinus-20-40cm-2L-pot.html,VIBT-PG-20/40-2L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 20/40cm 2L pot
+Product,VIBT-PG-40/60-2L,VIBT,Viburnum-Tinus-Eve-Price-Viburnum-tinus-40-60cm-2L-pot.html,VIBT-PG-40/60-2L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 40/60cm 2L pot
+Product,VIBT-PG-40/60-5L,VIBT,Viburnum-Tinus-Eve-Price-Viburnum-tinus-40-60cm-5L-pot.html,VIBT-PG-40/60-5L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 40/60cm 5L pot
+Product,VIBT-PG-60/90-10L,VIBT,Viburnum-Tinus-Eve-Price-Viburnum-tinus-60-90cm-10L-pot.html,VIBT-PG-60/90-10L,Viburnum Tinus,Viburnum Tinus 'Eve Price' 60/90cm 10L pot
 End,Section,,,,,
 Section,Weigela,WEIF,Weigela_Florida_Variegata.html,,,
-Product,WEIF-PG-40/60-2L,WEIF,Weigela-Florida-Variegata-(Weigela-Florida-Variegata)-40-60cm-2L-pot.html,WEIF-PG-40/60-2L,Weigela,Weigela Florida 'Variegata' 40/60cm 2L pot
+Product,WEIF-PG-40/60-2L,WEIF,Weigela-Florida-Variegata-Weigela-Florida-Variegata-40-60cm-2L-pot.html,WEIF-PG-40/60-2L,Weigela,Weigela Florida 'Variegata' 40/60cm 2L pot
 End,Section,,,,,
-Section,Western Red Cedar,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens).html,,,
-Product,THUJ-PG-120/150-10L,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-120-150cm-10L-pot.html,THUJ-PG-120/150-10L,Western Red Cedar,Western Red Cedar 120/150cm 10L pot
-Product,THUJ-PG-150/175-15L,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-150-175cm-15L-pot.html,THUJ-PG-150/175-15L,Western Red Cedar,Western Red Cedar 150/175cm 15L pot
-Product,THUJ-PG-40/60-2L,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-40-60cm-2L-pot.html,THUJ-PG-40/60-2L,Western Red Cedar,Western Red Cedar 40/60cm 2L pot
-Product,THUJ-PG-60/90-2L,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-60-90cm-2L-pot.html,THUJ-PG-60/90-2L,Western Red Cedar,Western Red Cedar 60/90cm 2L pot
-Product,THUJ-PG-90/120-3L,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-90-120cm-3L-pot.html,THUJ-PG-90/120-3L,Western Red Cedar,Western Red Cedar 90/120cm 3L pot
-Product,THUJ-PG-90/120-5L,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-90-120cm-5L-pot.html,THUJ-PG-90/120-5L,Western Red Cedar,Western Red Cedar 90/120cm 5L pot
-Product,THUJ-RB-100/125,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-100-125cm-Root-ball.html,THUJ-RB-100/125,Western Red Cedar,Western red cedar 100/125cm Root ball
-Product,THUJ-RB-125/150,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-125-150cm-Root-ball.html,THUJ-RB-125/150,Western Red Cedar,Western red cedar 125/150cm Root ball
-Product,THUJ-RB-150/175,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-150-175cm-Root-ball.html,THUJ-RB-150/175,Western Red Cedar,Western red cedar 150/175cm Root ball
-Product,THUJ-RB-175/200,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-175-200cm-Root-ball.html,THUJ-RB-175/200,Western Red Cedar,Western red cedar 175/200cm Root ball
-Product,THUJ-RB-200/225,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-200-225cm-Root-ball.html,THUJ-RB-200/225,Western Red Cedar,Western red cedar 200/225cm Root ball
-Product,THUJ-RB-225/250,THUJ,Western-Red-Cedar-(Thuja-plicata-Atrovirens)-225-250cm-Root-ball.html,THUJ-RB-225/250,Western Red Cedar,Western red cedar 225/250cm Root ball
+Section,Western Red Cedar,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens.html,,,
+Product,THUJ-PG-30/50-CG,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-30-50cm-cell-grown.html,THUJ-PG-30/50-CG,Western Red Cedar,Western Red Cedar 30/50cm Cell grown
+Product,THUJ-PG-120/150-10L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-120-150cm-10L-pot.html,THUJ-PG-120/150-10L,Western Red Cedar,Western Red Cedar 120/150cm 10L pot
+Product,THUJ-PG-150/175-15L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-150-175cm-15L-pot.html,THUJ-PG-150/175-15L,Western Red Cedar,Western Red Cedar 150/175cm 15L pot
+Product,THUJ-PG-40/60-2L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-40-60cm-2L-pot.html,THUJ-PG-40/60-2L,Western Red Cedar,Western Red Cedar 40/60cm 2L pot
+Product,THUJ-PG-60/90-2L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-60-90cm-2L-pot.html,THUJ-PG-60/90-2L,Western Red Cedar,Western Red Cedar 60/90cm 2L pot
+Product,THUJ-PG-90/120-3L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-90-120cm-3L-pot.html,THUJ-PG-90/120-3L,Western Red Cedar,Western Red Cedar 90/120cm 3L pot
+Product,THUJ-PG-90/120-5L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-90-120cm-5L-pot.html,THUJ-PG-90/120-5L,Western Red Cedar,Western Red Cedar 90/120cm 5L pot
+Product,THUJ-RB-100/125,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-100-125cm-Root-ball.html,THUJ-RB-100/125,Western Red Cedar,Western red cedar 100/125cm Root ball
+Product,THUJ-RB-125/150,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-125-150cm-Root-ball.html,THUJ-RB-125/150,Western Red Cedar,Western red cedar 125/150cm Root ball
+Product,THUJ-RB-150/175,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-150-175cm-Root-ball.html,THUJ-RB-150/175,Western Red Cedar,Western red cedar 150/175cm Root ball
+Product,THUJ-RB-175/200,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-175-200cm-Root-ball.html,THUJ-RB-175/200,Western Red Cedar,Western red cedar 175/200cm Root ball
+Product,THUJ-RB-200/225,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-200-225cm-Root-ball.html,THUJ-RB-200/225,Western Red Cedar,Western red cedar 200/225cm Root ball
+Product,THUJ-RB-225/250,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-225-250cm-Root-ball.html,THUJ-RB-225/250,Western Red Cedar,Western red cedar 225/250cm Root ball
 Product,THU-IH-150/175-90L,THUJ,Western-Red-Cedar-Thuja-plicata-Atrovirens-90L-150-175cm-1-Metre-trough.html,THU-IH-150/175-90L,Western Red Cedar,Western Red Cedar 90L 150/175cm 1 Metre trough
 End,Section,,,,,
 Section,Wild Cherry,PRUA,wild_cherry_hedge.html,,,
-Product,PRUA-BR-120/150,PRUA,Wild-Cherry-(Prunus-Avium)-120-150cm-bare-root.html,PRUA-BR-120/150,Wild Cherry,Wild Cherry 120/150cm bare root
-Product,PRUA-BR-150/200,PRUA,Wild-Cherry-(Prunus-Avium)-150-200cm-bare-root.html,PRUA-BR-150/200,Wild Cherry,Wild Cherry 150/200cm bare root
-Product,PRUA-BR-40/60,PRUA,Wild-Cherry-(Prunus-Avium)-40-60cm-bare-root.html,PRUA-BR-40/60,Wild Cherry,Wild Cherry 40/60cm bare root
-Product,PRUA-BR-60/90,PRUA,Wild-Cherry-(Prunus-Avium)-60-90cm-bare-root.html,PRUA-BR-60/90,Wild Cherry,Wild Cherry 60/90cm bare root
-Product,PRUA-BR-90/120,PRUA,Wild-Cherry-(Prunus-Avium)-90-120cm-bare-root.html,PRUA-BR-90/120,Wild Cherry,Wild Cherry 90/120cm bare root
-Product,PRUA-PG-40/60-2L,PRUA,Wild-Cherry-(Prunus-Avium)-40-60cm-2L-pot.html,PRUA-PG-40/60-2L,Wild Cherry,Wild Cherry 40/60cm 2L pot
+Product,PRUA-BR-120/150,PRUA,Wild-Cherry-Prunus-Avium-120-150cm-bare-root.html,PRUA-BR-120/150,Wild Cherry,Wild Cherry 120/150cm bare root
+Product,PRUA-BR-150/200,PRUA,Wild-Cherry-Prunus-Avium-150-200cm-bare-root.html,PRUA-BR-150/200,Wild Cherry,Wild Cherry 150/200cm bare root
+Product,PRUA-BR-40/60,PRUA,Wild-Cherry-Prunus-Avium-40-60cm-bare-root.html,PRUA-BR-40/60,Wild Cherry,Wild Cherry 40/60cm bare root
+Product,PRUA-BR-60/90,PRUA,Wild-Cherry-Prunus-Avium-60-90cm-bare-root.html,PRUA-BR-60/90,Wild Cherry,Wild Cherry 60/90cm bare root
+Product,PRUA-BR-90/120,PRUA,Wild-Cherry-Prunus-Avium-90-120cm-bare-root.html,PRUA-BR-90/120,Wild Cherry,Wild Cherry 90/120cm bare root
+Product,PRUA-PG-30/50-CG,PRUA,Wild-Cherry-Prunus-Avium-30-50cm-cell-grown.html,PRUA-PG-30/50-CG,Wild Cherry,Wild Cherry 30/50cm Cell grown
+Product,PRUA-PG-40/60-2L,PRUA,Wild-Cherry-Prunus-Avium-40-60cm-2L-pot.html,PRUA-PG-40/60-2L,Wild Cherry,Wild Cherry 40/60cm 2L pot
 End,Section,,,,,
 Section,Willow,SALX,willow_hedge.html,,,
-Product,SALX-BR-120/150,SALX,Willow-(Salix-alba)-120-150cm-bare-root.html,SALX-BR-120/150,Willow,Willow 120/150cm bare root
-Product,SALX-BR-40/60,SALX,Willow-(Salix-alba)-40-60cm-bare-root.html,SALX-BR-40/60,Willow,Willow 40/60cm bare root
-Product,SALX-BR-60/90,SALX,Willow-(Salix-alba)-60-90cm-bare-root.html,SALX-BR-60/90,Willow,Willow 60/90cm bare root
-Product,SALX-BR-90/120,SALX,Willow-(Salix-alba)-90-120cm-bare-root.html,SALX-BR-90/120,Willow,Willow 90/120cm bare root
+Product,SALX-BR-120/150,SALX,Willow-Salix-alba-120-150cm-bare-root.html,SALX-BR-120/150,Willow,Willow 120/150cm bare root
+Product,SALX-BR-40/60,SALX,Willow-Salix-alba-40-60cm-bare-root.html,SALX-BR-40/60,Willow,Willow 40/60cm bare root
+Product,SALX-BR-60/90,SALX,Willow-Salix-alba-60-90cm-bare-root.html,SALX-BR-60/90,Willow,Willow 60/90cm bare root
+Product,SALX-BR-90/120,SALX,Willow-Salix-alba-90-120cm-bare-root.html,SALX-BR-90/120,Willow,Willow 90/120cm bare root
 End,Section,,,,,
 Section,Yew - English,TAX,yew-hedge.html,,,
-Product,TAX-BR-20/30,TAX,English-Yew-(Taxus-baccata)-20-30cm-bare-root.html,TAX-BR-20/30,Yew - English,English Yew 20/30cm bare root
-Product,TAX-BR-30/40,TAX,English-Yew-(Taxus-baccata)-30-40cm-bare-root.html,TAX-BR-30/40,Yew - English,English Yew 30/40cm bare root
-Product,TAX-BR-40/60,TAX,English-Yew-(Taxus-baccata)-40-60cm-bare-root.html,TAX-BR-40/60,Yew - English,English Yew 40/60cm bare root
-Product,TAX-BR-60/80,TAX,English-Yew-(Taxus-baccata)-60-80cm-bare-root.html,TAX-BR-60/80,Yew - English,English Yew 60/80cm bare root
-Product,TAX-PG-120/150-15L,TAX,English-Yew-(Taxus-baccata)-120-150cm-15L-pot.html,TAX-PG-120/150-15L,Yew - English,English Yew 120/150cm 15L pot
-Product,TAX-PG-150/175-20L,TAX,English-Yew-(Taxus-baccata)-150-175cm-20L-pot.html,TAX-PG-150/175-20L,Yew - English,English Yew 150/175cm 20L pot
-Product,TAX-PG-20/40-2L,TAX,English-Yew-(Taxus-baccata)-20-40cm-2L-pot.html,TAX-PG-20/40-2L,Yew - English,English Yew 20/40cm 2L pot
-Product,TAX-PG-40/60-2L,TAX,English-Yew-(Taxus-baccata)-40-60cm-2L-pot.html,TAX-PG-40/60-2L,Yew - English,English Yew 40/60cm 2L pot
-Product,TAX-PG-60/90-2L,TAX,English-Yew-(Taxus-baccata)-60-90cm-2L-pot.html,TAX-PG-60/90-2L,Yew - English,English Yew 60/90cm 2L pot
-Product,TAX-PG-70/100-2L,TAX,English-Yew-(Taxus-baccata)-70-100cm-2L-pot.html,TAX-PG-70/100-2L,Yew - English,English Yew 70/100cm 2L pot
-Product,TAX-PG-70/100-5L,TAX,English-Yew-(Taxus-baccata)-70-100cm-5L-pot.html,TAX-PG-70/100-5L,Yew - English,English Yew 70/100cm 5L pot
-Product,TAX-PG-90/120-10L,TAX,English-Yew-(Taxus-baccata)-90-120cm-10L-pot.html,TAX-PG-90/120-10L,Yew - English,English Yew 90/120cm 10L pot
-Product,TAX-RB-100/125,TAX,English-Yew-(Taxus-baccata)-100-125cm-Root-ball.html,TAX-RB-100/125,Yew - English,English Yew 100/125cm Root ball
-Product,TAX-RB-125/150,TAX,English-Yew-(Taxus-baccata)-125-150cm-Root-ball.html,TAX-RB-125/150,Yew - English,English Yew 125/150cm Root ball
-Product,TAX-RB-150/175,TAX,English-Yew-(Taxus-baccata)-150-175cm-Root-ball.html,TAX-RB-150/175,Yew - English,English Yew 150/175cm Root ball
-Product,TAX-RB-175/200,TAX,English-Yew-(Taxus-baccata)-175-200cm-Root-ball.html,TAX-RB-175/200,Yew - English,English Yew 175/200cm Root ball
-Product,TAX-RB-200/225,TAX,English-Yew-(Taxus-baccata)-200-225cm-Root-ball.html,TAX-RB-200/225,Yew - English,English Yew 200/225cm Root ball
-Product,TAX-RB-60/80,TAX,English-Yew-(Taxus-baccata)-60-80cm-Root-ball.html,TAX-RB-60/80,Yew - English,English Yew 60/80cm Root ball
-Product,TAX-RB-80/100,TAX,English-Yew-(Taxus-baccata)-80-100cm-Root-ball.html,TAX-RB-80/100,Yew - English,English Yew 80/100cm Root ball
+Product,TAX-BR-20/30,TAX,English-Yew-Taxus-baccata-20-30cm-bare-root.html,TAX-BR-20/30,Yew - English,English Yew 20/30cm bare root
+Product,TAX-BR-30/40,TAX,English-Yew-Taxus-baccata-30-40cm-bare-root.html,TAX-BR-30/40,Yew - English,English Yew 30/40cm bare root
+Product,TAX-BR-40/60,TAX,English-Yew-Taxus-baccata-40-60cm-bare-root.html,TAX-BR-40/60,Yew - English,English Yew 40/60cm bare root
+Product,TAX-BR-60/80,TAX,English-Yew-Taxus-baccata-60-80cm-bare-root.html,TAX-BR-60/80,Yew - English,English Yew 60/80cm bare root
+Product,TAX-PG-15/30-CG,TAX,English-Yew-Taxus-baccata-15-30cm-cell-grown.html,TAX-PG-15/30-CG,Yew - English,English Yew 15/30cm Cell grown
+Product,TAX-PG-120/150-15L,TAX,English-Yew-Taxus-baccata-120-150cm-15L-pot.html,TAX-PG-120/150-15L,Yew - English,English Yew 120/150cm 15L pot
+Product,TAX-PG-150/175-20L,TAX,English-Yew-Taxus-baccata-150-175cm-20L-pot.html,TAX-PG-150/175-20L,Yew - English,English Yew 150/175cm 20L pot
+Product,TAX-PG-20/40-2L,TAX,English-Yew-Taxus-baccata-20-40cm-2L-pot.html,TAX-PG-20/40-2L,Yew - English,English Yew 20/40cm 2L pot
+Product,TAX-PG-40/60-2L,TAX,English-Yew-Taxus-baccata-40-60cm-2L-pot.html,TAX-PG-40/60-2L,Yew - English,English Yew 40/60cm 2L pot
+Product,TAX-PG-60/90-2L,TAX,English-Yew-Taxus-baccata-60-90cm-2L-pot.html,TAX-PG-60/90-2L,Yew - English,English Yew 60/90cm 2L pot
+Product,TAX-PG-70/100-2L,TAX,English-Yew-Taxus-baccata-70-100cm-2L-pot.html,TAX-PG-70/100-2L,Yew - English,English Yew 70/100cm 2L pot
+Product,TAX-PG-70/100-5L,TAX,English-Yew-Taxus-baccata-70-100cm-5L-pot.html,TAX-PG-70/100-5L,Yew - English,English Yew 70/100cm 5L pot
+Product,TAX-PG-90/120-10L,TAX,English-Yew-Taxus-baccata-90-120cm-10L-pot.html,TAX-PG-90/120-10L,Yew - English,English Yew 90/120cm 10L pot
+Product,TAX-RB-100/125,TAX,English-Yew-Taxus-baccata-100-125cm-Root-ball.html,TAX-RB-100/125,Yew - English,English Yew 100/125cm Root ball
+Product,TAX-RB-125/150,TAX,English-Yew-Taxus-baccata-125-150cm-Root-ball.html,TAX-RB-125/150,Yew - English,English Yew 125/150cm Root ball
+Product,TAX-RB-150/175,TAX,English-Yew-Taxus-baccata-150-175cm-Root-ball.html,TAX-RB-150/175,Yew - English,English Yew 150/175cm Root ball
+Product,TAX-RB-175/200,TAX,English-Yew-Taxus-baccata-175-200cm-Root-ball.html,TAX-RB-175/200,Yew - English,English Yew 175/200cm Root ball
+Product,TAX-RB-200/225,TAX,English-Yew-Taxus-baccata-200-225cm-Root-ball.html,TAX-RB-200/225,Yew - English,English Yew 200/225cm Root ball
+Product,TAX-RB-60/80,TAX,English-Yew-Taxus-baccata-60-80cm-Root-ball.html,TAX-RB-60/80,Yew - English,English Yew 60/80cm Root ball
+Product,TAX-RB-80/100,TAX,English-Yew-Taxus-baccata-80-100cm-Root-ball.html,TAX-RB-80/100,Yew - English,English Yew 80/100cm Root ball
 Product,TAX-IH-80/100-40L,TAX,English-Yew-Taxus-baccata-40L-80-100cm-1-Metre-trough.html,TAX-IH-80/100-40L,Yew - English,English Yew 40L 80/100cm 1 Metre trough
 Product,TAX-IH-150/175-90L,TAX,English-Yew-Taxus-baccata-90L-150-175cm-1-Metre-trough.html,TAX-IH-150/175-90L,Yew - English,English Yew 90L 150/175cm 1 Metre trough
-End,Section
-End,Section
+End,Section,,,,,
+End,Section,,,,,
 Section,Garden Solutions,,,,,
 Section,National Trust Hedging Packs,,,,,
 Section,Bee and Butterfly Native Hedgerow Packs,,,,,
-End,Section
+End,Section,,,,,
 Section,Bird Friendly Native Hedgerow Packs,,,,,
-End,Section
+End,Section,,,,,
 Section,Traditional Native Hedgerow Packs,,,,,
 Product,NTTN-PB-40/60-500,NTTN,national-trust-test-url.html,NTTN-PB-40/60-500,Traditional Native Hedgerow Packs,"National Trust, Traditional Native Disconted Pack of 1000 mixed bare roots"
-End,Section
+End,Section,,,,,
 Section,Flowering Native Hedgerow Packs,,,,,
-End,Section
-End,Section
-End,Section
+End,Section,,,,,
+End,Section,,,,,
+End,Section,,,,,
