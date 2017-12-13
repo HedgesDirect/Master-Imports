@@ -1,0 +1,271 @@
+Version:16,,,,,,,,,,,,,,,,,,,,,,,,
+Header:Product,Product Reference,Short Description,Price,Pricing Model,Assembly Product,,,,,,,,,,,,,,,,,,,
+Header:Component,Component Name,Price,Quantity,Name HTML,Is Optional,Selected by default,Associated Product Reference,Uses Associated Product Prices,Uses Associated Product Name,Uses Associated Product Tax,Component As Separate Order Line,Include No Choice Label,No Choice Label Text,IsDeleted,Content Category,Use Associated Product Shipping,Include Grid of Choice Details,Include Prices,Hide Out of Stock Options,PermutationLayout,PermutationPrice,ComponentAttributeList,AttributeList,ComponentLayout
+Product,BUXS-BRPK-20/30-50,Box 20/30cm bare root x 50,9452,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-20/30,0,50,BUXS-BR-20/30,0,1,BUXS-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK-20/30-100,Box 20/30cm bare root x 100,17910,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-20/30,0,100,BUXS-BR-20/30,0,1,BUXS-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK20/30-250,Box 20/30cm bare root x 250,39800,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-20/30,0,250,BUXS-BR-20/30,0,1,BUXS-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK20/30-500,Box 20/30cm bare root x 500,69650,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-20/30,0,500,BUXS-BR-20/30,0,1,BUXS-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK30/40-50,Box 30/40cm bare root x 50,11799,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-30/40,0,50,BUXS-BR-30/40,0,1,BUXS-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK30/40-100,Box 30/40cm bare root x 100,22399,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-30/40,0,100,BUXS-BR-30/40,0,1,BUXS-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK30/40-250,Box 30/40cm bare root x 250,49799,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-30/40,0,250,BUXS-BR-30/40,0,1,BUXS-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK30/40-500,Box 30/40cm bare root x 500,87149,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-30/40,0,500,BUXS-BR-30/40,0,1,BUXS-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK40/50-50,Box 40/50cm bare root x 50,16549,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-40/50,0,50,BUXS-BR-40/50,0,1,BUXS-BR-40/50,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK40/50-100,Box 40/50cm bare root x 100,31399,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-40/50,0,100,BUXS-BR-40/50,0,1,BUXS-BR-40/50,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK40/50-250,Box 40/50cm bare root x 250,69799,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-40/50,0,250,BUXS-BR-40/50,0,1,BUXS-BR-40/50,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,BUXS-BRPK40/50-500,Box 40/50cm bare root x 500,122149,0,1,,,,,,,,,,,,,,,,,,,
+Component,BUXS-BR-40/50,0,500,BUXS-BR-40/50,0,1,BUXS-BR-40/50,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK40/60-100,Hornbeam 40/60cm bare root x 100,7499,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-40/60,0,100,CARP-BR-40/60,0,1,CARP-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK40/60-250,Hornbeam 40/60cm bare root x 250,17749,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-40/60,0,250,CARP-BR-40/60,0,1,CARP-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK40/60-500,Hornbeam 40/60cm bare root x 500,31599,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-40/60,0,500,CARP-BR-40/60,0,1,CARP-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK60/90-100,Hornbeam 60/90cm bare root x 100,93099,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-60/90,0,100,CARP-BR-60/90,0,1,CARP-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK60/90-250,Hornbeam 60/90cm bare root x 250,22249,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-60/90,0,250,CARP-BR-60/90,0,1,CARP-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK60/90-500,Hornbeam 60/90cm bare root x 500,39599,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-60/90,0,500,CARP-BR-60/90,0,1,CARP-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK90/120-100,Hornbeam 90/120cm bare root x 100,15999,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-90/120,0,100,CARP-BR-90/120,0,1,CARP-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK90/120-250,Hornbeam 90/120cm bare root x 250,37999,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-90/120,0,250,CARP-BR-90/120,0,1,CARP-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK90/120-500,Hornbeam 90/120cm bare root x 500,67599,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-90/120,0,500,CARP-BR-90/120,0,1,CARP-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK120/150-50,Hornbeam 120/150cm bare root x 50,12099,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-120/150,0,50,CARP-BR-120/150,0,1,CARP-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK120/150-100,Hornbeam 120/150cm bare root x 100,21499,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-120/150,0,100,CARP-BR-120/150,0,1,CARP-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK120/150-250,Hornbeam 120/150cm bare root x 250,50399,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-120/150,0,250,CARP-BR-120/150,0,1,CARP-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CARP-BRPK120/150-500,Hornbeam 120/150cm bare root x 500,87399,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-120/150,0,500,CARP-BR-120/150,0,1,CARP-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CAR-BRPK-150/180-50,Hornbeam 150/180cm bare root x 50,20199,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-150/180,0,50,CARP-BR-150/180,0,1,CARP-BR-150/180,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CAR-BRPK-150/180-100,Hornbeam 150/180cm bare root x 100,35899,0,1,,,,,,,,,,,,,,,,,,,
+Component,CARP-BR-150/180,0,100,CARP-BR-150/180,0,1,CARP-BR-150/180,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK40/60-100,Hawthorn 40/60cm bare root x 100,8449,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-40/60,0,100,CRA-BR-40/60,0,1,CRA-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK40/60-250,Hawthorn 40/60cm bare root x 250,22199,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-40/60,0,250,CRA-BR-40/60,0,1,CRA-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK40/60-500,Hawthorn 40/60cm bare root x 500,33799,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-40/60,0,500,CRA-BR-40/60,0,1,CRA-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK40/60-1000,Hawthorn 40/60cm bare root x 100,66599,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-40/60,0,1000,CRA-BR-40/60,0,1,CRA-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK60/90-100,Hawthorn 60/90cm bare root x 100,9399,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-60/90,0,1000,CRA-BR-60/90,0,1,CRA-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK60/90-250,Hawthorn 60/90cm bare root x 250,22249,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-60/90,0,250,CRA-BR-60/90,0,1,CRA-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK60/90-500,Hawthorn 60/90cm bare root x 500,48999,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-60/90,0,500,CRA-BR-60/90,0,1,CRA-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK60/90-1000,Hawthorn 60/90cm bare root x 1000,74299,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-60/90,0,1000,CRA-BR-60/90,0,1,CRA-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK90/120-100,Hawthorn 90/120cm bare root x 100,16899,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-90/120,0,100,CRA-BR-90/120,0,1,CRA-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK90/120-250,Hawthorn 90/120cm bare root x 250,33499,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-90/120,0,250,CRA-BR-90/120,0,1,CRA-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK90/120-500,Hawthorn 90/120cm bare root x 500,63299,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-90/120,0,500,CRA-BR-90/120,0,1,CRA-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK90/120-1000,Hawthorn 90/120cm bare root x 1000,111749,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-90/120,0,1000,CRA-BR-90/120,0,1,CRA-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK120/150-50,Hawthorn 120/150cm bare root x 50,11799,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-120/150,0,50,CRA-BR-120/150,0,1,CRA-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK120/150-100,Hawthorn 120/150cm bare root x 100,22399,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-120/150,0,100,CRA-BR-120/150,0,1,CRA-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK120/150-250,Hawthorn 120/150cm bare root x 250,49799,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-120/150,0,250,CRA-BR-120/150,0,1,CRA-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK120/150-500,Hawthorn 120/150cm bare root x 500,87149,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-120/150,0,500,CRA-BR-120/150,0,1,CRA-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK120/150-1000,Hawthorn 120/150cm bare root x 1000,149399,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-120/150,0,1000,CRA-BR-120/150,0,1,CRA-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK150/175-50,Hawthorn 150/175cm bare root x 50,18949,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-150/175,0,50,CRA-BR-150/175,0,1,CRA-BR-150/175,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,CRA-BRPK150/175-100,Hawthorn 150/175cm bare root x 100,35899,0,1,,,,,,,,,,,,,,,,,,,
+Component,CRA-BR-150/175,0,100,CRA-BR-150/175,0,1,CRA-BR-150/175,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK40/60-100,Beech 40/60cm bare root x 100,7499,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-40/60,0,100,FAGS-BR-40/60,0,1,FAGS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK40/60-250,Beech 40/60cm bare root x 250,17699,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-40/60,0,250,FAGS-BR-40/60,0,1,FAGS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK40/60-500,Beech 40/60cm bare root x 500,33499,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-40/60,0,500,FAGS-BR-40/60,0,1,FAGS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK60/90-50,Beech 60/90cm bare root x 50,5999,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-60/90,0,50,FAGS-BR-60/90,0,1,FAGS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK60/90-100,Beech 60/90cm bare root x 100,11499,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-60/90,0,100,FAGS-BR-60/90,0,1,FAGS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK60/90-250,Beech 60/90cm bare root x 250,26999,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-60/90,0,250,FAGS-BR-60/90,0,1,FAGS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK60/90-500,Beech 60/90cm bare root x 500,47999,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-60/90,0,500,FAGS-BR-60/90,0,1,FAGS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK90/120-50,Beech 90/120cm bare root x 50,9399,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-90/120,0,50,FAGS-BR-90/120,0,1,FAGS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK90/120-100,Beech 90/120cm bare root x 100,17899,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-90/120,0,100,FAGS-BR-90/120,0,1,FAGS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK90/120-250,Beech 90/120cm bare root x 250,41999,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-90/120,0,250,FAGS-BR-90/120,0,1,FAGS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK90/120-500,Beech 90/120cm bare root x 500,74499,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-90/120,0,500,FAGS-BR-90/120,0,1,FAGS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK120/150-50,Beech 120/150cm bare root x 50,14199,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-120/150,0,50,FAGS-BR-120/150,0,1,FAGS-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK120/150-100,Beech 120/150cm bare root x 100,26899,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-120/150,0,100,FAGS-BR-120/150,0,1,FAGS-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK120/150-250,Beech 120/150cm bare root x 250,63499,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-120/150,0,250,FAGS-BR-120/150,0,1,FAGS-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK120/150-500,Beech 120/150cm bare root x 500,112099,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-120/150,0,500,FAGS-BR-120/150,0,1,FAGS-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK150/180-50,Beech 150/180cm bare root x 50,23299,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-150/180,0,50,FAGS-BR-150/180,0,1,FAGS-BR-150/180,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK150/180-100,Beech 150/180cm bare root x 100,41099,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-150/180,0,100,FAGS-BR-150/180,0,1,FAGS-BR-150/180,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK180/200-50,Beech 180/200cm bare root x 50,37899,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-180/200,0,50,FAGS-BR-180/200,0,1,FAGS-BR-180/200,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,FAGS-BRPK180/200-100,Beech 180/200cm bare root x 100,59899,0,1,,,,,,,,,,,,,,,,,,,
+Component,FAGS-BR-180/200,0,100,FAGS-BR-180/200,0,1,FAGS-BR-180/200,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,GRIS-BRPK40/60-50,Griselinia littoralis 40/60cm bare root x 50,14199,0,1,,,,,,,,,,,,,,,,,,,
+Component,GRIS-BR-40/60,0,50,GRIS-BR-40/60,0,1,GRIS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,GRIS-BRPK40/60-100,Griselinia littoralis 40/60cm bare root x 100,26899,0,1,,,,,,,,,,,,,,,,,,,
+Component,GRIS-BR-40/60,0,100,GRIS-BR-40/60,0,1,GRIS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,GRIS-BRPK40/60-250,Griselinia littoralis 40/60cm bare root x 250,59799,0,1,,,,,,,,,,,,,,,,,,,
+Component,GRIS-BR-40/60,0,250,GRIS-BR-40/60,0,1,GRIS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,GRIS-BRPK60/90-50,Griselinia littoralis 60/90cm bare root x 50,16549,0,1,,,,,,,,,,,,,,,,,,,
+Component,GRIS-BR-60/90,0,50,GRIS-BR-60/90,0,1,GRIS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,GRIS-BRPK60/90-100,Griselinia littoralis 60/90cm bare root x 100,31399,0,1,,,,,,,,,,,,,,,,,,,
+Component,GRIS-BR-60/90,0,100,GRIS-BR-60/90,0,1,GRIS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,GRIS-BRPK60/90-250,Griselinia littoralis 60/90cm bare root x 250,69799,0,1,,,,,,,,,,,,,,,,,,,
+Component,GRIS-BR-60/90,0,250,GRIS-BR-60/90,0,1,GRIS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,ILE-BRPK20/30-50,English Holly 20/30cm bare root x 50,9449,0,1,,,,,,,,,,,,,,,,,,,
+Component,ILE-BR-20/30,0,50,ILE-BR-20/30,0,1,ILE-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,ILE-BRPK20/30-100,English Holly 20/30cm bare root x 100,17899,0,1,,,,,,,,,,,,,,,,,,,
+Component,ILE-BR-20/30,0,100,ILE-BR-20/30,0,1,ILE-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,ILE-BRPK20/30-250,English Holly 20/30cm bare root x 250,41999,0,1,,,,,,,,,,,,,,,,,,,
+Component,ILE-BR-20/30,0,250,ILE-BR-20/30,0,1,ILE-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,ILE-BRPK40/60-50,English Holly 40/60cm bare root x 50,14199,0,1,,,,,,,,,,,,,,,,,,,
+Component,ILE-BR-40/60,0,50,ILE-BR-40/60,0,1,ILE-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,ILE-BRPK40/60-100,English Holly 40/60cm bare root x 100,26899,0,1,,,,,,,,,,,,,,,,,,,
+Component,ILE-BR-40/60,0,100,ILE-BR-40/60,0,1,ILE-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,ILE-BRPK40/60-250,English Holly 40/60cm bare root x 250,63499,0,1,,,,,,,,,,,,,,,,,,,
+Component,ILE-BR-40/60,0,250,ILE-BR-40/60,0,1,ILE-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK30/40-100,Common Privet 30/40cm bare root x 100,7499,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-30/40,0,100,LIGO-BR-30/40,0,1,LIGO-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK30/40-250,Common Privet 30/40cm bare root x 250,17749,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-30/40,0,250,LIGO-BR-30/40,0,1,LIGO-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK30/40-500,Common Privet 30/40cm bare root x 500,31599,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-30/40,0,500,LIGO-BR-30/40,0,1,LIGO-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK40/60-100,Common Privet 40/60cm bare root x 100,9399,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-40/60,0,100,LIGO-BR-40/60,0,1,LIGO-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK40/60-250,Common Privet 40/60cm bare root x 250,22249,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-40/60,0,250,LIGO-BR-40/60,0,1,LIGO-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK40/60-500,Common Privet 40/60cm bare root x 500,39599,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-40/60,0,500,LIGO-BR-40/60,0,1,LIGO-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK60/90-100,Common Privet 60/90cm bare root x 100,14149,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-60/90,0,100,LIGO-BR-60/90,0,1,LIGO-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK60/90-250,Common Privet 60/90cm bare root x 250,33499,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-60/90,0,250,LIGO-BR-60/90,0,1,LIGO-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK60/90-500,Common Privet 60/90cm bare root x 500,59599,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-60/90,0,500,LIGO-BR-60/90,0,1,LIGO-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK90/120-100,Common Privet 90/120cm bare root x 100,17899,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-90/120,0,100,LIGO-BR-90/120,0,1,LIGO-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK90/120-250,Common Privet 90/120cm bare root x 250,44249,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-90/120,0,250,LIGO-BR-90/120,0,1,LIGO-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK90/120-500,Common Privet 90/120cm bare root x 500,79599,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-90/120,0,500,LIGO-BR-90/120,0,1,LIGO-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK120/150-100,Common Privet 120/150cm bare root x 100,23699,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-120/150,0,100,LIGO-BR-120/150,0,1,LIGO-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK120/150-250,Common Privet 120/150cm bare root x 250,55799,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-120/150,0,250,LIGO-BR-120/150,0,1,LIGO-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,LIGO-BRPK120/150-500,Common Privet 120/150cm bare root x 500,104599,0,1,,,,,,,,,,,,,,,,,,,
+Component,LIGO-BR-120/150,0,500,LIGO-BR-120/150,0,1,LIGO-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK30/40-50,Cherry laurel 30/40cm bare root x 50,9449,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-30/40,0,500,PRLR-BR-30/40,0,1,PRLR-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK30/40-100,Cherry laurel 30/40cm bare root x 100,17899,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-30/40,0,100,PRLR-BR-30/40,0,1,PRLR-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK30/40-250,Cherry laurel 30/40cm bare root x 250,39799,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-30/40,0,250,PRLR-BR-30/40,0,1,PRLR-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK30/40-500,Cherry laurel 30/40cm bare root x 500,74599,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-30/40,0,500,PRLR-BR-30/40,0,1,PRLR-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK40/60-50,Cherry laurel 40/60cm bare root x 50,11799,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-40/60,0,50,PRLR-BR-40/60,0,1,PRLR-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK40/60-100,Cherry laurel 40/60cm bare root x 100,21149,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-40/60,0,100,PRLR-BR-40/60,0,1,PRLR-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK40/60-250,Cherry laurel 40/60cm bare root x 250,46649,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-40/60,0,250,PRLR-BR-40/60,0,1,PRLR-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK40/60-500,Cherry laurel 40/60cm bare root x 500,87149,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-40/60,0,500,PRLR-BR-40/60,0,1,PRLR-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK50/80-50,Cherry laurel 50/80cm bare root x 50,14199,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-50/80,0,50,PRLR-BR-50/80,0,1,PRLR-BR-50/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK50/80-100,Cherry laurel 50/80cm bare root x 100,25399,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-50/80,0,100,PRLR-BR-50/80,0,1,PRLR-BR-50/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK50/80-250,Cherry laurel 50/80cm bare root x 250,59799,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-50/80,0,250,PRLR-BR-50/80,0,1,PRLR-BR-50/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK50/80-500,Cherry laurel 50/80cm bare root x 500,97149,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-50/80,0,500,PRLR-BR-50/80,0,1,PRLR-BR-50/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK80/100-50,Cherry laurel 80/100cm bare root x 50,21199,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-80/100,0,50,PRLR-BR-80/100,0,1,PRLR-BR-80/100,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK80/100-100,Cherry laurel 80/100cm bare root x 100,39899,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-80/100,0,100,PRLR-BR-80/100,0,1,PRLR-BR-80/100,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRLR-BRPK80/100-250,Cherry laurel 80/100cm bare root x 250,93499,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRLR-BR-80/100,0,250,PRLR-BR-80/100,0,1,PRLR-BR-80/100,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK40/60-100,Blackthorn 40/60cm bare root x 100,7499,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-40/60,0,100,PRUS-BR-40/60,0,1,PRUS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK40/60-250,Blackthorn 40/60cm bare root x 250,17749,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-40/60,0,250,PRUS-BR-40/60,0,1,PRUS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK40/60-500,Blackthorn 40/60cm bare root x 500,31599,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-40/60,0,500,PRUS-BR-40/60,0,1,PRUS-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK60/90-100,Blackthorn 60/90cm bare root x 100,9399,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-60/90,0,500,PRUS-BR-60/90,0,1,PRUS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK60/90-250,Blackthorn 60/90cm bare root x 250,22249,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-60/90,0,250,PRUS-BR-60/90,0,1,PRUS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK60/90-500,Blackthorn 60/90cm bare root x 500,39599,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-60/90,0,500,PRUS-BR-60/90,0,1,PRUS-BR-60/90,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK90/120-100,Blackthorn 90/120cm bare root x 100,13999,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-90/120,0,100,PRUS-BR-90/120,0,1,PRUS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK90/120-250,Blackthorn 90/120cm bare root x 250,33499,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-90/120,0,250,PRUS-BR-90/120,0,1,PRUS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK90/120-500,Blackthorn 90/120cm bare root x 500,59599,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-90/120,0,500,PRUS-BR-90/120,0,1,PRUS-BR-90/120,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK120/150-100,Blackthorn 120/150cm bare root x 100,18899,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-120/150,0,100,PRUS-BR-120/150,0,1,PRUS-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,PRUS-BRPK120/150-250,Blackthorn 120/150cm bare root x 250,41999,0,1,,,,,,,,,,,,,,,,,,,
+Component,PRUS-BR-120/150,0,250,PRUS-BR-120/150,0,1,PRUS-BR-120/150,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK20/30-50,English Yew 20/30cm bare root x 50,9449,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-20/30,0,50,TAX-BR-20/30,0,1,TAX-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK20/30-100,English Yew 20/30cm bare root x 100,17899,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-20/30,0,100,TAX-BR-20/30,0,1,TAX-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK20/30-250,English Yew 20/30cm bare root x 250,39799,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-20/30,0,250,TAX-BR-20/30,0,1,TAX-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK20/30-500,English Yew 20/30cm bare root x 500,69649,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-20/30,0,500,TAX-BR-20/30,0,1,TAX-BR-20/30,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK30/40-50,English Yew 30/40cm bare root x 50,11799,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-30/40,0,50,TAX-BR-30/40,0,1,TAX-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK30/40-100,English Yew 30/40cm bare root x 100,22399,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-30/40,0,100,TAX-BR-30/40,0,1,TAX-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK30/40-250,English Yew 30/40cm bare root x 250,49799,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-30/40,0,250,TAX-BR-30/40,0,1,TAX-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK30/40-500,English Yew 30/40cm bare root x 500,87149,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-30/40,0,500,TAX-BR-30/40,0,1,TAX-BR-30/40,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK40/60-50,English Yew 40/60cm bare root x 50,15099,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-40/60,0,50,TAX-BR-40/60,0,1,TAX-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK40/60-100,English Yew 40/60cm bare root x 100,28699,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-40/60,0,100,TAX-BR-40/60,0,1,TAX-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK40/60-250,English Yew 40/60cm bare root x 250,63799,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-40/60,0,250,TAX-BR-40/60,0,1,TAX-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK40/60-500,English Yew 40/60cm bare root x 500,103599,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-40/60,0,500,TAX-BR-40/60,0,1,TAX-BR-40/60,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK60/80-50,English Yew 60/80cm bare root x 50,22449,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-60/80,0,50,TAX-BR-60/80,0,1,TAX-BR-60/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK60/80-100,English Yew 60/80cm bare root x 100,39899,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-60/80,0,100,TAX-BR-60/80,0,1,TAX-BR-60/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK60/80-250,English Yew 60/80cm bare root x 250,93499,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-60/80,0,250,TAX-BR-60/80,0,1,TAX-BR-60/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
+Product,TAX-BRPK60/80-500,English Yew 60/80cm bare root x 500,162099,0,1,,,,,,,,,,,,,,,,,,,
+Component,TAX-BR-60/80,0,500,TAX-BR-60/80,0,1,TAX-BR-60/80,0,0,0,0,0,,0,Standard,0,0,0,0,__UseParent__,__UseParent__,__UseParent__,__UseParent__,__UseParent__
